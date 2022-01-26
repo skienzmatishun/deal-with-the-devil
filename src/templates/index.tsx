@@ -106,9 +106,11 @@ const IndexPage: React.FC<IndexProps> = props => {
         <div style={{display:"flex"}}>
           <div style={{minWidth:"40%",padding:"2rem", margin:"2rem"}}>
           
-            <p>Ask yourself, how can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
-            <p>No blood, no dna, no witnesses.  5 alibi witnesses, no fingerprints, no fiver, no weapon, no ballistics, no justice</p>
-            <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.  No timeline, two medical examiner reports that dispute state's cause of death.</p>
+            <p>Ask yourself—</p><p> How can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
+            <p>No blood, no DNA, no witnesses?</p>
+            <p>5 alibi witnesses, no fingerprints, no fiber, no weapon, no ballistics— no justice.</p>
+            <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.</p>
+            <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
             </div>
             <div style={{width:"40%", minWidth:"300px"}}>
 <img style={{padding:"2rem", margin:"2rem"}} src={lawrence} alt="Murray Bubba Lawrence" />
