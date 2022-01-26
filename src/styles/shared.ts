@@ -239,7 +239,7 @@ export const ResponsiveHeaderBackground = styled.div<{ backgroundImage?: string 
     padding-top: 0;
     padding-bottom: 0;
     /* color: var(--darkgrey); */
-    color: ${colors.lightgrey};
+    color: ${colors.darkgrey};
     background: #fff;
     opacity: 1;
 

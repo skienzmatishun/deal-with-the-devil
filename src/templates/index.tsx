@@ -102,11 +102,15 @@ const IndexPage: React.FC<IndexProps> = props => {
             </SiteHeaderContent>
             </div>
         </div>
-        <div style={{padding:"1rem", margin:"1rem"}}>
-        <h3>Mission Statement </h3>
+        <div css={inner}>
+          <h3>Mission Statement </h3>
             <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
-          </div>
-        <main id="site-main" css={[SiteMain, outer]}>
+          
+            <p>Ask yourself, how can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
+            <p>No blood, no dna, no witnesses.  5 alibi witnesses, no fingerprints, no fiver, no weapon, no ballistics, no justice</p>
+            <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.  No timeline, two medical examiner reports that dispute state's cause of death.</p>
+            </div>
+          <main id="site-main" css={[SiteMain, outer]}>
           <div css={[inner, Posts]}>
             <div css={[PostFeed]}>
               {props.data.allMarkdownRemark.edges.map((post, index) =>
