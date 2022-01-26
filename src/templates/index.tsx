@@ -4,7 +4,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 
 import { css } from '@emotion/react';
-
+import lawrence from '../content/img/lawrence.jpg';
 import { Footer } from '../components/Footer';
 import SiteNav from '../components/header/SiteNav';
 import Pagination from '../components/Pagination';
@@ -103,12 +103,20 @@ const IndexPage: React.FC<IndexProps> = props => {
             </div>
         </div>
         <div css={inner}>
-          <h3>Mission Statement </h3>
-            <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
+        <div style={{display:"flex"}}>
+          <div style={{minWidth:"40%",padding:"2rem", margin:"2rem"}}>
           
             <p>Ask yourself, how can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
             <p>No blood, no dna, no witnesses.  5 alibi witnesses, no fingerprints, no fiver, no weapon, no ballistics, no justice</p>
             <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.  No timeline, two medical examiner reports that dispute state's cause of death.</p>
+            </div>
+            <div style={{width:"40%", minWidth:"300px"}}>
+<img style={{padding:"2rem", margin:"2rem"}} src={lawrence} alt="Murray Bubba Lawrence" />
+              </div>
+            </div>
+
+          <h3>Mission Statement </h3>
+            <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
             </div>
           <main id="site-main" css={[SiteMain, outer]}>
           <div css={[inner, Posts]}>
