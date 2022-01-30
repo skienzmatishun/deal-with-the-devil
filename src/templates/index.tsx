@@ -112,7 +112,7 @@ const IndexPage: React.FC<IndexProps> = props => {
             <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.</p>
             <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
             </div>
-            <div style={{width:"40%", minWidth:"300px", background:"#c9b79f"}} >
+            <div style={{width:"40%", minWidth:"300px", background:"#c9b79f", marginTop:"2rem"}} >
 <img src={lawrence} alt="Murray Bubba Lawrence" />
 <div style={{color:"black", padding:"2rem"}}>
 <p>Murray Bubba Lawrence</p>
@@ -129,27 +129,7 @@ const IndexPage: React.FC<IndexProps> = props => {
             <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
             </div>
           <main id="site-main" css={[SiteMain, outer]}>
-          <div css={[inner, Posts]}>
-            <div css={[PostFeed]}>
-              {props.data.allMarkdownRemark.edges.map((post, index) =>
-                // filter out drafts in production
-                (
-                  (post.node.frontmatter.draft !== true
-                    || process.env.NODE_ENV !== 'production') && (
-                    <PostCard key={post.node.fields.slug} post={post.node} large={index === 0} />
-                  )
-                ),
-              )}
-            </div>
-          </div>
         </main>
-        {props.children}
-        {props.pageContext.numPages > 1 && (
-          <Pagination
-            currentPage={props.pageContext.currentPage}
-            numPages={props.pageContext.numPages}
-          />
-        )}
         <Footer />
       </Wrapper>
     </IndexLayout>
