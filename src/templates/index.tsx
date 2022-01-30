@@ -112,8 +112,16 @@ const IndexPage: React.FC<IndexProps> = props => {
             <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.</p>
             <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
             </div>
-            <div style={{width:"40%", minWidth:"300px"}}>
-<img style={{padding:"2rem", margin:"2rem"}} src={lawrence} alt="Murray Bubba Lawrence" />
+            <div style={{width:"40%", minWidth:"300px", background:"#c9b79f"}} >
+<img src={lawrence} alt="Murray Bubba Lawrence" />
+<div style={{color:"black", padding:"2rem"}}>
+<p>Murray Bubba Lawrence</p>
+<p>AIS# 00241380</p>
+<p>William C Holman</p>
+<p>Correction Facility</p>
+<p>1206 Ross Rd</p>
+<p>Atmore, AL 36502</p>
+</div>
               </div>
             </div>
 
