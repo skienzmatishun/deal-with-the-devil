@@ -115,12 +115,14 @@ const IndexPage: React.FC<IndexProps> = props => {
             <div style={{width:"40%", minWidth:"300px", background:"#c9b79f", marginTop:"2rem"}} >
 <img src={lawrence} alt="Murray Bubba Lawrence" />
 <div style={{color:"black", padding:"2rem"}}>
-<p>Murray Bubba Lawrence</p>
-<p>AIS# 00241380</p>
-<p>William C Holman</p>
-<p>Correction Facility</p>
-<p>1206 Ross Rd</p>
-<p>Atmore, AL 36502</p>
+<ul style={{listStyle:"none"}}>
+<li>Murray Bubba Lawrence</li>
+<li>AIS# 00241380</li>
+<li>William C Holman</li>
+<li>Correction Facility</li>
+<li>1206 Ross Rd</li>
+<li>Atmore, AL 36502</li>
+</ul>
 </div>
               </div>
             </div>
