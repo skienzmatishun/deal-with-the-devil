@@ -4,7 +4,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 
 import { css } from '@emotion/react';
-import lawrence from '../content/img/lawrence.jpg';
+
 import { Footer } from '../components/Footer';
 import SiteNav from '../components/header/SiteNav';
 import Pagination from '../components/Pagination';
@@ -25,6 +25,7 @@ import {
 } from '../styles/shared';
 import config from '../website-config';
 import { PageContext } from './post';
+import lawrence from '../content/img/lawrence.jpg';
 
 export interface IndexProps {
   pageContext: {
@@ -88,22 +89,26 @@ const IndexPage: React.FC<IndexProps> = props => {
             <SiteNav isHome />
             <SiteHeaderContent className="site-header-content">
               <SiteTitle className="site-title">
-                {props.data.logo ? (
-                  <img
-                    style={{ maxHeight: '155px' }}
-                    src={getSrc(props.data.logo)}
-                    alt={config.title}
-                  />
-                ) : (
-                  config.title
-                )}
+                  {config.title}
+                
               </SiteTitle>
               <SiteDescription>{config.description}</SiteDescription>
             </SiteHeaderContent>
-            </div>
+          </div>
         </div>
         <div css={inner}>
         <div style={{display:"flex"}}>
+          <div style={{minWidth:"40%",padding:"2rem", margin:"2rem"}}>
+          
+            <p>Ask yourself—</p><p> How can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
+            <p>No blood, no DNA, no witnesses?</p>
+            <p>5 alibi witnesses, no fingerprints, no fiber, no weapon, no ballistics— no justice.</p>
+            <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.</p>
+            <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
+            </div>
+            <div style={{width:"40%", minWidth:"300px", height:"500px"}}>
+<img style={{padding:"2rem", margin:"2rem"}} src={lawrence} alt="Murray Bubba Lawrence" />
+<div style={{display:"flex"}}>
           <div style={{minWidth:"40%",padding:"2rem", margin:"2rem"}}>
           
             <p>Ask yourself—</p><p> How can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
@@ -123,15 +128,36 @@ const IndexPage: React.FC<IndexProps> = props => {
 <li>1206 Ross Rd</li>
 <li>Atmore, AL 36502</li>
 </ul>
-</div>
               </div>
             </div>
-
+            </div>
+</div>
           <h3>Mission Statement </h3>
             <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
             </div>
-          <main id="site-main" css={[SiteMain, outer]}>
+            </div>
+        <main id="site-main" css={[SiteMain, outer]}>
+          <div css={[inner, Posts]}>
+            <div css={[PostFeed]}>
+              {props.data.allMarkdownRemark.edges.map((post, index) =>
+                // filter out drafts in production
+                (
+                  (post.node.frontmatter.draft !== true
+                    || process.env.NODE_ENV !== 'production') && (
+                    <PostCard key={post.node.fields.slug} post={post.node} large={index === 0} />
+                  )
+                ),
+              )}
+            </div>
+          </div>
         </main>
+        {props.children}
+        {props.pageContext.numPages > 1 && (
+          <Pagination
+            currentPage={props.pageContext.currentPage}
+            numPages={props.pageContext.numPages}
+          />
+        )}
         <Footer />
       </Wrapper>
     </IndexLayout>
@@ -145,7 +171,7 @@ export const pageQuery = graphql`
         gatsbyImageData(layout: FIXED)
       }
     }
-    header: file(relativePath: { eq: "img/blog-cover.jpg" }) {
+    header: file(relativePath: { eq: "img/blog-cover.png" }) {
       childImageSharp {
         gatsbyImageData(width: 2000, quality: 100, layout: FIXED)
       }

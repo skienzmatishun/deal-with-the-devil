@@ -475,7 +475,7 @@ export const query = graphql`query ($slug: String, $primaryTag: String) {
     }
   }
   relatedPosts: allMarkdownRemark(
-    filter: {frontmatter: {tags: {in: [$primaryTag]}, draft: {ne: true}}}
+    filter: {frontmatter: {tags: {in: [$primaryTag]},}
     limit: 5
     sort: {fields: [frontmatter___date], order: DESC}
   ) {
