@@ -199,26 +199,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
                   {post.frontmatter.excerpt}
                 </PostFullCustomExcerpt>
                 <PostFullByline className="post-full-byline">
-                  <section className="post-full-byline-content">
-                    <AuthorList authors={post.frontmatter.author} tooltip="large" />
-                    <section className="post-full-byline-meta">
-                      <h4 className="author-name">
-                        {post.frontmatter.author.map(author => (
-                          <Link key={author.name} to={`/author/${_.kebabCase(author.name)}/`}>
-                            {author.name}
-                          </Link>
-                        ))}
-                      </h4>
-                      <div className="byline-meta-content">
-                        <time className="byline-meta-date" dateTime={datetime}>
-                          {displayDatetime}
-                        </time>
-                        <span className="byline-reading-time">
-                          <span className="bull">&bull;</span>{post.fields.readingTime.text}
-                        </span>
-                      </div>
-                    </section>
-                  </section>
+                  
                 </PostFullByline>
               </PostFullHeader>
 
@@ -258,12 +239,6 @@ const PostTemplate = css`
     padding-bottom: 4vw;
   }
 
-  @media (prefers-color-scheme: dark) {
-    .site-main {
-      /* background: var(--darkmode); */
-      background: ${colors.darkmode};
-    }
-  }
 `;
 
 export const PostFull = css`
@@ -328,10 +303,6 @@ const PostFullCustomExcerpt = styled.p`
     line-height: 1.5em;
   }
 
-  @media (prefers-color-scheme: dark) {
-    /* color: color(var(--midgrey) l(+10%)); */
-    color: ${lighten('0.1', colors.midgrey)};
-  }
 `;
 
 const PostFullByline = styled.div`
@@ -385,19 +356,6 @@ const PostFullByline = styled.div`
     margin: 0 4px;
     opacity: 0.6;
   }
-
-  @media (prefers-color-scheme: dark) {
-    /* border-top-color: color(var(--darkmode) l(+15%)); */
-    border-top-color: ${lighten('0.15', colors.darkmode)};
-
-    .post-full-byline-meta h4 a {
-      color: rgba(255, 255, 255, 0.75);
-    }
-
-    .post-full-byline-meta h4 a:hover {
-      color: #fff;
-    }
-  }
 `;
 
 export const PostFullTitle = styled.h1`
@@ -408,9 +366,6 @@ export const PostFullTitle = styled.h1`
     font-size: 3.3rem;
   }
 
-  @media (prefers-color-scheme: dark) {
-    color: rgba(255, 255, 255, 0.9);
-  }
 `;
 
 const PostFullImage = styled.figure`
@@ -475,7 +430,7 @@ export const query = graphql`query ($slug: String, $primaryTag: String) {
     }
   }
   relatedPosts: allMarkdownRemark(
-    filter: {frontmatter: {tags: {in: [$primaryTag]},}
+    filter: {frontmatter: {tags: {in: [$primaryTag]}, draft: {ne: true}}}
     limit: 5
     sort: {fields: [frontmatter___date], order: DESC}
   ) {
