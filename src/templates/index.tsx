@@ -106,17 +106,7 @@ const IndexPage: React.FC<IndexProps> = props => {
             <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.</p>
             <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
             </div>
-            <div style={{width:"40%", minWidth:"300px", height:"500px"}}>
-<img style={{padding:"2rem", margin:"2rem"}} src={lawrence} alt="Murray Bubba Lawrence" />
-<div style={{display:"flex"}}>
-          <div style={{minWidth:"40%",padding:"2rem", margin:"2rem"}}>
-          
-            <p>Ask yourself—</p><p> How can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
-            <p>No blood, no DNA, no witnesses?</p>
-            <p>5 alibi witnesses, no fingerprints, no fiber, no weapon, no ballistics— no justice.</p>
-            <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.</p>
-            <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
-            </div>
+
             <div style={{width:"40%", minWidth:"300px", background:"#c9b79f", marginTop:"2rem"}} >
 <img src={lawrence} alt="Murray Bubba Lawrence" />
 <div style={{color:"black", padding:"2rem"}}>
@@ -130,11 +120,9 @@ const IndexPage: React.FC<IndexProps> = props => {
 </ul>
               </div>
             </div>
-            </div>
-</div>
+          </div>
           <h3>Mission Statement </h3>
             <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
-            </div>
             </div>
         <main id="site-main" css={[SiteMain, outer]}>
           <div css={[inner, Posts]}>
