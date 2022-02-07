@@ -90,27 +90,27 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
             <SiteNavContent css={[this.state.showTitle ? HideNav : '']}>
               <ul css={NavStyles} role="menu">
                 <li role="menuitem">
-                  <Link to="/" activeClassName="nav-current">
-                    Home
+                  <Link to="#" activeClassName="nav-current">
+                    Affiliated Pages:
                   </Link>
                 </li>
                 <li role="menuitem">
-                  <Link to="/about" activeClassName="nav-current">
+                  <Link to="https://rippreport.com" activeClassName="nav-current">
                     Ripp Report
                   </Link>
                 </li>
                 <li role="menuitem">
-                  <Link to="/tags/getting-started/" activeClassName="nav-current">
+                  <Link to="https://www.facebook.com/BackstoryPodcast" activeClassName="nav-current">
                     Backstory Podcast
                   </Link>
                 </li>
                 <li role="menuitem">
-                  <Link to="/tags/getting-started/" activeClassName="nav-current">
+                  <Link to="https://www.facebook.com/BaldwinCountyLegalEagle" activeClassName="nav-current">
                     BCLE
                   </Link>
                 </li>
                 <li role="menuitem">
-                  <Link to="/tags/getting-started/" activeClassName="nav-current">
+                  <Link to="https://facebook.com" activeClassName="nav-current">
                     Wrongfully Convicted
                   </Link>
                 </li>
