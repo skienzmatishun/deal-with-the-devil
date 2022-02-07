@@ -97,21 +97,23 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
         </div>
         <div css={inner}>
-        <div style={{display:"flex"}}>
+        <div className="topContainer" style={{display:"flex"}}>
           <div style={{minWidth:"40%",padding:"2rem", margin:"2rem"}}>
           
-            <p>Ask yourself—</p><p> How can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
+            <h2>Ask yourself—</h2><p> How can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
             <p>No blood, no DNA, no witnesses?</p>
             <p>5 alibi witnesses, no fingerprints, no fiber, no weapon, no ballistics— no justice.</p>
             <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.</p>
             <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
+            <h2>Mission Statement </h2>
+            <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
             </div>
 
-            <div style={{width:"40%", minWidth:"300px", background:"#c9b79f", marginTop:"2rem"}} >
+            <div className="address" >
 <img src={lawrence} alt="Murray Bubba Lawrence" />
 <div style={{color:"black", padding:"2rem"}}>
 <ul style={{listStyle:"none"}}>
-<li>Murray Bubba Lawrence</li>
+<li><h2>Murray Bubba Lawrence</h2></li>
 <li>AIS# 00241380</li>
 <li>William C Holman</li>
 <li>Correction Facility</li>
@@ -121,8 +123,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               </div>
             </div>
           </div>
-          <h3>Mission Statement </h3>
-            <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
+        
             </div>
         <main id="site-main" css={[SiteMain, outer]}>
           <div css={[inner, Posts]}>
@@ -263,6 +264,19 @@ const HomePosts = css`
       line-height: 1.5em;
     }
   }
+  @media (max-width: 795px) {
+    .address {
+    width:95%;
+
+    }
+    .topContainer {
+      flex-flow:row wrap;
+    }
+  }
+  .address {
+  background:#c9b79f;
+  margin-top:2rem;
+}
 `;
 
 export default IndexPage;
