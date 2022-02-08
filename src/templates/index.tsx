@@ -25,8 +25,8 @@ import {
 } from '../styles/shared';
 import config from '../website-config';
 import { PageContext } from './post';
-import lawrence from '../content/img/lawrence.jpg';
-
+import Lawrence from '../content/img/lawrence.jpg';
+import Logo from '../content/img/ghost-logo.png';
 export interface IndexProps {
   pageContext: {
     currentPage: number;
@@ -88,10 +88,7 @@ const IndexPage: React.FC<IndexProps> = props => {
           <div css={inner}>
             <SiteNav isHome />
             <SiteHeaderContent className="site-header-content">
-              <SiteTitle className="site-title">
-                  {config.title}
-                
-              </SiteTitle>
+            <img src={Logo} alt="Deal with the Devil" />
               <SiteDescription>{config.description}</SiteDescription>
             </SiteHeaderContent>
           </div>
@@ -114,7 +111,7 @@ const IndexPage: React.FC<IndexProps> = props => {
             </div>
 
             <div className="address" >
-<img src={lawrence} alt="Murray Bubba Lawrence" />
+<img src={Lawrence} alt="Murray Bubba Lawrence" />
 <div style={{color:"black", padding:"1.5rem"}}>
 <ul style={{listStyle:"none"}}>
 <li style={{background:"#dad1d1", padding:".5rem", margin:".5rem"}}><h2 style={{textAlign:"center"}}>Murray Bubba Lawrence</h2></li>
