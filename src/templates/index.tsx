@@ -1,4 +1,4 @@
-import { graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 import { getSrc, getImage } from 'gatsby-plugin-image';
 import React from 'react';
 import { Helmet } from 'react-helmet';
@@ -107,6 +107,10 @@ const IndexPage: React.FC<IndexProps> = props => {
             <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
             <h2>Mission Statement </h2>
             <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
+            <h2>Topics</h2>
+            <Link to={`/tags/introduction/`}>
+            <p>Introduction</p>
+                </Link>
             </div>
 
             <div className="address" >
