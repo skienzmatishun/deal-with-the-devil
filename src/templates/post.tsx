@@ -235,9 +235,10 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
 const PostTemplate = css`
   .site-main {
     margin-top: 64px;
-    background: #fff;
+    background: #191b1f !important;
     padding-bottom: 4vw;
   }
+  body {background:#191b1f !important;}
 
 `;
 
@@ -283,7 +284,7 @@ const PostFullTags = styled.section`
   justify-content: flex-start;
   align-items: center;
   /* color: var(--midgrey); */
-  color: ${colors.midgrey};
+  color: white;
   font-size: 1.3rem;
   line-height: 1.4em;
   font-weight: 600;
@@ -292,7 +293,7 @@ const PostFullTags = styled.section`
 
 const PostFullCustomExcerpt = styled.p`
   margin: 20px 0 0;
-  color: var(--midgrey);
+  color: white;
   font-family: Georgia, serif;
   font-size: 2.3rem;
   line-height: 1.4em;
@@ -360,7 +361,7 @@ const PostFullByline = styled.div`
 
 export const PostFullTitle = styled.h1`
   margin: 0 0 0.2em;
-  color: ${setLightness('0.05', colors.darkgrey)};
+  color: white !important;
   @media (max-width: 500px) {
     margin-top: 0.2em;
     font-size: 3.3rem;

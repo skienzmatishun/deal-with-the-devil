@@ -254,7 +254,7 @@ export const PostFullContent = styled.section`
   h5,
   h6 {
     /* color: color(var(--darkgrey) l(-5%)); */
-    color: ${lighten('-0.05', colors.darkgrey)};
+    color: white;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
       'Open Sans', 'Helvetica Neue', sans-serif;
   }
@@ -442,7 +442,7 @@ export const PostFullContent = styled.section`
     h3,
     h4,
     h6 {
-      color: rgba(255, 255, 255, 0.9);
+      color: white
     }
 
     a {
