@@ -119,11 +119,11 @@ const IndexPage: React.FC<IndexProps> = props => {
                 </Link>
             </div>
 
-            <div className="address" style={{background:"#e7e7e7", marginTop:"2rem", borderBottomLeftRadius:"4px", borderBottomRightRadius:"4px"}} >
+            <div className="address" style={{background:"#e7e7e7", margin:"2rem", borderRadius:"4px"}} >
 <img src={Lawrence} alt="Murray Bubba Lawrence" />
 <div style={{color:"black", padding:"1.5rem"}}>
 <ul style={{listStyle:"none"}}>
-<li style={{padding:".5rem", margin:".5rem"}}><h2 style={{textAlign:"center"}}>Murray Bubba Lawrence</h2></li>
+<li style={{padding:".5rem", margin:".5rem"}}><h2 style={{textAlign:"center", fontSize:"2.3rem" }}>Murray Bubba Lawrence</h2></li>
 <li>AIS# 00241380</li>
 <li>William C Holman</li>
 <li>Correction Facility</li>
@@ -266,7 +266,7 @@ const HomePosts = css`
       line-height: 1.5em;
     }
   }
-
+.address {font-size:2.3rem;}
   @media (prefers-color-scheme: dark) {
     body{background: var(--darkmode);}
   }
