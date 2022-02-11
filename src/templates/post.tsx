@@ -235,10 +235,8 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
 const PostTemplate = css`
   .site-main {
     margin-top: 64px;
-    background: #191b1f !important;
     padding-bottom: 4vw;
   }
-  body {background:#191b1f !important;}
 
 `;
 

@@ -103,6 +103,7 @@ const IndexLayout: React.FC<IndexProps> = props => (
           }
           body {
             line-height: 1;
+            background:white !important;
           }
           ol,
           ul {
