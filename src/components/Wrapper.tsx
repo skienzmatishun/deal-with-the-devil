@@ -14,4 +14,8 @@ const StyledWrapper = styled.div`
   flex-direction: column;
   min-height: 100vh;
   color:black;
+  
+  @media (prefers-color-scheme: dark) {
+    background: #191b1f;
+    color:white;
 `;

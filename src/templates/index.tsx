@@ -104,7 +104,7 @@ const IndexPage: React.FC<IndexProps> = props => {
         </div>
         <div css={inner}>
         <div className="topContainer" style={{display:"flex"}}>
-          <div style={{minWidth:"40%",padding:"2rem", margin:"2rem"}}>
+          <div className="introduction" >
           
             <h2>Ask yourself—</h2><p> How can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
             <p>No blood, no DNA, no witnesses?</p>
@@ -119,7 +119,7 @@ const IndexPage: React.FC<IndexProps> = props => {
                 </Link>
             </div>
 
-            <div className="address" style={{background:"#e7e7e7", marginTop:"2rem"}} >
+            <div className="address" style={{background:"#e7e7e7", marginTop:"2rem", borderBottomLeftRadius:"4px", borderBottomRightRadius:"4px"}} >
 <img src={Lawrence} alt="Murray Bubba Lawrence" />
 <div style={{color:"black", padding:"1.5rem"}}>
 <ul style={{listStyle:"none"}}>
@@ -265,6 +265,10 @@ const HomePosts = css`
       font-size: 1.8rem;
       line-height: 1.5em;
     }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body{background: var(--darkmode);}
   }
 `;
 
