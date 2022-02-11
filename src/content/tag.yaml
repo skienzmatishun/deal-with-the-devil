@@ -1,3 +1,6 @@
 - id: Introduction
-  description: Some of the greatest words ever spoken.
+  description: Introduction
+  image: img/speeches-cover.jpg
+- id: Topic
+  description: TBA
   image: img/speeches-cover.jpg

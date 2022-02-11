@@ -86,9 +86,19 @@ const IndexPage: React.FC<IndexProps> = props => {
           }}
         >
           <div css={inner}>
-            <SiteNav isHome />
+          <SiteNav isHome />
             <SiteHeaderContent className="site-header-content">
-            <img src={Logo} alt="Deal with the Devil" />
+              <SiteTitle className="site-title">
+                {props.data.logo ? (
+                  <img
+                    style={{ maxHeight: '200px' }}
+                    src={getSrc(props.data.logo)}
+                    alt={config.title}
+                  />
+                ) : (
+                  config.title
+                )}
+              </SiteTitle>
               <SiteDescription>{config.description}</SiteDescription>
             </SiteHeaderContent>
           </div>
