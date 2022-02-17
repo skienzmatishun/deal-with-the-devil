@@ -2,7 +2,7 @@
 title: 'Baldwin sheriff responds to recent lawsuits'
 author: [Ripp]
 tags: [Baldwin County]
-image: img/demo2.jpg
+image: img/blog-cover.jpg
 date: 2022-02-1T10:00:00.000Z
 draft: false
 ---
