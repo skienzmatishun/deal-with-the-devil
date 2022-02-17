@@ -281,8 +281,7 @@ const PostFullTags = styled.section`
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  /* color: var(--midgrey); */
-  color: white;
+ color: var(--midgrey);
   font-size: 1.3rem;
   line-height: 1.4em;
   font-weight: 600;
@@ -291,7 +290,7 @@ const PostFullTags = styled.section`
 
 const PostFullCustomExcerpt = styled.p`
   margin: 20px 0 0;
-  color: white;
+  color: var(--midgrey);
   font-family: Georgia, serif;
   font-size: 2.3rem;
   line-height: 1.4em;
@@ -300,6 +299,9 @@ const PostFullCustomExcerpt = styled.p`
   @media (max-width: 500px) {
     font-size: 1.9rem;
     line-height: 1.5em;
+  }
+  @media (prefers-color-scheme: dark) {
+  color:white;
   }
 
 `;
@@ -359,13 +361,15 @@ const PostFullByline = styled.div`
 
 export const PostFullTitle = styled.h1`
   margin: 0 0 0.2em;
-  color: white !important;
+  color: black;
   @media (max-width: 500px) {
     margin-top: 0.2em;
     font-size: 3.3rem;
   }
-
-`;
+  @media (prefers-color-scheme: dark) {
+    color:white;
+  }
+    `;
 
 const PostFullImage = styled.figure`
   margin: 25px 0 50px;
