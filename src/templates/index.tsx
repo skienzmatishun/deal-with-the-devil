@@ -117,6 +117,9 @@ const IndexPage: React.FC<IndexProps> = props => {
             <Link to={`/tags/introduction/`}>
             <p>Introduction</p>
                 </Link>
+                <Link to={`/tags/baldwin-county/`}>
+            <p>Baldwin County</p>
+                </Link>
             </div>
 
             <div className="address" style={{background:"#e7e7e7", margin:"2rem", borderRadius:"4px"}} >
