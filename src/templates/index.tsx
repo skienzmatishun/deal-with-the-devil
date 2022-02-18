@@ -111,22 +111,24 @@ const IndexPage: React.FC<IndexProps> = props => {
             <p>5 alibi witnesses, no fingerprints, no fiber, no weapon, no ballistics— no justice.</p>
             <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.</p>
             <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
-            <h2>Mission Statement </h2>
+            <h2 style={{marginTop:"20px"}} >Mission Statement </h2>
             <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
             <h2>Topics</h2>
+            <ul>
             <Link to={`/tags/introduction/`}>
-            <p>Introduction</p>
+            <li>Introduction</li>
                 </Link>
                 <Link to={`/tags/baldwin-county/`}>
-            <p>Baldwin County</p>
+            <li>Baldwin County</li>
                 </Link>
+                </ul>
             </div>
 
-            <div className="address" style={{background:"#e7e7e7", margin:"2rem", borderRadius:"4px"}} >
+            <div className="address" style={{background:"#e7e7e7", margin:"2rem", padding:"2rem", borderRadius:"4px"}} >
 <img src={Lawrence} alt="Murray Bubba Lawrence" />
-<div style={{color:"black", padding:"1.5rem"}}>
-<ul style={{listStyle:"none"}}>
-<li style={{padding:".5rem", margin:".5rem"}}><h2 style={{textAlign:"center", fontSize:"2.3rem" }}>Murray Bubba Lawrence</h2></li>
+<div style={{color:"black"}}>
+<ul style={{listStyle:"none", fontSize:"1.75rem",textAlign:"center"}}>
+<li style={{padding:".5rem", margin:".5rem",fontSize:".5rem"}}><h2 style={{textAlign:"center"}}>Murray Bubba Lawrence</h2></li>
 <li>AIS# 00241380</li>
 <li>William C Holman</li>
 <li>Correction Facility</li>
