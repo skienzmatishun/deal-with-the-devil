@@ -48,6 +48,20 @@ module.exports = {
               quality: 100,
             },
           },
+          {
+            resolve: `@raae/gatsby-remark-oembed`,
+            options: {
+              // usePrefix defaults to false
+              // usePrefix: true is the same as ["oembed"]
+              usePrefix: ["oembed", "video"],
+              providers: {
+                // Important to exclude providers
+                // that adds js to the page.
+                // If you do not need them.
+                exclude: ["Reddit"],
+              },
+            },
+          },
         ],
       },
     },
@@ -109,7 +123,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: 'Ghost\'s Blog',
+            title: 'Deal with the Devil',
             match: '^/blog/',
           },
         ],
@@ -119,24 +133,6 @@ module.exports = {
       resolve: 'gatsby-plugin-postcss',
       options: {
         postCssPlugins: [require('postcss-color-function'), require('cssnano')()],
-      },
-    },
-    {
-      resolve: 'gatsby-plugin-google-analytics',
-      options: {
-        trackingId: 'UA-XXXX-Y',
-        // Puts tracking script in the head instead of the body
-        head: true,
-        // IP anonymization for GDPR compliance
-        anonymize: true,
-        // Disable analytics for users with `Do Not Track` enabled
-        respectDNT: true,
-        // Avoids sending pageview hits from custom paths
-        exclude: ['/preview/**'],
-        // Specifies what percentage of users should be tracked
-        sampleRate: 100,
-        // Determines how often site speed tracking beacons will be sent
-        siteSpeedSampleRate: 10,
       },
     },
   ],

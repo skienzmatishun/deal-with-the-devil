@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'BALDWIN COUNTY SHERIFF OFFICE BCSO'
-image: img/marvin-meyer-794521-unsplash.jpg
+title: BCSO
+image: img/bcso.png
 author: [Ripp]
 date: 2022-01-1T10:00:00.000Z
 tags:
   - Baldwin County
-excerpt: These topics are related to Baldwin County Alabama
+excerpt: Baldwin County Sheriffs Office 
 
 ---
 
@@ -26,7 +26,7 @@ https://www.al.com/news/mobile/2020/05/fairhope-blogger-sues-baldwin-sheriff-for
 
 
 
-PEYTON LITTLE:
+## PEYTON LITTLE:
 
 
 https://lagniappemobile.com/sheriff-restricts-communication-of-attorney-in-baldwin-county-courthouse/

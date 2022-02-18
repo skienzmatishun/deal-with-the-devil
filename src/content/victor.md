@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JOHNATHAN VICTOR'
-image: img/welcome-to-ghost.jpg
+image: img/victor.jpg
 author: [Ripp]
 date: 2019-03-10T10:00:00.000Z
 tags:
