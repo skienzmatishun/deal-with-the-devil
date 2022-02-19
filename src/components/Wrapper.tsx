@@ -16,6 +16,6 @@ const StyledWrapper = styled.div`
   color:black;
   
   @media (prefers-color-scheme: dark) {
-    background: #191b1f;
+    background: #1b0000;
     color:white;
 `;

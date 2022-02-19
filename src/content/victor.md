@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JOHNATHAN VICTOR'
+title: 'Johnathan Victor'
 image: img/victor.jpg
 author: [Ripp]
 date: 2019-03-10T10:00:00.000Z
@@ -16,11 +16,11 @@ https://www.facebook.com/JusticeForJonathanVictor/
 https://www.al.com/news/mobile/2020/05/fairhope-blogger-sues-baldwin-sheriff-for-not-following-alabama-state-health-order.html
 
 
-https://lagniappemobile.com/closed-records-act-supreme-court-rules-against-lagniappes-body-cam-request/#:~:text=In%20a%20decision%20one%20justice,of%20Jonathan%20Victor%20by%20a
+https://lagniappemobile.com/closed-records-act-supreme-court-rules-against-lagniappes-body-cam-request/
 
 ## Hearing will determine fate of BCSO wrongful death case (March 10, 2021)
 
-By Gabriel Tynes
+By Gabriel Tynes - Lagniappe
 
 Additional video and audio captured during a deadly officer-involved shooting in 2017 have been submitted to the federal court as part of a wrongful death lawsuit against Baldwin County Sheriff Huey “Hoss” Mack and Deputy Matt Hunady, augmenting a library of information from the incident the Baldwin County Sheriff’s Office (BCSO) has previously declined to disclose. 
 

@@ -139,8 +139,7 @@ export const SiteNavMain = css`
   left: 0;
   z-index: 1000;
   /* background: color(var(--darkgrey) l(-5%)) */
-  background: ${darken('0.05', colors.darkgrey)};
-
+  background: linear-gradient(90deg, rgba(18,18,18,1) 0%, rgba(48,0,0,1) 100%, rgba(0,0,0,1) 100%); 
   @media (max-width: 700px) {
     padding-right: 0;
     padding-left: 0;
