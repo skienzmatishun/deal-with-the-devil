@@ -5,7 +5,6 @@ image: img/callum-shaw-555357-unsplash.jpg
 author: [Ripp]
 date: 2022-02-2T10:00:00.000Z
 tags: 
-- Introduction
 excerpt: This is the case of Murray “Bubba” Lawrence who was convicted of capital murder in Baldwin County Alabama, May 13, 2005. He was arrested and incarcerated for 11 months 10 days, prior to conviction.
 ---
 
