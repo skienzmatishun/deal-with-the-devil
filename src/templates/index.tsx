@@ -106,15 +106,16 @@ const IndexPage: React.FC<IndexProps> = props => {
         <div className="topContainer" style={{display:"flex"}}>
           <div className="introduction" >
           
-            <h2>Ask yourself—</h2><p> How can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
+            <p style={{fontSize:"4rem",margin:"4rem"}}>Ask yourself—</p>
+            <p> How can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
             <p>No blood, no DNA, no witnesses?</p>
             <p>5 alibi witnesses, no fingerprints, no fiber, no weapon, no ballistics— no justice.</p>
             <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.</p>
             <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
             <h2 style={{marginTop:"20px"}} >Mission Statement </h2>
             <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
-            <h2>Topics</h2>
-            <ul>
+            <h2 style={{fontSize:"4rem"}}>Topics</h2>
+            <ul style={{listStyle:"none"}}>
             <Link to={`/tags/introduction/`}>
             <li>Introduction</li>
                 </Link>
@@ -271,16 +272,19 @@ const HomePosts = css`
       line-height: 1.5em;
     }
   }
-.address {font-size:2.3rem;
+.address {
+font-size:2.3rem;
 min-width:400px;
 }
-.introduction {font-size:2.3rem;flex-grow: 4;}
+.introduction {
+  font-size:2.3rem;
+  flex-grow: 4;
+}
   @media (prefers-color-scheme: dark) {
     body{background: var(--darkmode);}
 
   }
   @media (prefers-color-scheme: dark) {
-  .site-header-background:opacity:.4 !important;
   }
 
 `;
