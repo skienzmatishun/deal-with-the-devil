@@ -279,6 +279,10 @@ min-width:400px;
     body{background: var(--darkmode);}
 
   }
+  @media (prefers-color-scheme: dark) {
+  .site-header-background:opacity:.4 !important;
+  }
+
 `;
 
 

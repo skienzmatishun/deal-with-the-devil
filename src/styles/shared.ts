@@ -400,6 +400,7 @@ export const NoImage = css`
       /* background: var(--darkmode); */
       background: ${colors.darkmode};
     }
+    .site-header-background: {opacity:.4;}
 
     .no-image .site-header-content {
       /* border-bottom-color: color(var(--darkmode) l(+15%)); */

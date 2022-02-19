@@ -103,7 +103,6 @@ const IndexLayout: React.FC<IndexProps> = props => (
           }
           body {
             line-height: 1;
-            background:white !important;
           }
           ol,
           ul {
@@ -489,6 +488,7 @@ const IndexLayout: React.FC<IndexProps> = props => (
             img {
               opacity: 0.9;
             }
+            .site-header-background {opacity:.65}
           }
         `}
     />
