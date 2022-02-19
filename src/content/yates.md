@@ -12,12 +12,12 @@ excerpt: According to the complaint, deputies were attempting to serve an evicti
 ## ROBERT YATES:
 
 
-https://lagniappemobile.com/wrongful-death-cases-involving-bcso-continue/
+[Wrongful Death Cases Involving BCSO Continue](https://lagniappemobile.com/wrongful-death-cases-involving-bcso-continue/)
 
-https://lagniappemobile.com/lawsuit-filed-against-baldwin-county-deputies-over-deadly-2018-eviction/
+[Lawsuit Filed Against Baldwin County Over Deadly 2018 Eviction](https://lagniappemobile.com/lawsuit-filed-against-baldwin-county-deputies-over-deadly-2018-eviction/)
 
 
-https://lagniappemobile.com/wrongful-death-cases-involving-bcso-continue/
+[Wrongful Death Cases Involving BCSO Continue](https://lagniappemobile.com/wrongful-death-cases-involving-bcso-continue/)
 
 
 ## YATES LAWSUIT

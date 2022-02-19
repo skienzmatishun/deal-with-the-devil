@@ -114,7 +114,7 @@ const IndexPage: React.FC<IndexProps> = props => {
             <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
             <h2 style={{marginTop:"20px"}} >Mission Statement </h2>
             <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
-            <h2 style={{fontSize:"4rem"}}>Topics</h2>
+            <h2 style={{fontSize:"4rem",margin:"4rem"}}>Topics</h2>
             <ul style={{listStyle:"none"}}>
             <Link to={`/tags/introduction/`}>
             <li>Introduction</li>
