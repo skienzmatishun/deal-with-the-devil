@@ -4,8 +4,10 @@ title: 'Joseph and Kevin Andrews, Dominic Sscotti Garcia,Crystal Lee Moradie, Pa
 image: img/bcso-patrol.jpg
 author: [Ripp]
 date: 2018-09-30T07:03:47.149Z
-tags:
 excerpt: FIERY CRASH 5 KILLED
+tags:
+    - Baldwin County
+
 ---
 
 
