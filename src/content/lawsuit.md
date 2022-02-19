@@ -33,13 +33,13 @@ Stankoski told the parties on the teleconference he would elaborate on his decis
 
 
 
-https://lagniappemobile.com/wrongful-death-cases-involving-bcso-continue/
+[Wrongful Death Cases Involving BCSO Continue](https://lagniappemobile.com/wrongful-death-cases-involving-bcso-continue/)
 
 
-https://lagniappemobile.com/mother-of-suspect-killed-by-daphne-police-seeks-answers/
+[Mother of Suspect Killed by Daphne police Seeks Answers](https://lagniappemobile.com/mother-of-suspect-killed-by-daphne-police-seeks-answers/)
 
 
-https://rippreport.com/2021/10/01/sheriff-huey-boss-mack-secret-police/
+[Sheriff Huey Boss Mack Secret Police](https://rippreport.com/2021/10/01/sheriff-huey-boss-mack-secret-police/)
 
 
-https://lagniappemobile.com/wp-content/uploads/2021/09/Lagniappe-vs.-BCSO-Supreme-Court-Decision.pdf
+[Lagniappe vs BCSO Supreme Court Decision](https://lagniappemobile.com/wp-content/uploads/2021/09/Lagniappe-vs.-BCSO-Supreme-Court-Decision.pdf)

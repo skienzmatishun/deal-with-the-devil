@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Johnathan Victor'
+title: 'Jonathan Victor'
 image: img/victor.jpg
 author: [Ripp]
 date: 2019-03-10T10:00:00.000Z
@@ -10,13 +10,13 @@ excerpt: Additional video and audio captured during a deadly officer-involved sh
 
 ---
 
-https://www.facebook.com/JusticeForJonathanVictor/
+[Justice For Jonathan Victor](https://www.facebook.com/JusticeForJonathanVictor/)
 
 
-https://www.al.com/news/mobile/2020/05/fairhope-blogger-sues-baldwin-sheriff-for-not-following-alabama-state-health-order.html
+[Fairhope Blogger Sues Baldwin Sheriff For Not Following Alabama State Health Order](https://www.al.com/news/mobile/2020/05/fairhope-blogger-sues-baldwin-sheriff-for-not-following-alabama-state-health-order.html)
 
 
-https://lagniappemobile.com/closed-records-act-supreme-court-rules-against-lagniappes-body-cam-request/
+[Closed Records Act Supreme Court Rules Against Lagniappes Body Cam Requestion](https://lagniappemobile.com/closed-records-act-supreme-court-rules-against-lagniappes-body-cam-request/)
 
 ## Hearing will determine fate of BCSO wrongful death case (March 10, 2021)
 
@@ -68,22 +68,22 @@ A hearing on the motion has not yet been scheduled. Video and audio submitted in
 
 
 
-https://lagniappemobile.com/supreme-court-weighs-body-camera-issues-in-lagniappe-lawsuit/
+[Supreme Court Weighs Body Camera Issues in Lagniappe Lawsuit](https://lagniappemobile.com/supreme-court-weighs-body-camera-issues-in-lagniappe-lawsuit/)
 
 
-https://lagniappemobile.com/bills-aim-to-provide-crisis-intervention-training-for-law-enforcement/
+[Bills Aim to Provide Crisis Intervention Training for Law Enforcement](https://lagniappemobile.com/bills-aim-to-provide-crisis-intervention-training-for-law-enforcement/)
 
 
-https://lagniappemobile.com/new-evidence-emerges-in-deadly-bcso-shooting-of-unarmed-man-2/
+[New Evidence Emerges in Deadly BCSO shooting of unarmed man](https://lagniappemobile.com/new-evidence-emerges-in-deadly-bcso-shooting-of-unarmed-man-2/)
 
 
-https://lagniappemobile.com/lagniappe-sues-bcso-for-records-in-fatal-roadside-shooting/
+[Lagniappe Sues BCSO for Records in Fatal Roadsite Shooting](https://lagniappemobile.com/lagniappe-sues-bcso-for-records-in-fatal-roadside-shooting/)
 
 
-https://lagniappemobile.com/judge-blisters-hoss-and-hunady-in-victor-death/
+[Judge Blisters Hoss and Hunady in Victor Death](https://lagniappemobile.com/judge-blisters-hoss-and-hunady-in-victor-death/)
 
 
-https://lagniappemobile.com/family-suing-bcso-deputy-sheriff-over-2017-fatal-shooting/
+[Family Suing BCSO deputy Sheriff Over 2017 Fatal Shooting](https://lagniappemobile.com/family-suing-bcso-deputy-sheriff-over-2017-fatal-shooting/)
 
 
-https://lagniappemobile.com/judge-dismisses-lagniappe-public-records-lawsuit-appeal-planned/
+[Judge Dismisses Lagniappe Public Lawsuit Appeal Planned](https://lagniappemobile.com/judge-dismisses-lagniappe-public-records-lawsuit-appeal-planned/)
