@@ -4,3 +4,6 @@
 - id: Baldwin County 
   description: These topics are related to Baldwin County Alabama
   image: img/speeches-cover.jpg
+- id: Testimonial
+  description: Testimonials
+  image: img/thetruth.png

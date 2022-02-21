@@ -122,11 +122,14 @@ const IndexPage: React.FC<IndexProps> = props => {
                 <Link to={`/tags/baldwin-county/`}>
             <li>Baldwin County</li>
                 </Link>
+                <Link to={`/tags/testimonials/`}>
+            <li>Testimonials</li>
+                </Link>
                 </ul>
             </div>
 
-            <div className="address" style={{background:"#e7e7e7", margin:"2rem", padding:"2rem", borderRadius:"4px"}} >
-<img src={Lawrence} alt="Murray Bubba Lawrence" />
+            <div className="address" style={{background:"#e7e7e7", margin:"2rem", padding:"2rem", borderRadius:"4px", height:"800px"}} >
+<img src={Lawrence} alt="Murray Bubba Lawrence"  style={{height:"475px"}} />
 <div style={{color:"black"}}>
 <ul style={{listStyle:"none", fontSize:"1.75rem",textAlign:"center"}}>
 <li style={{padding:".5rem", margin:".5rem",fontSize:".5rem"}}><h2 style={{textAlign:"center", fontSize:"2rem"}}>Murray Bubba Lawrence</h2></li>
