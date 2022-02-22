@@ -282,7 +282,6 @@ const HomePosts = css`
   margin:2rem; 
   padding:2rem; 
   border-radius:4px;
-  width:45%
 font-size:2.3rem;
 max-height:900px;
 }

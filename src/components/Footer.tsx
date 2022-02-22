@@ -43,8 +43,7 @@ const SiteFooter = css`
   padding-top: 20px;
   padding-bottom: 60px;
   color: #fff;
-  background: ${setLightness('0.0015', colors.darkgrey)};
-`;
+  background: linear-gradient(0deg, #420000, #3e0101, #3b0201, #370301, #330402, #300502, #2c0502, #290402, #260301, #230201, #1f0101, #1b0000);  `;
 
 const SiteFooterContent = css`
   display: flex;

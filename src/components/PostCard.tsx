@@ -82,10 +82,7 @@ export const PostCard: React.FC<PostCardProps> = ({ post, large = false }) => {
                 </React.Fragment>
               ))}
             </span>
-            <span className="post-card-byline-date">
-              <time dateTime={datetime}>{displayDatetime}</time>{' '}
-              <span className="bull">&bull;</span> {post.fields.readingTime.text}
-            </span>
+          
           </PostCardBylineContent>
         </PostCardMeta>
       </PostCardContent>
