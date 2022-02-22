@@ -103,8 +103,8 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
         </div>
         <div css={inner}>
-        <div className="topContainer" style={{display:"flex"}}>
-          <div className="introduction" >
+        <div className="topContainer" style={{display:"flex",flexFlow:"row wrap"}}>
+          <div className="introduction">
           
             <p style={{fontSize:"4rem",margin:"4rem"}}>Ask yourself—</p>
             <p> How can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
@@ -128,7 +128,7 @@ const IndexPage: React.FC<IndexProps> = props => {
                 </ul>
             </div>
 
-            <div className="address" style={{background:"#e7e7e7", margin:"2rem", padding:"2rem", borderRadius:"4px", height:"800px"}} >
+            <div className="address" >
 <img src={Lawrence} alt="Murray Bubba Lawrence"  style={{height:"475px"}} />
 <div style={{color:"black"}}>
 <ul style={{listStyle:"none", fontSize:"1.75rem",textAlign:"center"}}>
@@ -276,12 +276,25 @@ const HomePosts = css`
     }
   }
 .address {
+  width:45%;
+  background:#e7e7e7;
+  margin:2rem; 
+  padding:2rem; 
+  border-radius:4px;
+  height:800px; 
+  width:45%
 font-size:2.3rem;
-min-width:400px;
 }
 .introduction {
   font-size:2.3rem;
-  flex-grow: 4;
+  width:45%;
+}
+@media (max-width: 795px) {
+  .introduction{width:95%;
+    margin:2rem; 
+    padding:2rem; 
+  }
+  .address{width:95%;}
 }
   @media (prefers-color-scheme: dark) {
     body{background: var(--darkmode);}
