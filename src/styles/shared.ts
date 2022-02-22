@@ -253,7 +253,7 @@ export const ResponsiveHeaderBackground = styled.div<{ backgroundImage?: string 
   .site-header-content {
     padding: 5vw 0 10px;
     /* border-bottom: 1px solid color(var(--lightgrey) l(+12%)); */
-    border-bottom: 1px solid ${lighten('0.12', colors.lightgrey)};
+    border-bottom: 1px solid red;
   }
 
   .author-bio {
