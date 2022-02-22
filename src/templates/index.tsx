@@ -104,7 +104,7 @@ const IndexPage: React.FC<IndexProps> = props => {
         </div>
         <div css={inner}>
           <div>
-          <p style={{fontSize:"2.25rem",margin:"3rem"}}>“I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you don’t like that deal, you come after your D.A.” - David Whetstone.</p>
+          <p style={{fontSize:"2.25rem",margin:"75px"}}>“I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you don’t like that deal, you come after your D.A.”<br /> - David Whetstone.</p>
           </div>
         <div className="topContainer" style={{display:"flex",flexFlow:"row wrap"}}>
           <div className="introduction">
