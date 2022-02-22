@@ -105,20 +105,15 @@ const SubscribeFormButton = styled.button`
   line-height: 39px;
   font-weight: 400;
   text-align: center;
-  /* background: linear-gradient(
+  background: linear-gradient(
     color(var(--blue) whiteness(+7%)),
     color(var(--blue) lightness(-7%) saturation(-10%)) 60%,
     color(var(--blue) lightness(-7%) saturation(-10%)) 90%,
     color(var(--blue) lightness(-4%) saturation(-10%))
-  ); */
-  /* background: linear-gradient(
-    ${lighten('0.07', colors.blue)},
-    ${saturate('-0.1', lighten('-0.07', colors.blue))} 60%,
-    ${saturate('-0.1', lighten('-0.07', colors.blue))} 90%,
-    ${saturate('-0.1', lighten('-0.04', colors.blue))}
-  ); */
-  background: linear-gradient(#4fb7f0, #29a0e0 60%, #29a0e0 90%, #36a6e2);
-  border-radius: 5px;
+  ); 
+  
+  background: linear-gradient(90deg, #a60000, #b10000, #bd0001, #c80000, #d40000, #df0000, #eb0000, #f70000);
+    border-radius: 5px;
 
   -webkit-font-smoothing: subpixel-antialiased;
 

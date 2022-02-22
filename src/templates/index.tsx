@@ -276,6 +276,7 @@ const HomePosts = css`
     }
   }
 .address {
+  text-align:center;
   width:45%;
   background:#e7e7e7;
   margin:2rem; 
@@ -288,11 +289,12 @@ font-size:2.3rem;
 .introduction {
   font-size:2.3rem;
   width:45%;
+  margin:2rem; 
+  padding:2rem; 
 }
 @media (max-width: 795px) {
   .introduction{width:95%;
-    margin:2rem; 
-    padding:2rem; 
+   
   }
   .address{width:95%;}
 }
