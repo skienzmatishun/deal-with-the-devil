@@ -3,7 +3,7 @@ layout: post
 title: 'Robert Yates'
 image: img/yates.png
 author: [Ripp]
-date: 2019-03-10T10:00:00.000Z
+date: 2022-02-18T10:00:00.000Z
 tags:
   - Baldwin County
 excerpt: According to the complaint, deputies were attempting to serve an eviction notice on Robert Yates when he allegedly fired a “warning shot” from within his mobile home

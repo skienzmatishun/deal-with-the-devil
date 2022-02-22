@@ -3,7 +3,7 @@ layout: post
 title: The Truth
 image: img/thetruth.png
 author: [Ripp]
-date: 2022-01-1T10:00:00.000Z
+date: 2022-02-21T10:00:00.000Z
 tags:
   - Testimonials
 excerpt: Baldwin County Sheriffs Office 
