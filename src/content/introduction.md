@@ -20,7 +20,7 @@ The Prosecutor was District Attorney David Whetstone, since retired. The lead in
 
 
 Vol. 4 Page 605 
-> “I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you  > don’t like that deal, you come after your D.A.” David Whetstone.
+> “I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you  > don’t like that deal, you come after your D.A.” - David Whetstone.
 
 
 On July 31, 2003, Jarius McNeal, after 4 months in jail, implicates Murray “bubba” Lawrence in the May 6 2003, murder of Brandon Hastings of Foley, Alabama.
@@ -46,15 +46,13 @@ The “investigation” produced no fingerprints, no weapon, no ballistics, no b
 > the commission of the offense or the circumstances there of is not sufficient
 
 
-The transcript timeline also proves that it would be impossible for Mr. Lawrence to drive the necessary time to the scene of the murder and the disposal site of the body. Had the “investigators” or prosecution
-
-done the most basic timeline they would have known it was impossible for Mr. Lawrence to drive the distance necessary, while 5 different people testified they saw him in the same time period, at his home.
+The transcript timeline also proves that it would be impossible for Mr. Lawrence to drive the necessary time to the scene of the murder and the disposal site of the body. Had the “investigators” or prosecution done the most basic timeline they would have known it was impossible for Mr. Lawrence to drive the distance necessary, while 5 different people testified they saw him in the same time period, at his home.
 
 
 This case is a travesty of justice, an example of inept police investigation accompanied by a prosecution based on fiction and creative speculation. The District Attorney and Sheriff knew the family of Brandon Hastings, who deserved justice. However justice was blinded by ego and a need for a conviction, regardless of evidence. This case exemplifies everything that can go wrong in a court of law.
 
 
-For close to two years a small staff has been reviewing the trial transcript, visiting the “alleged” murder scene and the disposal site of the body. We have talked with over a dozen attorneys, which has led to Attorney Rebbeca Chambliss, rebecca@chambliss.law, coming on board, pro bono. She will be presenting the case to the innocence project. https://innocenceproject.org/
+For close to two years a small staff has been reviewing the trial transcript, visiting the “alleged” murder scene and the disposal site of the body. We have talked with over a dozen attorneys, which has led to Attorney Rebbeca Chambliss, rebbeca@chambliss.law, coming on board, pro bono. She will be presenting the case to the innocence project. https://innocenceproject.org/
 
 
 This page will carry posts, podcasts, a petition and articles relative to this case as well as related articles of injustice.
@@ -63,8 +61,9 @@ This page will carry posts, podcasts, a petition and articles relative to this c
 We are not asking for donations.
 
 
-We are asking for support for Mr. Lawrence who has spent 18 years incarcerated for a crime he did not commit. Please feel free to comment, share, write Mr. Lawrence, or give a personal testimony if you are a friend or relative of Mr. Lawrence.
+We are asking for support for Mr. Lawrence who has spent 18 years incarcerated for a crime he did not commit. 
 
+Please feel free to comment, share, write Mr. Lawrence, or give a personal testimony if you are a friend or relative of Mr. Lawrence.
 
 The facebook page will be under the same title, the podcast is:
 
