@@ -118,7 +118,7 @@ const IndexPage: React.FC<IndexProps> = props => {
             <h2 style={{marginTop:"20px"}} >Mission Statement </h2>
             <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
             <div className="topics">
-            <h2 style={{fontSize:"4rem",margin:"4rem"}}>Topics</h2>
+            <h2 style={{fontSize:"4rem",margin:"4rem", color:"white"}}>Topics</h2>
             <ul style={{listStyle:"none"}}>
             <Link to={`/introduction/`}>
             <li>Introduction</li>
@@ -284,7 +284,7 @@ const HomePosts = css`
 .address {
   text-align:center;
   flex-basis:30%;
-  background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #00000000);
+  background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #000000);
   border-radius:4px;
 font-size:2.3rem;
 height:730px;
@@ -295,7 +295,7 @@ color:white;
   border-radius:4px;
   width:30rem;
   padding:1em;
-  background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #00000000);
+  background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #000000);
 } 
 .introduction {
   font-size:2.3rem;
@@ -319,6 +319,8 @@ color:white;
 
   }
   @media (prefers-color-scheme: dark) {
+    .topics, {background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #00000000);}
+    .address {background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #00000000);}
   }
 
 `;
