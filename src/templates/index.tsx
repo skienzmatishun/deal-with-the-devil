@@ -133,7 +133,7 @@ const IndexPage: React.FC<IndexProps> = props => {
             </div>
             </div>
             <div className="address" >
-              <div style={{padding:"2rem"}}>
+              <div>
 <img src={Lawrence} alt="Murray Bubba Lawrence" />
 </div>
 <div style={{color:"white"}}>
@@ -294,7 +294,7 @@ color:white;
 .topics {
   border-radius:4px;
   width:30rem;
-  padding:1em;
+  padding:.5em;
   background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #000000);
 } 
 .introduction {
