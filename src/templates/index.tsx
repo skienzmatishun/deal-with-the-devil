@@ -132,7 +132,9 @@ const IndexPage: React.FC<IndexProps> = props => {
             </div>
 
             <div className="address" >
+              <div style={{padding:"2rem"}}>
 <img src={Lawrence} alt="Murray Bubba Lawrence" />
+</div>
 <div style={{color:"black"}}>
 <ul style={{listStyle:"none", fontSize:"1.75rem",textAlign:"center"}}>
 <li style={{padding:".5rem", margin:".5rem",fontSize:".5rem"}}><h2 style={{textAlign:"center", fontSize:"2rem"}}>Murray Bubba Lawrence</h2></li>
@@ -142,11 +144,11 @@ const IndexPage: React.FC<IndexProps> = props => {
 <li>1206 Ross Rd</li>
 <li>Atmore, AL 36502</li>
 </ul>
+</div>
               </div>
             </div>
           </div>
         
-            </div>
         <main id="site-main" css={[SiteMain, outer]}>
           <div css={[inner, Posts]}>
             <div css={[PostFeed]}>
@@ -282,11 +284,10 @@ const HomePosts = css`
   text-align:center;
   flex-basis:30%;
   background:#e7e7e7;
-  margin:2rem; 
-  padding:2rem; 
   border-radius:4px;
 font-size:2.3rem;
-max-height:725px;
+height:730px;
+
 }
 .introduction {
   font-size:2.3rem;
@@ -296,10 +297,12 @@ max-height:725px;
   padding:2rem; 
 }
 @media (max-width: 795px) {
-  .introduction{width:95%;
+  .introduction{flex-basis:95%;
    
   }
-  .address{width:95%;}
+  .address{flex-basis:100%;
+    min-height:1060px
+  }
 }
   @media (prefers-color-scheme: dark) {
     body{background: var(--darkmode);}
