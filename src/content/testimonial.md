@@ -6,7 +6,7 @@ author: [Ripp]
 date: 2022-02-21T10:00:00.000Z
 tags:
   - Testimonials
-excerpt: Baldwin County Sheriffs Office 
+excerpt: ...
 
 ---
 

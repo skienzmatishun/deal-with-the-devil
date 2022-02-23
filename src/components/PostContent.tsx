@@ -95,7 +95,7 @@ export const PostFullContent = styled.section`
 
   a {
     /* color: var(--darkgrey); */
-    color: ${colors.darkgrey};
+    color: #b20000;
     word-break: break-word;
     /* box-shadow: var(--darkgrey) 0 -1px 0 inset; */
     font-size:3rem;
