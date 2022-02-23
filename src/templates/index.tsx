@@ -308,7 +308,7 @@ color:white;
    
   }
   .address{flex-basis:100%;
-    min-height:1060px
+    min-height:975px
   }
   .topics {
     width:95%;
