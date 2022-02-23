@@ -138,11 +138,8 @@ export const SiteNavMain = css`
   left: 0;
   z-index: 1000;
   /* background: color(var(--darkgrey) l(-5%)) */
-  
-  background: linear-gradient(0deg, #000000, #0e0000, #170100, #1e0100, #240100, #290200, #2e0100, #330000);
-      @media (max-width: 700px) {
-    padding-right: 0;
-    padding-left: 0;
+  background: radial-gradient(circle at 50% 120%, #230000, #210000, #1f0000, #1d0000, #1b0000, #190000, #160000);
+     padding-left: 0;
   }
 `;
 
