@@ -6,7 +6,7 @@ author: [Ripp]
 date: 2022-02-20T10:00:00.000Z
 tags:
   - Baldwin County
-excerpt: Baldwin County Sheriffs Office 
+excerpt: Articles related to the Baldwin County Sheriffs Office 
 
 ---
 
