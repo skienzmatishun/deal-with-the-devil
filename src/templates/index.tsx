@@ -295,7 +295,6 @@ box-shadow:#00000050 5px 5px 10px;
 
 .topics {
   border-radius:4px;
-  width:30rem;
   padding:.5em;
   box-shadow:#00000050 5px 5px 5px;
   background: #582a2a;
