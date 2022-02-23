@@ -284,24 +284,29 @@ const HomePosts = css`
 .address {
   text-align:center;
   flex-basis:30%;
-  background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #000000);
+  background:#582a2a; 
   border-radius:4px;
 font-size:2.3rem;
 height:730px;
 color:white;
+box-shadow:#00000050 5px 5px 10px;
+
 }
 
 .topics {
   border-radius:4px;
   width:30rem;
   padding:.5em;
-  background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #000000);
+  box-shadow:#00000050 5px 5px 5px;
+  background: #582a2a;
+  color:black;
 } 
 .introduction {
   font-size:2.3rem;
   flex-basis:60%;
   margin:2rem; 
   padding:2rem; 
+  
 }
 @media (max-width: 795px) {
   .introduction{flex-basis:95%;
@@ -319,8 +324,8 @@ color:white;
 
   }
   @media (prefers-color-scheme: dark) {
-    .topics, {background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #00000000);}
-    .address {background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #00000000);}
+    .topics, {background: linear-gradient(0deg, #4e000050, #42050050, #37080050, #2c090050, #22070050, #16030050, #00000000);}
+    .address {background: linear-gradient(0deg, #4e000050, #42050050, #37080050, #2c090050, #22070050, #16030050, #00000000);}
   }
 
 `;
