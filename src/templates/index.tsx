@@ -139,11 +139,11 @@ const IndexPage: React.FC<IndexProps> = props => {
 <div style={{color:"white"}}>
 <ul style={{listStyle:"none", fontSize:"1.75rem",textAlign:"center"}}>
 <li style={{padding:".5rem", margin:".5rem",fontSize:".5rem"}}><h2 style={{textAlign:"center", fontSize:"2rem"}}>Murray Bubba Lawrence</h2></li>
-<li>AIS# 00241380</li>
-<li>William C Holman</li>
-<li>Correction Facility</li>
-<li>1206 Ross Rd</li>
-<li>Atmore, AL 36502</li>
+<li style={{margin:"0",padding:"0"}}>AIS# 00241380</li>
+<li style={{margin:"0",padding:"0"}}>William C Holman</li>
+<li style={{margin:"0",padding:"0"}}>Correction Facility</li>
+<li style={{margin:"0",padding:"0"}}>1206 Ross Rd</li>
+<li style={{margin:"0",padding:"0"}}>Atmore, AL 36502</li>
 </ul>
 </div>
               </div>
@@ -287,7 +287,7 @@ const HomePosts = css`
   background:#582a2a; 
   border-radius:4px;
 font-size:2.3rem;
-height:730px;
+height:675px;
 color:white;
 box-shadow:#00000050 5px 5px 10px;
 
@@ -304,13 +304,14 @@ box-shadow:#00000050 5px 5px 10px;
 .introduction {
   font-size:2.3rem;
   flex-basis:60%;
-  margin:2rem; 
-  padding:2rem; 
+  margin:.5rem; 
+  padding:.5rem; 
   
 }
 @media (max-width: 795px) {
   .introduction{flex-basis:95%;
-   
+   padding:2rem;
+   margin:2rem;
   }
   .address{flex-basis:100%;
     min-height:975px
