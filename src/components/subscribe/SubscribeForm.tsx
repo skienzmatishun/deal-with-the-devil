@@ -78,7 +78,7 @@ const SubscribeEmail = styled.input`
     /* border-color: color(var(--lightgrey) l(-2%)); */
     border-color: ${lighten('-0.02', colors.lightgrey)};
   }
-
+  .subscribe-form-title {color:white;}
   @media (prefers-color-scheme: dark) {
     /* border-color: color(var(--darkmode) l(+6%)); */
     border-color: ${lighten('0.06', colors.darkmode)};
@@ -110,8 +110,10 @@ const SubscribeFormButton = styled.button`
     color(var(--blue) lightness(-7%) saturation(-10%)) 60%,
     color(var(--blue) lightness(-7%) saturation(-10%)) 90%,
     color(var(--blue) lightness(-4%) saturation(-10%))
-  ); 
-  
+  ); */
+  /* background: linear-gradient(
+    background: linear-gradient(90deg, #a60000, #b10000, #bd0001, #c80000, #d40000, #df0000, #eb0000, #f70000);
+  ); */
   background: linear-gradient(90deg, #a60000, #b10000, #bd0001, #c80000, #d40000, #df0000, #eb0000, #f70000);
     border-radius: 5px;
 

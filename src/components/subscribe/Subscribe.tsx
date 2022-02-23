@@ -25,16 +25,14 @@ const SubscribeFormSection = styled.section`
   border: ${lighten('0.1', colors.lightgrey)} 1px solid;
   text-align: center;
   /* background: linear-gradient(color(var(--whitegrey) l(+6%)), color(var(--whitegrey) l(+4%))); */
-  background: linear-gradient(
-    ${lighten('0.06', colors.whitegrey)},
-    ${lighten('0.04', colors.whitegrey)}
-  );
+  background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #000000);
+color:white;
   border-radius: 3px;
 
   p {
     margin-bottom: 0.2em 0 1em;
     /* color: var(--midgrey); */
-    color: ${colors.midgrey};
+    color: white;
     font-size: 2.1rem;
     line-height: 1.55em;
   }
@@ -56,7 +54,7 @@ const SubscribeFormSection = styled.section`
       ${lighten('-0.06', colors.darkmode)},
       ${lighten('-0.03', colors.darkmode)}
     ); */
-    background: linear-gradient(#000, #000);
+    background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #00000000);
 
     p {
       color: rgba(255, 255, 255, 0.7);
@@ -72,7 +70,7 @@ const SubscribeFormTitle = css`
   font-size: 3.5rem;
   line-height: 1;
   font-weight: 600;
-
+color:white;
   @media (max-width: 650px) {
     font-size: 2.4rem;
   }
