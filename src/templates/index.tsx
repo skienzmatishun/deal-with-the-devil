@@ -117,6 +117,7 @@ const IndexPage: React.FC<IndexProps> = props => {
             <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
             <h2 style={{marginTop:"20px"}} >Mission Statement </h2>
             <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
+            <div className="topics">
             <h2 style={{fontSize:"4rem",margin:"4rem"}}>Topics</h2>
             <ul style={{listStyle:"none"}}>
             <Link to={`/introduction/`}>
@@ -130,7 +131,7 @@ const IndexPage: React.FC<IndexProps> = props => {
                 </Link>
                 </ul>
             </div>
-
+            </div>
             <div className="address" >
               <div style={{padding:"2rem"}}>
 <img src={Lawrence} alt="Murray Bubba Lawrence" />
@@ -287,12 +288,17 @@ const HomePosts = css`
   border-radius:4px;
 font-size:2.3rem;
 height:730px;
-
 }
+
+.topics {
+  border-radius:4px;
+  width:30rem;
+  padding:1em;
+  background: linear-gradient(0deg, #4e0000, #420500, #370800, #2c0900, #220700, #160300, #00000000);
+} 
 .introduction {
   font-size:2.3rem;
   flex-basis:60%;
-
   margin:2rem; 
   padding:2rem; 
 }
