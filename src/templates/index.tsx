@@ -283,7 +283,7 @@ const HomePosts = css`
   }
 .address {
   text-align:center;
-  flex-basis:30%;
+  flex-basis:28%;
   background:#582a2a; 
   border-radius:4px;
 font-size:2.3rem;
@@ -300,12 +300,14 @@ box-shadow:#00000050 5px 5px 10px;
   box-shadow:#00000050 5px 5px 5px;
   background: #582a2a;
   color:black;
+  margin-bottom:3rem;
 } 
 .introduction {
   font-size:2.3rem;
-  flex-basis:60%;
+  flex-basis:61%;
   margin:.5rem; 
-  padding:.5rem; 
+  padding:.5rem;
+  margin-right:2rem;
   
 }
 @media (max-width: 795px) {
@@ -317,7 +319,7 @@ box-shadow:#00000050 5px 5px 10px;
     min-height:975px
   }
   .topics {
-    width:95%;
+    width:100%;
   }
 }
   @media (prefers-color-scheme: dark) {
