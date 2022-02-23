@@ -109,7 +109,7 @@ const IndexPage: React.FC<IndexProps> = props => {
         <div className="topContainer" style={{display:"flex",flexFlow:"row wrap"}}>
           <div className="introduction">
           
-            <p style={{fontSize:"4rem",margin:"4rem"}}>Ask yourself—</p>
+            <p style={{fontSize:"4rem",marginBottom:"4rem"}}>Ask yourself—</p>
             <p> How can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
             <p>No blood, no DNA, no witnesses?</p>
             <p>5 alibi witnesses, no fingerprints, no fiber, no weapon, no ballistics— no justice.</p>
@@ -280,17 +280,18 @@ const HomePosts = css`
   }
 .address {
   text-align:center;
-  width:45%;
+  flex-basis:30%;
   background:#e7e7e7;
   margin:2rem; 
   padding:2rem; 
   border-radius:4px;
 font-size:2.3rem;
-max-height:900px;
+max-height:725px;
 }
 .introduction {
   font-size:2.3rem;
-  width:45%;
+  flex-basis:60%;
+
   margin:2rem; 
   padding:2rem; 
 }
