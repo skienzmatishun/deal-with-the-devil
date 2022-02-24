@@ -19,8 +19,7 @@ import IndexLayout from '../layouts';
 import { colors } from '../styles/colors';
 import { inner, outer, SiteMain } from '../styles/shared';
 import config from '../website-config';
-import { AuthorList } from '../components/AuthorList';
-
+import { CommentForm } from '../components/comments/CommentForm';
 export interface Author {
   name: string;
   bio: string;
@@ -225,7 +224,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
           relatedPosts={data.relatedPosts}
           pageContext={pageContext}
         />
-
+<CommentForm />
         <Footer />
       </Wrapper>
     </IndexLayout>

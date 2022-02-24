@@ -1,12 +1,4 @@
-import { lighten, saturate } from 'polished';
 import React from 'react';
-import styled from '@emotion/styled';
-
-import { css } from '@emotion/react';
-
-import { colors } from '../../styles/colors';
-import config from '../../website-config';
-
 export const CommentForm: React.FC = () => (
 <form 
 method="post"
