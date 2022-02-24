@@ -1,8 +1,9 @@
 import React from 'react';
 export const CommentForm: React.FC = () => (
+
 <form 
 method="post"
-action="https://:https://deal-with-the-devil-comments.herokuapp.com/v2/entry/:skienzmatishun/:deal-with-the-devil/master/comments">
+action="https://deal-with-the-devil-comments.herokuapp.com/v2/entry/:skienzmatishun/:deal-with-the-devil/master/comments">
   <input 
   name="options[redirect]" 
   type="hidden" 

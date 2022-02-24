@@ -217,14 +217,13 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
             </article>
           </div>
         </main>
-
+        <CommentForm />
         <ReadNext
           currentPageSlug={location.pathname}
           tags={post.frontmatter.tags}
           relatedPosts={data.relatedPosts}
           pageContext={pageContext}
         />
-<CommentForm />
         <Footer />
       </Wrapper>
     </IndexLayout>
