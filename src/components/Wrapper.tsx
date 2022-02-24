@@ -16,5 +16,6 @@ const StyledWrapper = styled.div`
   color:black;
   
   @media (prefers-color-scheme: dark) {
-    background: radial-gradient(circle at 50% 50%, #1b0000, #180000, #150000, #110000, #0c0000, #060000, #000000);    color:white;
+    background: transparent;
+    color:white;
 `;

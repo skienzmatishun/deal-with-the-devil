@@ -31,7 +31,7 @@ export const SiteMain = css`
   flex-grow: 1;
 
   @media (prefers-color-scheme: dark) {
-    background: ${colors.darkmode};
+    background: transparent;
   }
 `;
 
@@ -80,7 +80,7 @@ export const PostFeed = css`
   border-top-right-radius: 3px;
 
   @media (prefers-color-scheme: dark) {
-    background: ${colors.darkmode};
+    background: transparent;
   }
 `;
 
