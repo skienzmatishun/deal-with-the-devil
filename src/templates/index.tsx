@@ -103,8 +103,9 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
         </div>
         <div css={inner}>
-          <div>
-          <p style={{fontSize:"2.25rem",margin:"75px"}}>“I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you don’t like that deal, you come after your D.A.”<br /> - David Whetstone.</p>
+          <div style={{padding:"2rem"}}>
+          <p style={{fontSize:"2.25rem",marginTop:"3rem",marginBottom:"1.5rem"}}>“I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you don’t like that deal, you come after your D.A.”</p>
+          <p style={{marginTop:"0",marginBottom:"4rem"}}> - David Whetstone.</p>
           </div>
         <div className="topContainer" style={{display:"flex",flexFlow:"row wrap"}}>
           <div className="introduction">
@@ -132,13 +133,15 @@ const IndexPage: React.FC<IndexProps> = props => {
                 </ul>
             </div>
             </div>
-            <div className="address" >
+            <div className="address">
+              <button className="petition-button">Sign Petition</button>
               <div>
+              <h2 style={{textAlign:"center", fontSize:"2rem", margin:"2rem"}}>Murray Bubba Lawrence</h2>
 <img style={{borderTopRightRadius:"4px",borderTopLeftRadius:"4px"}} src={Lawrence} alt="Murray Bubba Lawrence" />
 </div>
 <div style={{color:"white"}}>
-<ul style={{listStyle:"none", fontSize:"1.75rem",textAlign:"center"}}>
-<li style={{padding:".5rem", margin:".5rem",fontSize:".5rem"}}><h2 style={{textAlign:"center", fontSize:"2rem"}}>Murray Bubba Lawrence</h2></li>
+<ul style={{listStyle:"none", fontSize:"1.75rem",textAlign:"center", margin:"2rem"}}>
+
 <li style={{margin:"0",padding:"0"}}>AIS# 00241380</li>
 <li style={{margin:"0",padding:"0"}}>William C Holman</li>
 <li style={{margin:"0",padding:"0"}}>Correction Facility</li>
@@ -287,19 +290,20 @@ const HomePosts = css`
   background:#582a2a; 
   border-radius:4px;
 font-size:2.3rem;
-height:675px;
 color:white;
 box-shadow:#00000050 5px 5px 10px;
-
+margin-top:8rem;
+height:750px;
+padding:.5rem;
 }
 
 .topics {
   border-radius:4px;
-  padding:.5em;
   box-shadow:#00000050 5px 5px 5px;
   background: #582a2a;
   color:black;
-  margin-bottom:3rem;
+  margin-bottom:2rem;
+  padding:1rem;
 } 
 .introduction {
   font-size:2.3rem;
@@ -309,6 +313,13 @@ box-shadow:#00000050 5px 5px 10px;
   margin-right:2rem;
   
 }
+
+.petition-button {
+  background: #830000;
+  padding:1.5rem;
+margin:2rem;
+}
+
 @media (max-width: 795px) {
   .introduction{flex-basis:95%;
    padding:2rem;
