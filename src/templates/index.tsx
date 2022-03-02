@@ -118,28 +118,15 @@ const IndexPage: React.FC<IndexProps> = props => {
             <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
             <h2 style={{marginTop:"20px"}} >Mission Statement </h2>
             <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
-            <div className="topics">
-            <h2 style={{fontSize:"4rem",margin:"4rem", color:"white"}}>Topics</h2>
-            <ul style={{listStyle:"none"}}>
-            <Link to={`/introduction/`}>
-            <li>Introduction</li>
-                </Link>
-                <Link to={`/tags/baldwin-county/`}>
-            <li>Baldwin County</li>
-                </Link>
-                <Link to={`/tags/testimonials/`}>
-            <li>Testimonials</li>
-                </Link>
-                </ul>
-            </div>
             </div>
             <div className="address">
               <button className="petition-button">Sign Petition</button>
               <div>
+                
               <h2 style={{textAlign:"center", fontSize:"2rem", margin:"2rem"}}>Murray Bubba Lawrence</h2>
 <img style={{borderTopRightRadius:"4px",borderTopLeftRadius:"4px"}} src={Lawrence} alt="Murray Bubba Lawrence" />
 </div>
-<div style={{color:"white"}}>
+<div >
 <ul style={{listStyle:"none", fontSize:"1.75rem",textAlign:"center", margin:"2rem"}}>
 
 <li style={{margin:"0",padding:"0"}}>AIS# 00241380</li>
@@ -150,6 +137,20 @@ const IndexPage: React.FC<IndexProps> = props => {
 </ul>
 </div>
               </div>
+            </div>
+            <div className="topics">
+            <h2 style={{fontSize:"4rem",margin:"4rem"}}>Topics</h2>
+            <ul style={{listStyle:"none",fontSize:"3rem"}}>
+            <Link to={`/introduction/`}>
+            <li>Introduction</li>
+                </Link>
+                <Link to={`/tags/baldwin-county/`}>
+            <li>Baldwin County</li>
+                </Link>
+                <Link to={`/tags/testimonials/`}>
+            <li>Testimonials</li>
+                </Link>
+                </ul>
             </div>
           </div>
         
@@ -287,20 +288,16 @@ const HomePosts = css`
 .address {
   text-align:center;
   flex-basis:28%;
-  background:#582a2a; 
   border-radius:4px;
 font-size:2.3rem;
-color:white;
-box-shadow:#00000050 5px 5px 10px;
-margin-top:8rem;
+color:black;
+margin-top:-100px;
 height:750px;
 padding:.5rem;
 }
 
 .topics {
   border-radius:4px;
-  box-shadow:#00000050 5px 5px 5px;
-  background: #582a2a;
   color:black;
   margin-bottom:2rem;
   padding:1rem;
@@ -313,11 +310,17 @@ padding:.5rem;
   margin-right:2rem;
   
 }
+.topContainer {
+  background:#00000025;
+  padding:2em;
+  border-radius:4px;
+}
 
 .petition-button {
   background: #830000;
   padding:1.5rem;
 margin:2rem;
+color:white;
 }
 
 @media (max-width: 795px) {
@@ -326,19 +329,21 @@ margin:2rem;
    margin:2rem;
   }
   .address{flex-basis:100%;
-    min-height:975px
+    min-height:975px;
+    margin-top:1em;
   }
   .topics {
     width:100%;
   }
+  
 }
   @media (prefers-color-scheme: dark) {
     body{background: var(--darkmode);}
 
   }
   @media (prefers-color-scheme: dark) {
-    .topics, {background: linear-gradient(0deg, #4e000050, #42050050, #37080050, #2c090050, #22070050, #16030050, #00000000);}
-    .address {background: linear-gradient(0deg, #4e000050, #42050050, #37080050, #2c090050, #22070050, #16030050, #00000000);}
+ .address, .topics {color:white;}
+ 
   }
 
 `;
