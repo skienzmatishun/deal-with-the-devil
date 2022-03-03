@@ -85,7 +85,7 @@ const IndexPage: React.FC<IndexProps> = props => {
           }}
         >
           <div css={inner}>
-          <SiteNav isHome />
+            <SiteNav isHome />
             <SiteHeaderContent className="site-header-content">
               <SiteTitle className="site-title">
                 {props.data.logo ? (
@@ -103,68 +103,68 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
         </div>
         <div css={inner}>
-          <div style={{padding:"2rem"}}>
-          <p style={{fontSize:"2.25rem",marginTop:"3rem",marginBottom:"1.5rem"}}>“I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you don’t like that deal, you come after your D.A.”</p>
-          <p style={{marginTop:"0",marginBottom:"4rem"}}> - David Whetstone.</p>
+          <div style={{ padding: "2rem" }}>
+            <p style={{ fontSize: "2.25rem", marginTop: "3rem", marginBottom: "1.5rem" }}>“I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you don’t like that deal, you come after your D.A.”</p>
+            <p style={{ marginTop: "0", marginBottom: "4rem" }}> - David Whetstone.</p>
           </div>
-        <div className="topContainer" style={{display:"flex",flexFlow:"row wrap"}}>
-          <div className="introduction">
-          
-            <p style={{fontSize:"4rem",marginBottom:"4rem"}}>Ask yourself—</p>
-            <p> How can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
-            <p>No blood, no DNA, no witnesses?</p>
-            <p>5 alibi witnesses, no fingerprints, no fiber, no weapon, no ballistics— no justice.</p>
-            <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.</p>
-            <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
-            <h2 style={{marginTop:"20px"}} >Mission Statement </h2>
-            <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
+          <div className="topContainer" style={{ display: "flex", flexFlow: "row wrap" }}>
+            <div className="introduction">
+
+              <p style={{ fontSize: "4rem", marginBottom: "4rem" }}>Ask yourself—</p>
+              <p> How can someone be convicted of murder, based entirely on testimony of a single person who is an acomplice bargaining on a reduced sentence?</p>
+              <p>No blood, no DNA, no witnesses?</p>
+              <p>5 alibi witnesses, no fingerprints, no fiber, no weapon, no ballistics— no justice.</p>
+              <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.</p>
+              <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
+              <h2 style={{ marginTop: "20px" }} >Mission Statement </h2>
+              <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
             </div>
             <div className="address">
               <button className="petition-button">Sign Petition</button>
               <div>
-                
-              <h2 style={{textAlign:"center", fontSize:"2rem", margin:"2rem"}}>Murray Bubba Lawrence</h2>
-<img style={{borderTopRightRadius:"4px",borderTopLeftRadius:"4px"}} src={Lawrence} alt="Murray Bubba Lawrence" />
-</div>
-<div >
-<ul style={{listStyle:"none", fontSize:"1.75rem",textAlign:"center", margin:"2rem"}}>
 
-<li style={{margin:"0",padding:"0"}}>AIS# 00241380</li>
-<li style={{margin:"0",padding:"0"}}>William C Holman</li>
-<li style={{margin:"0",padding:"0"}}>Correction Facility</li>
-<li style={{margin:"0",padding:"0"}}>1206 Ross Rd</li>
-<li style={{margin:"0",padding:"0"}}>Atmore, AL 36502</li>
-</ul>
-</div>
+                <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem" }}>Murray Bubba Lawrence</h2>
+                <img style={{ borderTopRightRadius: "4px", borderTopLeftRadius: "4px" }} src={Lawrence} alt="Murray Bubba Lawrence" />
+              </div>
+              <div >
+                <ul style={{ listStyle: "none", fontSize: "1.75rem", textAlign: "center", margin: "2rem" }}>
+
+                  <li style={{ margin: "0", padding: "0" }}>AIS# 00241380</li>
+                  <li style={{ margin: "0", padding: "0" }}>William C Holman</li>
+                  <li style={{ margin: "0", padding: "0" }}>Correction Facility</li>
+                  <li style={{ margin: "0", padding: "0" }}>1206 Ross Rd</li>
+                  <li style={{ margin: "0", padding: "0" }}>Atmore, AL 36502</li>
+                </ul>
               </div>
             </div>
-            <div className="topics">
-            <h2 style={{fontSize:"4rem",margin:"4rem"}}>Topics</h2>
-            <ul style={{listStyle:"none",fontSize:"3rem"}}>
-            <Link to={`/introduction/`}>
-            <li>Introduction</li>
-                </Link>
-                <Link to={`/tags/baldwin-county/`}>
-            <li>Baldwin County</li>
-                </Link>
-                <Link to={`/tags/testimonials/`}>
-            <li>Testimonials</li>
-                </Link>
-                </ul>
-            </div>
           </div>
-        
+          <div className="topics">
+            <h2 style={{ margin: "4rem" }}>Topics</h2>
+            <ul style={{ listStyle: "none", fontSize: "3rem", display: "inline-flex", flexFlow: "row wrap" }}>
+              <Link to={`/introduction/`}>
+                <li >Introduction</li>
+              </Link>
+              <Link to={`/tags/baldwin-county/`}>
+                <li style={{ marginLeft: ".5em" }}>Baldwin County</li>
+              </Link>
+              <Link to={`/tags/testimonials/`}>
+                <li style={{ marginLeft: ".5em" }}>Testimonials</li>
+              </Link>
+            </ul>
+          </div>
+        </div>
+
         <main id="site-main" css={[SiteMain, outer]}>
           <div css={[inner, Posts]}>
             <div css={[PostFeed]}>
               {props.data.allMarkdownRemark.edges.map((post, index) =>
-                // filter out drafts in production
-                (
-                  (post.node.frontmatter.draft !== true
-                    || process.env.NODE_ENV !== 'production') && (
-                    <PostCard key={post.node.fields.slug} post={post.node} large={index === 0} />
-                  )
-                ),
+              // filter out drafts in production
+              (
+                (post.node.frontmatter.draft !== true
+                  || process.env.NODE_ENV !== 'production') && (
+                  <PostCard key={post.node.fields.slug} post={post.node} large={index === 0} />
+                )
+              ),
               )}
             </div>
           </div>
@@ -302,6 +302,12 @@ padding:.5rem;
   margin-bottom:2rem;
   padding:1rem;
 } 
+.topics ul a {
+  margin-left:.5em;
+  padding:1em;
+  background:#830000;
+  color:white;
+}
 .introduction {
   font-size:2.3rem;
   flex-basis:61%;
@@ -339,6 +345,9 @@ color:white;
 }
   @media (prefers-color-scheme: dark) {
     body{background: var(--darkmode);}
+    .topics ul a {
+      background:#00000025;
+    }
 
   }
   @media (prefers-color-scheme: dark) {
