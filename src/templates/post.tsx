@@ -217,7 +217,6 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
             </article>
           </div>
         </main>
-        <CommentForm />
         <ReadNext
           currentPageSlug={location.pathname}
           tags={post.frontmatter.tags}

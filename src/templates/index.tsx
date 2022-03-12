@@ -103,7 +103,7 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
         </div>
         <div css={inner}>
-          <div style={{ padding: "2rem" }}>
+          <div style={{ padding: "1rem" }}>
             <p style={{ fontSize: "2.25rem", marginTop: "3rem", marginBottom: "1.5rem" }}>“I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you don’t like that deal, you come after your D.A.”</p>
             <p style={{ marginTop: "0", marginBottom: "4rem" }}> - David Whetstone.</p>
           </div>
