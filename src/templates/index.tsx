@@ -124,7 +124,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               <div>
 
                 <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem" }}>Murray Bubba Lawrence</h2>
-                <img style={{ borderTopRightRadius: "4px", borderTopLeftRadius: "4px" }} src={Lawrence} alt="Murray Bubba Lawrence" />
+                <img style={{ borderTopRightRadius: "4px", borderTopLeftRadius: "4px", marginBottom:"5rem" }} src={Lawrence} alt="Murray Bubba Lawrence" />
               </div>
               <div >
                 <ul style={{ listStyle: "none", fontSize: "1.75rem", textAlign: "center", margin: "2rem" }}>
