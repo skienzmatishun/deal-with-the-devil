@@ -123,7 +123,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               <a href="https://chng.it/pv4xJVYLPR"> <span className="petition-button" >Sign Petition</span></a>
               <div>
 
-                <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem" }}>Murray Bubba Lawrence</h2>
+                <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem", marginTop:"5rem" }}>Murray Bubba Lawrence</h2>
                 <img style={{ borderTopRightRadius: "4px", borderTopLeftRadius: "4px", marginBottom:"5rem" }} src={Lawrence} alt="Murray Bubba Lawrence" />
               </div>
               <div >
