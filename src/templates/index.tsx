@@ -346,6 +346,7 @@ color:white;
     body{background: var(--darkmode);}
     .topics ul a {
       background:#00000025;
+      color:white;
     }
 
   }
