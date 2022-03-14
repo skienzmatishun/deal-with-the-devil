@@ -142,13 +142,13 @@ const IndexPage: React.FC<IndexProps> = props => {
             <h2 style={{ margin: "4rem" }}>Topics</h2>
             <ul style={{ listStyle: "none", fontSize: "3rem", display: "inline-flex", flexFlow: "row wrap" }}>
               <Link to={`/introduction/`}>
-                <li >Introduction</li>
+                <li style={{minWidth:"400px"}}>Introduction</li>
               </Link>
               <Link to={`/tags/baldwin-county/`}>
-                <li style={{ marginLeft: ".5em" }}>Baldwin County</li>
+                <li style={{minWidth:"400px" }}>Baldwin County</li>
               </Link>
               <Link to={`/tags/testimonials/`}>
-                <li style={{ marginLeft: ".5em" }}>Testimonials</li>
+                <li style={{  minWidth:"400px" }}>Testimonials</li>
               </Link>
             </ul>
           </div>
