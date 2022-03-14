@@ -330,8 +330,8 @@ color:white;
 
 @media (max-width: 795px) {
   .introduction{flex-basis:95%;
-   padding:2rem;
-   margin:2rem;
+   padding:.5rem;
+   margin:0;
   }
   .address{flex-basis:100%;
     min-height:975px;
@@ -340,7 +340,9 @@ color:white;
   .topics {
     width:100%;
   }
-  
+  .topContainer {
+padding:0;
+margin-left:1.5em;  
 }
   @media (prefers-color-scheme: dark) {
     body{background: var(--darkmode);}
