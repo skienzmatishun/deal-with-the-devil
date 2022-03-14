@@ -22,9 +22,7 @@ export interface PostContentProps {
 const PostContent: React.FC<PostContentProps> = ({ htmlAst }) => (
   <PostFullContent className="post-full-content">
     <Ast className="post-content" ast={htmlAst} />
-<iframe width="100%" height="1200px" src="http://localhost:8000/tags/signatures/">
 
-</iframe>
   </PostFullContent>
 );
 
