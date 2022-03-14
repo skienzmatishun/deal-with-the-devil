@@ -120,7 +120,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
             </div>
             <div className="address">
-              <button className="petition-button">Sign Petition</button>
+              <a href="https://chng.it/pv4xJVYLPR"> <span className="petition-button" >Sign Petition</span></a>
               <div>
 
                 <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem" }}>Murray Bubba Lawrence</h2>

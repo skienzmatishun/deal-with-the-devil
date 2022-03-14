@@ -2,7 +2,7 @@ import { lighten } from 'polished';
 import React from 'react';
 import styled from '@emotion/styled';
 import RehypeReact from 'rehype-react';
-
+import Comments from './Comments'
 import { colors } from '../styles/colors';
 
 const renderAst = new RehypeReact({
@@ -22,6 +22,9 @@ export interface PostContentProps {
 const PostContent: React.FC<PostContentProps> = ({ htmlAst }) => (
   <PostFullContent className="post-full-content">
     <Ast className="post-content" ast={htmlAst} />
+<iframe width="100%" height="1200px" src="http://localhost:8000/tags/signatures/">
+
+</iframe>
   </PostFullContent>
 );
 
@@ -261,6 +264,7 @@ export const PostFullContent = styled.section`
       'Open Sans', 'Helvetica Neue', sans-serif;
   }
 
+
   h1 {
     margin: 0.5em 0 0.4em;
     font-size: 4.2rem;
@@ -329,6 +333,7 @@ export const PostFullContent = styled.section`
       line-height: 1.3em;
     }
   }
+  
 
   h5 {
     display: block;

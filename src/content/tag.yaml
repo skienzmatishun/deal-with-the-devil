@@ -7,3 +7,6 @@
 - id: Testimonial
   description: Testimonials
   image: img/thetruth.png
+- id: Signatures
+  description: Petition Signatures
+  image: img/thetruth.png
