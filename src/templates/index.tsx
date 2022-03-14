@@ -123,8 +123,8 @@ const IndexPage: React.FC<IndexProps> = props => {
               <a href="https://chng.it/pv4xJVYLPR"> <span className="petition-button" >Sign Petition</span></a>
               <div>
 
-                <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem", marginTop:"5rem" }}>Murray Bubba Lawrence</h2>
-                <img style={{ borderTopRightRadius: "4px", borderTopLeftRadius: "4px", marginBottom:"5rem" }} src={Lawrence} alt="Murray Bubba Lawrence" />
+                <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem" }}>Murray Bubba Lawrence</h2>
+                <img style={{ borderTopRightRadius: "4px", borderTopLeftRadius: "4px" }} src={Lawrence} alt="Murray Bubba Lawrence" />
               </div>
               <div >
                 <ul style={{ listStyle: "none", fontSize: "1.75rem", textAlign: "center", margin: "2rem" }}>
@@ -330,8 +330,8 @@ color:white;
 
 @media (max-width: 795px) {
   .introduction{flex-basis:95%;
-   padding:.5rem;
-   margin:0;
+   padding:2rem;
+   margin:2rem;
   }
   .address{flex-basis:100%;
     min-height:975px;
@@ -340,9 +340,7 @@ color:white;
   .topics {
     width:100%;
   }
-  .topContainer {
-padding:0;
-margin-left:1.5em;  
+  
 }
   @media (prefers-color-scheme: dark) {
     body{background: var(--darkmode);}
