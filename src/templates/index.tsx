@@ -25,7 +25,7 @@ import {
 } from '../styles/shared';
 import config from '../website-config';
 import { PageContext } from './post';
-import Lawrence from '../content/img/lawrence.jpg';
+import Lawrence JR from '../content/img/lawrence.jpg';
 export interface IndexProps {
   pageContext: {
     currentPage: number;
@@ -117,14 +117,14 @@ const IndexPage: React.FC<IndexProps> = props => {
               <p>This case is destined to be a feature documentary exposing an inept and corrupt judical system.</p>
               <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
               <h2 style={{ marginTop: "20px" }} >Mission Statement </h2>
-              <p>The release of wrongfully convicted Murray "Bubba" Lawrence</p>
+              <p>The release of wrongfully convicted Murray "Bubba" Lawrence JR</p>
             </div>
             <div className="address">
               <a href="https://chng.it/pv4xJVYLPR"> <span className="petition-button" >Sign Petition</span></a>
               <div>
 
-                <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem", marginTop:"5rem" }}>Murray Bubba Lawrence</h2>
-                <img style={{ borderTopRightRadius: "4px", borderTopLeftRadius: "4px" }} src={Lawrence} alt="Murray Bubba Lawrence" />
+                <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem", marginTop:"5rem" }}>Murray Bubba Lawrence JR</h2>
+                <img style={{ borderTopRightRadius: "4px", borderTopLeftRadius: "4px" }} src={Lawrence} alt="Murray Bubba Lawrence JR" />
               </div>
               <div >
                 <ul style={{ listStyle: "none", fontSize: "1.75rem", textAlign: "center", margin: "2rem" }}>
