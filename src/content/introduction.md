@@ -38,7 +38,7 @@ In the 2200 page trial transcript, the prosecution, defense and police have test
 Establishing a timeline before and after the crime is the most basic of basic procedures in investigation. The so called investigation, produced nothing that connected Murray Lawrence Jr. to the crime. The timeline produced from the transcript, provides Mr. Lawrence Jr. with 5 separate witnesses that testified seeing Mr. Lawrence Jr. at his home during the time the crime was committed.
 
 
-The “investigation” produced no fingerprints, no weapon, no ballistics, no blood, no fiber, no DNA, no timeline, no witness to the crime, only the testimony of the McNeal. The murderer, was threatened with the death penalty if he did not give up an accomplice.
+The “investigation” produced no fingerprints, no weapon, no ballistics, no blood, no fiber, no DNA, no timeline, no witness to the crime, only the testimony of the McNeal. The murderer, was threatened with the death penalty.
 
 
 > A felony conviction cannot be had on the testimony of an accomplice unless corroborated by other evidence tending 
