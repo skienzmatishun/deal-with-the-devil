@@ -25,7 +25,7 @@ import {
 } from '../styles/shared';
 import config from '../website-config';
 import { PageContext } from './post';
-import Lawrence Jr. from '../content/img/lawrence.jpg';
+import Lawrence from '../content/img/lawrence.jpg';
 export interface IndexProps {
   pageContext: {
     currentPage: number;

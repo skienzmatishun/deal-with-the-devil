@@ -22,7 +22,7 @@ export interface PostContentProps {
 const PostContent: React.FC<PostContentProps> = ({ htmlAst }) => (
   <PostFullContent className="post-full-content">
     <Ast className="post-content" ast={htmlAst} />
-
+<div className="embed-comments" />
   </PostFullContent>
 );
 
