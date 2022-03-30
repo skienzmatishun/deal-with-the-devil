@@ -1,4 +1,3 @@
-import { format } from 'date-fns';
 import { Link } from 'gatsby';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 import _ from 'lodash';
@@ -19,12 +18,7 @@ export interface PostCardProps {
 }
 
 export const PostCard: React.FC<PostCardProps> = ({ post, large = false }) => {
-  const date = new Date(post.frontmatter.date);
-  // 2018-08-20
-  const datetime = format(date, 'yyyy-MM-dd');
-  // 20 AUG 2018
-  const displayDatetime = format(date, 'dd LLL yyyy');
-
+  
   return (
     <article
       className={`post-card ${post.frontmatter.image ? '' : 'no-image'} ${
@@ -276,12 +270,10 @@ export const AuthorProfileImage = css`
   display: block;
   width: 100%;
   height: 100%;
-  /* background: color(var(--lightgrey) l(+10%)); */
-  background: ${lighten('0.1', colors.lightgrey)};
+
   border-radius: 100%;
   object-fit: cover;
 
   @media (prefers-color-scheme: dark) {
-    background: ${colors.darkmode};
   }
 `;
