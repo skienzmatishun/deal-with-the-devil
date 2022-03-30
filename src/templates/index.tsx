@@ -88,11 +88,7 @@ const IndexPage: React.FC<IndexProps> = props => {
             <SiteNav isHome />
             <SiteHeaderContent className="site-header-content">
               <SiteTitle className="site-title">
-                {props.data.logo ? (
-                 <div className="deal-logo" />
-                ) : (
-                  config.title
-                )}
+                <div className="deal-logo" />
               </SiteTitle>
               <SiteDescription>{config.description}</SiteDescription>
             </SiteHeaderContent>
@@ -181,11 +177,7 @@ const IndexPage: React.FC<IndexProps> = props => {
 
 export const pageQuery = graphql`
   query blogPageQuery($skip: Int!, $limit: Int!) {
-    logo: file(relativePath: { eq: "img/ghost-logo.png" }) {
-      childImageSharp {
-        gatsbyImageData(layout: FIXED)
-      }
-    }
+   
     header: file(relativePath: { eq: "img/blog-cover.jpg" }) {
       childImageSharp {
         gatsbyImageData(width: 2000, quality: 50, layout: FIXED)
