@@ -23,7 +23,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-sharp',
       options: {
-        defaultQuality: 100,
+        defaultQuality: 75,
         stripMetadata: true,
       },
     },
@@ -52,7 +52,7 @@ module.exports = {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 2000,
-              quality: 100,
+              quality: 75,
             },
           },
           {
