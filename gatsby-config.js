@@ -11,6 +11,12 @@ module.exports = {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml.name',
   },
   plugins: [
+      {
+          resolve: `gatsby-plugin-disqus`,
+          options: {
+              shortname: `deal-with-the-devil`
+          }
+      },
     'gatsby-plugin-sitemap',
     'gatsby-plugin-image',
     {
@@ -65,6 +71,7 @@ module.exports = {
         ],
       },
     },
+    
     'gatsby-transformer-json',
     {
       resolve: 'gatsby-plugin-canonical-urls',

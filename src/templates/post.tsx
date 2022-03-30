@@ -8,7 +8,7 @@ import { Helmet } from 'react-helmet';
 
 import { css } from '@emotion/react';
 import styled from '@emotion/styled';
-
+import { Disqus } from 'gatsby-plugin-disqus';
 import { Footer } from '../components/Footer';
 import SiteNav, { SiteNavMain } from '../components/header/SiteNav';
 import PostContent from '../components/PostContent';
@@ -19,12 +19,13 @@ import IndexLayout from '../layouts';
 import { colors } from '../styles/colors';
 import { inner, outer, SiteMain } from '../styles/shared';
 import config from '../website-config';
-import { CommentForm } from '../components/comments/CommentForm';
+
 export interface Author {
   name: string;
   bio: string;
   avatar: any;
 }
+
 
 interface PageTemplateProps {
   location: Location;
@@ -93,6 +94,7 @@ export interface PageContext {
     author: Author[];
   };
 }
+
 
 const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
   const post = data.markdownRemark;
@@ -214,6 +216,11 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
 
              
             </article>
+            <Disqus 
+      identifier={post.frontmatter.title}
+      title={post.frontmatter.title}
+      url={`${config.siteUrl}${location.pathname}`}
+    />
           </div>
         </main>
         <ReadNext
@@ -417,6 +424,7 @@ export const query = graphql`query ($slug: String, $primaryTag: String) {
         childImageSharp {
           gatsbyImageData(layout: FULL_WIDTH)
         }
+      id
       }
       author {
         name

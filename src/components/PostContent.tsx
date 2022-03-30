@@ -2,7 +2,6 @@ import { lighten } from 'polished';
 import React from 'react';
 import styled from '@emotion/styled';
 import RehypeReact from 'rehype-react';
-import Comments from './Comments'
 import { colors } from '../styles/colors';
 
 const renderAst = new RehypeReact({
@@ -22,7 +21,7 @@ export interface PostContentProps {
 const PostContent: React.FC<PostContentProps> = ({ htmlAst }) => (
   <PostFullContent className="post-full-content">
     <Ast className="post-content" ast={htmlAst} />
-<div className="embed-comments"/>
+
   </PostFullContent>
 );
 
