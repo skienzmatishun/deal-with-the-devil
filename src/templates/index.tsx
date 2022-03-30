@@ -190,7 +190,7 @@ export const pageQuery = graphql`
         gatsbyImageData(layout: FIXED)
       }
     }
-    header: file(relativePath: { eq: "img/blog-cover.png" }) {
+    header: file(relativePath: { eq: "img/blog-cover.jpg" }) {
       childImageSharp {
         gatsbyImageData(width: 2000, quality: 100, layout: FIXED)
       }
