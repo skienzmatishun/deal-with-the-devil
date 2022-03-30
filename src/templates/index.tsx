@@ -326,7 +326,7 @@ width:275px;
 }
 
 @media (max-width: 795px) {
-  .introduction{flex-basis:95%;
+  .introduction{flex-basis:99%;
    padding:.5em;
    margin:.5em;
   }
