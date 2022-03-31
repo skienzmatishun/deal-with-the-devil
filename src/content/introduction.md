@@ -20,7 +20,7 @@ The Prosecutor was District Attorney David Whetstone, since retired. The lead in
 
 
 Vol. 4 Page 605 
-> “I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you  > don’t like that deal, you come after your D.A.” - David Whetstone.
+> “I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you don’t like that deal, you come after your D.A.” - David Whetstone.
 
 
 On July 31, 2003, Jarius McNeal, after 4 months in jail, implicates Murray “bubba” Lawrence Jr. in the May 6 2003, murder of Brandon Hastings of Foley, Alabama.
