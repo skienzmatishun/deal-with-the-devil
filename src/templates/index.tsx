@@ -280,6 +280,7 @@ const HomePosts = css`
 font-size:2.3rem;
 color:black;
 margin-top:-100px;
+margin-bottom:20px;
 height:750px;
 padding:.5rem;
 }
