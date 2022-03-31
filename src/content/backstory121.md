@@ -6,7 +6,7 @@ author: [Ripp]
 date: 2022-03-20T10:00:00.000Z
 tags:
   - Backstory Podcast
-excerpt: Among the personal items that former Baldwin County District Attorney David Whetstone left behind after leaving office in 2006, easily the most curious was a wooden statue of a devil.
+excerpt: Attorney General Steve Marshall appeared before the Senate Judiciary Committee this week to object to the nomination of the President Joe Biden's Nominee to the Supreme Court of the United States of America Ketanji Brown Jackson. And he got Will Smith'ed.  
 
 ---
 
