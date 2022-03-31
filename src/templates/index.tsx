@@ -132,15 +132,15 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
           <div className="topics">
             <h2 style={{ margin: "4rem" }}>Topics</h2>
-            <ul style={{ listStyle: "none", fontSize: "3rem", display: "inline-flex", flexFlow: "row wrap", background:"#00000025" }}>
+            <ul style={{ justifyContent:"center", listStyle: "none", display: "flex", flexFlow: "row wrap" }}>
               <Link to={`/introduction/`}>
-                <li style={{minWidth:"240px"}}>Introduction</li>
+                <li >Introduction</li>
               </Link>
               <Link to={`/tags/baldwin-county/`}>
-                <li style={{minWidth:"240px"}}>Baldwin County</li>
+                <li >Baldwin County</li>
               </Link>
               <Link to={`/tags/testimonials/`}>
-                <li style={{  minWidth:"240px" }}>Testimonials</li>
+                <li  >Testimonials</li>
               </Link>
             </ul>
           </div>
@@ -287,8 +287,10 @@ padding:.5rem;
 .topics {
   border-radius:4px;
   color:black;
-  margin-bottom:2rem;
+  margin-bottom:1rem;
   padding:1rem;
+    background:#00000025;
+    text-align:center;
 } 
 .topics ul a {
   margin-left:.5em;
@@ -342,7 +344,6 @@ width:275px;
   @media (prefers-color-scheme: dark) {
     body{background: var(--darkmode);}
     .topics ul a {
-      background:#00000025;
       color:white;
     }
     
