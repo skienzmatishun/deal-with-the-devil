@@ -3,7 +3,7 @@ layout: post
 title: 'Violence Afoot'
 image: img/bsp122.jpg
 author: [Ripp]
-date: 2030-04-4T10:00:00.000Z
+date: 2010-04-4T10:00:00.000Z
 tags:
   - Backstory Podcast
 excerpt: From the Oscars in LA to the Streets of Mobile, Alabama to beaches of Panama City and Miami, violence is on the rise.  All the while Alabama Republicans all seem to be running against Joe Biden. 
