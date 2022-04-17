@@ -3,7 +3,7 @@ layout: post
 title: 'Ki Yay Mother Yippee'
 image: img/bsp123.jpg
 author: [Ripp]
-date: 2022-04-11T10:00:00.000Z
+date: 2018-04-11T10:00:00.000Z
 tags:
   - Backstory Podcast
 excerpt: Bruce Willis, the Star of the greatest Christmas Movie of all times, DIE HARD has Aphasia.  We have have a crime problem in Alabama that begins and ends with the Ethics Laws and those who wrote them, but also those who enforce (and it's kind of a joke) as is the 3 percent of the Alabama General Fund Budget allocated to the Court System. 
