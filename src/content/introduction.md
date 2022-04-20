@@ -52,7 +52,7 @@ The transcript timeline also proves that it would be impossible for Mr. Lawrence
 This case is a travesty of justice, an example of inept police investigation accompanied by a prosecution based on fiction and creative speculation. The District Attorney and Sheriff knew the family of Brandon Hastings, who deserved justice. However justice was blinded by ego and a need for a conviction, regardless of evidence. This case exemplifies everything that can go wrong in a court of law.
 
 
-For close to two years a small staff has been reviewing the trial transcript, visiting the “alleged” murder scene and the disposal site of the body. We have talked with over a dozen attorneys, which has led to Attorney Rebbeca Chambliss, rebbeca@chambliss.law, coming on board, pro bono. She will be presenting the case to the [Innocence Project](https://innocenceproject.org/).
+For close to two years a small staff has been reviewing the trial transcript, visiting the “alleged” murder scene and the disposal site of the body. We have talked with over a dozen attorneys, which has led to Attorney Rebbeca Chambless, rebbeca@chambliss.law, coming on board, pro bono. She will be presenting the case to the [Innocence Project](https://innocenceproject.org/).
 
 
 Please follow us on our [Facebook page](https://www.facebook.com/Deal-with-the-Devil-100583859248573/)

@@ -124,7 +124,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
           
         </nav>
         {isHome &&(
-        <p>Advocates: Paul Ripp, Rebecca Chambliss, Harry Still, Anne Depp</p>
+        <p>Advocates: Paul Ripp, Rebecca Chambless, Harry Still, Anne Deep</p>
         )}
       </>
     );
