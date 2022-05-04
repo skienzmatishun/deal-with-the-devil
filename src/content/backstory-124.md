@@ -3,7 +3,7 @@ layout: post
 title: 'Priorities'
 image: img/bsp124.jpg
 author: [Ripp]
-date: 2022-04-16T10:00:00.000Z
+date: 2021-04-16T10:00:00.000Z
 tags:
   - Backstory Podcast
 excerpt: If you watched this legislative session unfold in Alabama you have to be asking yourself, What are our priorities? 
