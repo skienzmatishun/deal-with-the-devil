@@ -142,6 +142,9 @@ const IndexPage: React.FC<IndexProps> = props => {
               <Link to={`/tags/testimonials/`}>
                 <li  >Testimonials</li>
               </Link>
+              <Link to={`/tags/articles/`}>
+                <li  >Articles</li>
+              </Link>
             </ul>
           </div>
         </div>

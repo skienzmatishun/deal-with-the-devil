@@ -13,3 +13,6 @@
 - id: Backstory Podcast
   description: Backstory Podcast
   image: img/thetruth.png
+- id: Articles
+  description: Links to relevent articles.
+  image: img/thetruth.png
