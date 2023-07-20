@@ -3,7 +3,7 @@ layout: post
 title: The Truth
 image: img/thetruth.png
 author: [Ripp]
-date: 2022-02-21T10:00:00.000Z
+date: 2023-02-21T10:00:00.000Z
 tags:
   - Testimonials
 excerpt: Jarious McNeil was the last person to be seen with Brandon Hastings. McNeil was the person who was selling parts off of Hastings car. While being questioned by the investigating officers, McNeil changed his story four times.

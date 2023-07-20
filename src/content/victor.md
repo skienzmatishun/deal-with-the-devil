@@ -3,7 +3,7 @@ layout: post
 title: 'Jonathan Victor'
 image: img/victor.png
 author: [Ripp]
-date: 2022-02-19T10:00:00.000Z
+date: 2023-02-19T10:00:00.000Z
 tags:
   - Baldwin County
 excerpt: Additional video and audio captured during a deadly officer-involved shooting in 2017 have been submitted to the federal court as part of a wrongful death lawsuit against Baldwin County Sheriff Huey “Hoss” Mack and Deputy Matt Hunady, augmenting a library of information from the incident the Baldwin County Sheriff’s Office (BCSO) has previously declined to disclose. 
