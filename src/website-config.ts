@@ -61,7 +61,7 @@ const config: WebsiteConfig = {
   lang: 'en',
   siteUrl: 'https://deal-with-the-devil',
   facebook: 'https://www.facebook.com/dealdealwiththedevilblog',
-  twitter: 'https://twitter.com/tryghost',
+  twitter: 'https://twitter.com/rippreport',
   showSubscribe: true,
   footer: '',
   showAllTags: true,
