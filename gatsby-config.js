@@ -11,7 +11,6 @@ module.exports = {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml.name',
   },
   plugins: [
-    `gatsby-plugin-preact`,
       {
           resolve: `gatsby-plugin-disqus`,
           options: {
