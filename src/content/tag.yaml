@@ -1,0 +1,18 @@
+- id: Introduction
+  description: Introduction
+  image: img/speeches-cover.jpg
+- id: Baldwin County 
+  description: These topics are related to Baldwin County Alabama
+  image: img/speeches-cover.jpg
+- id: Testimonial
+  description: Testimonials
+  image: img/thetruth.png
+- id: Signatures
+  description: Petition Signatures
+  image: img/thetruth.png
+- id: Backstory Podcast
+  description: Backstory Podcast
+  image: img/thetruth.png
+- id: Articles
+  description: Links to relevent articles.
+  image: img/thetruth.png
