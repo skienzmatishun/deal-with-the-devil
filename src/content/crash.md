@@ -3,7 +3,7 @@ layout: post
 title: 'Joseph and Kevin Andrews, Dominic Sscotti Garcia,Crystal Lee Moradie, Payton Leigh Northcut'
 image: img/bcso-patrol.jpg
 author: [Ripp]
-date: 2018-09-30T07:03:47.149Z
+date: 2022-09-30T07:03:47.149Z
 excerpt: FIERY CRASH 5 KILLED
 tags:
     - Baldwin County

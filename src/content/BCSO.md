@@ -3,7 +3,7 @@ layout: post
 title: BCSO
 image: img/bcso.png
 author: [Ripp]
-date: 2023-02-20T10:00:00.000Z
+date: 2023-01-20T10:00:00.000Z
 tags:
   - Baldwin County
 excerpt: Articles related to the Baldwin County Sheriffs Office 

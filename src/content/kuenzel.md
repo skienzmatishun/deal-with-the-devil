@@ -3,7 +3,7 @@ layout: post
 title:  William Earnest Kuenzel
 image: img/kuenzel.png
 author: [Ripp]
-date: 2023-02-20T10:00:00.000Z
+date: 2023-01-1T10:00:00.000Z
 tags:
   - Baldwin County
 excerpt: “By this rule, Mr. Kuenzel was required to file a successive state habeas petition while his federal habeas proceedings were pending, even though Alabama Code SS 6-5-440 would have required the dismissal of such a duplicative suit.”
