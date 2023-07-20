@@ -3,7 +3,7 @@ layout: post
 title: Harry Still, III
 image: img/harrystill.jpg
 author: [Ripp]
-date: 2023-02-21T10:00:00.000Z
+date: 2022-12-21T10:00:00.000Z
 tags:
   - Testimonials
 excerpt:  Nothing prepared me for the outrage and ultimately disbelief as I read through this exhaustive transcript (the trial took two weeks).
