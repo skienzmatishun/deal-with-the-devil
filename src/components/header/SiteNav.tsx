@@ -108,8 +108,8 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                   </Link>
                 </li>
                 <li role="menuitem">
-                  <Link to="https://facebook.com" activeClassName="nav-current">
-                    Wrongfully Convicted
+                  <Link to="https://facebook.com/dealwiththedevilblog" activeClassName="nav-current">
+                    Facebook Page
                   </Link>
                 </li>
 
