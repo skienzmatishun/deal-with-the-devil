@@ -3,7 +3,7 @@ layout: post
 title: 'David Whetstone'
 image: img/whetstone.png
 author: [Ripp]
-date: 2023-01-18T10:00:00.000Z
+date: 2023-01-15T10:00:00.000Z
 tags:
   - Baldwin County
 excerpt: Among the personal items that former Baldwin County District Attorney David Whetstone left behind after leaving office in 2006, easily the most curious was a wooden statue of a devil.

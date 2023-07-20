@@ -3,7 +3,7 @@ layout: post
 title: 'Innocent'
 image: img/innocent.jpg
 author: [Ripp]
-date: 2023-1-15T10:00:00.000Z
+date: 2023-1-16T10:00:00.000Z
 tags: 
 excerpt: Vol. 4 Page 605 “I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you don’t like that deal, you come after your D.A.” David Whetstone.
 ---
