@@ -4,7 +4,7 @@ title: 'Joseph and Kevin Andrews, Dominic Sscotti Garcia,Crystal Lee Moradie, Pa
 image: img/bcso-patrol.png
 author: [Ripp]
 date: 2022-09-30T07:03:47.149Z
-excerpt: FIERY CRASH 5 KILLED
+excerpt: Questions are being raised about whether a Baldwin County sheriff's deputy violated policy by pursuing a vehicle against traffic on Interstate 10, leading to a high-speed collision that resulted in five fatalities.
 tags:
     - Baldwin County
 

@@ -6,7 +6,7 @@ author: [Ripp]
 date: 2022-11-20T10:00:00.000Z
 tags:
   - Baldwin County
-excerpt: “By this rule, Mr. Kuenzel was required to file a successive state habeas petition while his federal habeas proceedings were pending, even though Alabama Code SS 6-5-440 would have required the dismissal of such a duplicative suit.”
+excerpt: Attorneys for Alabama Death Row inmate William Ernest Kuenzel have filed an appeal to the U.S. Supreme Court, seeking permission to present new evidence to prove his innocence in the 1987 shooting death of a convenience store clerk. Despite gaining support from various figures, Kuenzel's appeals were unsuccessful, and he passed away from cancer after spending over three decades on death row.
 ---
 
 

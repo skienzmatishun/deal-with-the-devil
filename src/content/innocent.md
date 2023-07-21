@@ -5,7 +5,7 @@ image: img/innocent.jpg
 author: [Ripp]
 date: 2023-1-26T10:00:00.000Z
 tags: 
-excerpt: Vol. 4 Page 605 “I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you don’t like that deal, you come after your D.A.” David Whetstone.
+excerpt: Murray "Bubba" Lawrence was convicted of capital murder in Baldwin County, Alabama, on May 13, 2005, after spending 11 months and 10 days incarcerated. The case involved the murder of Brandon Hastings, with the conviction primarily relying on the testimony of an accomplice, lack of substantial evidence, and a flawed investigation.
 ---
 
 This is the case of Murray “Bubba” Lawrence who was convicted of capital murder in Baldwin County Alabama, May 13, 2005. He was arrested and incarcerated for 11 months 10 days, prior to conviction.
