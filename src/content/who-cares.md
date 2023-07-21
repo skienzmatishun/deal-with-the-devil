@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Who Cares'
-image: img/who-cares.jpg
+title: 'Who Cares?'
+image: img/introduction.png
 author: [Ripp]
 date: 2022-01-4T10:00:00.000Z
 tags: 
