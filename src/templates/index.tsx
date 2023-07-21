@@ -273,6 +273,7 @@ const HomePosts = css`
       line-height: 1.5em;
     }
   }
+  .post-card-meta {display:none;}
 .address {
   text-align:center;
   flex-basis:28%;
