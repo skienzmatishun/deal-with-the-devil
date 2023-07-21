@@ -3,7 +3,7 @@ layout: post
 title: 'Who Cares?'
 image: img/introduction.png
 author: [Ripp]
-date: 2022-01-4T10:00:00.000Z
+date: 2023-01-23T10:00:00.000Z
 tags: 
 excerpt: The Alabama Attorney General, Steve Marshall and Governor Ivy are putting politics before human rights. Wrongful convictions are popping up all over the United States. Alabama, unfortunately but not surprisingly, has a renowned reputation for wrongful convictions.
 ---
