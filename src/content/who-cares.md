@@ -19,7 +19,7 @@ How sad, and telling, it is about our legal system and elected officials, that t
 [An innocent man is on death row Alabama Officials seem ok with that.](https://www.al.com/news/2022/04/an-innocent-man-is-on-death-row-alabama-officials-seem-ok-with-that.html)
 
 
->> “This is supposed to be an honest system. It’s supposed to work, and they misled us,” juror Jay Crane told WBRC. "I am very disappointed. And I feel sad for the victim’s family because they haven’t gotten any justice.”
+> “This is supposed to be an honest system. It’s supposed to work, and they misled us,” juror Jay Crane told WBRC. "I am very disappointed. And I feel sad for the victim’s family because they haven’t gotten any justice.”
 
 
 BALDWIN COUNTY has it’s own wrongful conviction, Murray Bubba Lawrence. Mr. Lawrence’s case is an example of how the Sheriff’s office, Lt. Hoss Mack, prosecutor David Whetstone, and judge Wilters were promoted on the back of a wrongful conviction. Their legacy will be stained by the overzealous conviction of an innocent man.
