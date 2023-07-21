@@ -1,12 +1,12 @@
 ---
 layout: post
-title: BCSO
+title: Baldwin County Sheriffs Office
 image: img/bcso.png
 author: [Ripp]
 date: 2023-01-20T10:00:00.000Z
 tags:
   - Baldwin County
-excerpt: Articles related to the Baldwin County Sheriffs Office 
+excerpt: The Baldwin County Sheriff's Office has faced controversy over qualification rules and legal challenges related to enforcement decisions. 
 
 ---
 

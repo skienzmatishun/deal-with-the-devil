@@ -3,10 +3,10 @@ layout: post
 title: Harry Still, III
 image: img/harrystill.jpg
 author: [Ripp]
-date: 2023-01-22T10:00:00.000Z
+date: 2023-01-19T10:00:00.000Z
 tags:
   - Testimonials
-excerpt:  Nothing prepared me for the outrage and ultimately disbelief as I read through this exhaustive transcript (the trial took two weeks).
+excerpt:  In reviewing this exhaustive trial transcript, I was appalled by the injustice that allowed an innocent man, Murray "Bubba" Lawrence, to be convicted based on flawed evidence and the word of a murderer, and I am committed to drawing attention to his plight.
 
 ---
  Over the years, my client and friend Paul Ripp has brought more than a few disturbing cases to my attention. Nothing prepared me for the outrage and ultimately disbelief as I read through this exhaustive transcript (the trial took two weeks). You see I'm one of the bad guys, in that I was unaware of how easy it is for an overzealous Prosecutor (Mr. David Whetstone, an irratic sort, who I have known since I was 16), a detective whose judgment led the State to pursue this “theory of the crime” (Huey Mack has been the Sheriff here for four terms about to start his fifth), and a former FBI agent/Prosecutor/Hanging Judge (who I have know my entire life, about to serve his second six year term as our Baldwin County DIstrict Attorney) to lock up an innocent man on the word of a murderer. 
