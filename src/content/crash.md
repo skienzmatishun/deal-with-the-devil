@@ -19,6 +19,7 @@ A federal judge has dismissed Baldwin County as a defendant in a lawsuit stemmin
 
 [Same Old Story in Baldwin](https://lagniappemobile.com/same-old-story-in-baldwin/)
 
+------
 
 [Hoss Tight Lipped in Tragedies](https://lagniappemobile.com/hoss-tight-lipped-in-tragedies/)
 
