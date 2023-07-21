@@ -3,7 +3,7 @@ layout: post
 title: The Truth
 image: img/thetruth.png
 author: [Ripp]
-date: 2023-02-21T10:00:00.000Z
+date: 2023-02-20T10:00:00.000Z
 tags:
   - Testimonials
 excerpt: Jarious McNeil, the last person seen with Brandon Hastings, becomes a central figure in this case. He was involved in selling parts from Hastings' car and had a questionable testimony. During the investigation, McNeil changed his story multiple times, adding complexity to the matter.
