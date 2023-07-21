@@ -3,9 +3,9 @@ layout: post
 title: 'Innocent'
 image: img/innocent.jpg
 author: [Ripp]
-date: 2023-1-26T10:00:00.000Z
+date: 2023-02-22T10:00:00.000Z
 tags: 
-excerpt: Murray "Bubba" Lawrence was convicted of capital murder in Baldwin County, Alabama, on May 13, 2005, after spending 11 months and 10 days incarcerated. The case involved the murder of Brandon Hastings, with the conviction primarily relying on the testimony of an accomplice, lack of substantial evidence, and a flawed investigation.
+excerpt: Contrary to the verdict, there are doubts about Murray "Bubba" Lawrence's guilt in the capital murder case. The conviction relied heavily on the testimony of an accomplice, lack of substantial evidence, and the presence of flaws in the investigation process.
 ---
 
 This is the case of Murray “Bubba” Lawrence who was convicted of capital murder in Baldwin County Alabama, May 13, 2005. He was arrested and incarcerated for 11 months 10 days, prior to conviction.

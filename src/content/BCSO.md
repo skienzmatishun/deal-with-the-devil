@@ -6,7 +6,7 @@ author: [Ripp]
 date: 2023-01-20T10:00:00.000Z
 tags:
   - Baldwin County
-excerpt: The Baldwin County Sheriff's Office has faced controversy over qualification rules and legal challenges related to enforcement decisions. 
+excerpt: The Baldwin County Sheriff's Office has been mired in controversy over qualification rules and legal challenges related to their enforcement decisions.
 
 ---
 

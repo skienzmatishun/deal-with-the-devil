@@ -4,7 +4,7 @@ title: 'Joseph and Kevin Andrews, Dominic Sscotti Garcia,Crystal Lee Moradie, Pa
 image: img/bcso-patrol.png
 author: [Ripp]
 date: 2022-09-30T07:03:47.149Z
-excerpt: Questions are being raised about whether a Baldwin County sheriff's deputy violated policy by pursuing a vehicle against traffic on Interstate 10, leading to a high-speed collision that resulted in five fatalities.
+excerpt: An incident involving a Baldwin County sheriff's deputy pursuing a vehicle against traffic on Interstate 10 resulted in a high-speed collision, claiming the lives of five individuals. Questions are now being raised about whether the deputy violated policy during the pursuit.
 tags:
     - Baldwin County
 

@@ -6,7 +6,7 @@ author: [Ripp]
 date: 2023-01-13T10:00:00.000Z
 tags:
   - Baldwin County
-excerpt: Additional video and audio from a 2017 officer-involved shooting have been submitted to federal court in a wrongful death lawsuit against Baldwin County Sheriff Huey "Hoss" Mack and Deputy Matt Hunady. The evidence raises questions about the use of deadly force in the death of Jonathan Victor, who was shot and killed during a SWAT standoff after a car accident.
+excerpt: A complaint was filed against Robert Yates when deputies attempted to serve him an eviction notice, and he allegedly fired a "warning shot" from inside his mobile home.
 
 ---
 

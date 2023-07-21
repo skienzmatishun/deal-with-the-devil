@@ -3,7 +3,7 @@ layout: post
 title: Harry Still, III
 image: img/harrystill.jpg
 author: [Ripp]
-date: 2023-01-19T10:00:00.000Z
+date: 2020-01-21T10:00:00.000Z
 tags:
   - Testimonials
 excerpt:  In reviewing this exhaustive trial transcript, I was appalled by the injustice that allowed an innocent man, Murray "Bubba" Lawrence, to be convicted based on flawed evidence and the word of a murderer, and I am committed to drawing attention to his plight.
