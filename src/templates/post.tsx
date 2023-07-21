@@ -7,7 +7,6 @@ import { Helmet } from 'react-helmet';
 
 import { css } from '@emotion/react';
 import styled from '@emotion/styled';
-import { Disqus } from 'gatsby-plugin-disqus';
 import { Footer } from '../components/Footer';
 import SiteNav, { SiteNavMain } from '../components/header/SiteNav';
 import PostContent from '../components/PostContent';
@@ -22,7 +21,7 @@ export interface Author {
   name: string;
   bio: string;
   avatar: any;
-}
+} 
 
 
 interface PageTemplateProps {
@@ -201,11 +200,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
 
              
             </article>
-            <Disqus 
-      identifier={post.frontmatter.title}
-      title={post.frontmatter.title}
-      url={`${config.siteUrl}${location.pathname}`}
-    />
+        
           </div>
         </main>
         <ReadNext
