@@ -12,14 +12,14 @@ excerpt: Alabama Death Row inmate William Ernest Kuenzel's attorneys have filed 
 
 Attorneys for Alabama Death Row inmate William Ernest Kuenzel have filed an appeal to the U.S. Supreme Court, seeking a ruling that would allow him to present new evidence to prove his innocence. Kuenzel was convicted in 1987 of the shooting death of a convenience store clerk, but his case has gained support from various figures, including actors and former district attorneys. The appeal argues that critical exculpatory evidence was withheld during Kuenzel's trial, which could undermine his conviction, and questions whether Alabama's procedural rules are fair in such cases.
 
-[Alabama Death Row Inmate Appeals to US Supreme Court](https://www.al.com/news/birmingham/2016/08/alabama_death_row_inmate_appea.html)
+[Alabama Death Row Inmate Appeals to US Supreme Court - AL.com](https://www.al.com/news/birmingham/2016/08/alabama_death_row_inmate_appea.html)
 
 ---
 
 "Yet the Alabama Court of Criminal Appeals rejected Mr. Kuenzel's habeas petition as untimely under Alabama Rule of Criminal Procedure 32.2(c), which requires that successive state habeas petitions based on newly discovered evidence be brought within six months of the discovery of that evidence," the petition states. "By this rule, Mr. Kuenzel was required to file a successive state habeas petition while his federal habeas proceedings were pending, even though Alabama Code SS 6-5-440 would have required the dismissal of such a duplicative suit."
 
 
-[US Supreme Court Rejects Appeal for Alabama Death Row inmate Bill Kuenzel](https://www.al.com/news/birmingham/2016/10/us_supreme_court_rejects_appea.html)
+[US Supreme Court Rejects Appeal for Alabama Death Row inmate Bill Kuenzel - AL.com](https://www.al.com/news/birmingham/2016/10/us_supreme_court_rejects_appea.html)
 
 
 ----
@@ -44,4 +44,4 @@ William E. Kuenzel, who spent over three decades on Alabama's death row, passed 
 
 [Unjustly Incarcerated for 34 Years William Earnest Billy Kuenzel Dies at 60](https://alabamainjustice.com/unjustly-incarcerated-for-34-years-william-ernest-billy-kuenzel-dies-at-60/)
 
-[William Kuenzel Sentenced to Alabama Death Row in 1988 Dead of Cancer](https://www.al.com/news/2022/02/william-kuenzel-sentenced-to-alabama-death-row-in-1988-dead-of-cancer.html)
+[William Kuenzel Sentenced to Alabama Death Row in 1988 Dead of Cancer - AL.com](https://www.al.com/news/2022/02/william-kuenzel-sentenced-to-alabama-death-row-in-1988-dead-of-cancer.html)
