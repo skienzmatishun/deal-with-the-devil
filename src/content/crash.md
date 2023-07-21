@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joseph and Kevin Andrews, Dominic Sscotti Garcia,Crystal Lee Moradie, Payton Leigh Northcut'
-image: img/bcso-patrol.jpg
+image: img/bcso-patrol.png
 author: [Ripp]
 date: 2022-09-30T07:03:47.149Z
 excerpt: FIERY CRASH 5 KILLED
