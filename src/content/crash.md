@@ -17,9 +17,13 @@ A federal judge has dismissed Baldwin County as a defendant in a lawsuit stemmin
 
 -----
 
+>Hoss is getting sued … again. Yes, once again Baldwin County Sheriff Huey “Hoss” Mack is being dragged into a civil suit over an avoidable tragedy. And once again, he’s doing everything he can to keep you from hearing about it. 
+
 [Same Old Story in Baldwin](https://lagniappemobile.com/same-old-story-in-baldwin/)
 
 ------
+
+>If your father and brother were driving on a trip and somewhere along the way, in a place called Baldwin County, Alabama, they died after being hit head-on by a car that was chased the wrong way down I-10 by a sheriff’s deputy, you’d want answers. If you were a family member of one of the three people in the car that killed that father and son, and your child was incinerated in that fiery crash, you’d want to know as much as possible about how this all came to pass.
 
 [Hoss Tight Lipped in Tragedies](https://lagniappemobile.com/hoss-tight-lipped-in-tragedies/)
 
