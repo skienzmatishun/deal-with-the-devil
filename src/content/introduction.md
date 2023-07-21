@@ -54,9 +54,6 @@ This case is a travesty of justice, an example of inept police investigation acc
 
 Please follow us on our [Facebook page](https://www.facebook.com/Deal-with-the-Devil-100583859248573/)
 
-We are not asking for donations.
-
-
 We are asking for support for Mr. Lawrence Jr. who has spent 18 years incarcerated for a crime he did not commit. 
 
 
