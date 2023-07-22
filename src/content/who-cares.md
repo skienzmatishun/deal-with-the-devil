@@ -15,9 +15,7 @@ The undoing of a wrongful conviction is an uphill battle. The evidence, witness 
 
 How sad, and telling, it is about our legal system and elected officials, that they would allow an innocent man to remain in jail. Simple because, doing the right, may not be the thing to do, during an election.
 
-
-[An innocent man is on death row Alabama Officials seem ok with that.](https://www.al.com/news/2022/04/an-innocent-man-is-on-death-row-alabama-officials-seem-ok-with-that.html)
-
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdealwiththedevilblog%2Fposts%2Fpfbid0xTeQES4Ke2vY9vSQFx48pY9HGmDJ9qLLvwd3Uxmqkun1a4TZL3BE4Q1d9AZa2569l&show_text=true&width=500" width="500" height="481" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 > “This is supposed to be an honest system. It’s supposed to work, and they misled us,” juror Jay Crane told WBRC. "I am very disappointed. And I feel sad for the victim’s family because they haven’t gotten any justice.”
 
@@ -32,10 +30,6 @@ The only person who accused Murray Lawrence of murder was the actual murderer, w
 
 
 Please sign the petition and support us for a new trial.
-
-
-https://deal-with-the-devil.com/
-
 
 Ask yourself—
 

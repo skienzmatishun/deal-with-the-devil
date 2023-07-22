@@ -11,15 +11,15 @@ excerpt: According to the complaint, deputies were attempting to serve an evicti
 
 ## ROBERT YATES:
 
-Baldwin County was dismissed as one of the defendants in a lawsuit arising from a fatal 2018 eviction in Fairhope; however, the case continues against Sheriff Huey "Hoss" Mack, several deputies, and the landlords, as it was filed two years after deputies were sent to carry out the eviction order and ended with the death of 65-year-old Robert Yates, who fired a warning shot during the incident.
+Baldwin County was dismissed as one of the defendants in a lawsuit arising from a fatal 2018 eviction in Fairhope. The case continues against Sheriff Huey "Hoss" Mack, several deputies, and the landlords, as it was filed two years after deputies were sent to carry out the eviction order and ended with the death of 65-year-old Robert Yates, who fired a warning shot during the incident.
 
-[Wrongful Death Cases Involving BCSO Continue](https://lagniappemobile.com/wrongful-death-cases-involving-bcso-continue/)
+[Wrongful Death Cases Involving BCSO Continue - Lagniappe](https://lagniappemobile.com/wrongful-death-cases-involving-bcso-continue/)
 
 ---
 
 The daughter of a man killed by Baldwin County law enforcement officers during an eviction in 2018 has filed a federal lawsuit, alleging constitutional violations, negligence, excessive force, and deliberate indifference to her father's safety and medical needs, among other counts, naming Sheriff Huey "Hoss" Mack and several individual deputies as defendants.
 
-[Lawsuit Filed Against Baldwin County Over Deadly 2018 Eviction](https://lagniappemobile.com/lawsuit-filed-against-baldwin-county-deputies-over-deadly-2018-eviction/)
+[Lawsuit Filed Against Baldwin County Over Deadly 2018 Eviction - Lagniappe](https://lagniappemobile.com/lawsuit-filed-against-baldwin-county-deputies-over-deadly-2018-eviction/)
 
 ## YATES LAWSUIT
 
