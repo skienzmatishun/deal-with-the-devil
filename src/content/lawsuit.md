@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Baldwin sheriff responds to recent lawsuits'
 author: [Ripp]
 tags: [Baldwin County]
