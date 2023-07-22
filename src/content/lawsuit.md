@@ -35,13 +35,22 @@ Stankoski told the parties on the teleconference he would elaborate on his decis
 
 
 
-[Wrongful Death Cases Involving BCSO Continue](https://lagniappemobile.com/wrongful-death-cases-involving-bcso-continue/)
+[Wrongful Death Cases Involving BCSO Continue - Lagniappe](https://lagniappemobile.com/wrongful-death-cases-involving-bcso-continue/)
 
+---
 
-[Mother of Suspect Killed by Daphne police Seeks Answers](https://lagniappemobile.com/mother-of-suspect-killed-by-daphne-police-seeks-answers/)
+The mother of Derick Powe, who was fatally shot by DPD officers, is seeking more information from Baldwin County law enforcement but hasn't received any answers yet. Witnesses' accounts of Powe's actions on the day of the incident align with the limited information disclosed by investigators.
 
+[Mother of Suspect Killed by Daphne police Seeks Answers - Lagniappe](https://lagniappemobile.com/mother-of-suspect-killed-by-daphne-police-seeks-answers/)
 
-[Sheriff Huey Boss Mack Secret Police](https://rippreport.com/2021/10/01/sheriff-huey-boss-mack-secret-police/)
+----
 
+The Ripp Report alleges a pattern of abuse of power, lack of accountability, and transparency within the Baldwin County Sheriff's Office (BCSO). It highlights instances of deaths and incarceration of innocent individuals that have resulted in major lawsuits against the BCSO. Ripp criticizes the local politicians' handling of the situation and calls for the removal of Sheriff Huey "Hoss" Mack, whom is connected to influential groups in the county. Ripp suggests that Baldwin County has become a "police state" due to the perceived actions and control of the BCSO.
 
-[Lagniappe vs BCSO Supreme Court Decision](https://lagniappemobile.com/wp-content/uploads/2021/09/Lagniappe-vs.-BCSO-Supreme-Court-Decision.pdf)
+[Sheriff Huey Boss Mack Secret Police - Ripp Report](https://rippreport.com/2021/10/01/sheriff-huey-boss-mack-secret-police/)
+
+-----
+
+The Alabama Supreme Court decision in the case of Lagniappe v. BCSO (Baldwin County Sheriff's Office) had significant implications for public access to law enforcement records. The court ruled in favor of BCSO, interpreting the investigative privilege statute broadly. As a result, all evidence in the possession of law enforcement agencies, whether created by the agency or received from others, became exempt from citizens' statutory right to access public records. This decision limited the public's access to various records, including body cam or surveillance video, 911 transcripts, and autopsy information that are commonly available in other states during investigations.
+
+[Lagniappe vs BCSO Supreme Court Decision - Lagniappe](https://web.archive.org/web/20210924224548/https://lagniappemobile.com/wp-content/uploads/2021/09/Lagniappe-vs.-BCSO-Supreme-Court-Decision.pdf)
