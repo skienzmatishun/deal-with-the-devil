@@ -40,12 +40,12 @@ Whether it is fundamentally unfair and violates the Due Process Clause of the Fo
 
 -----
 
-William E. Kuenzel, who spent over three decades on Alabama's death row, passed away at the age of 60 from cancer at Holman Correctional Institution. Despite gaining support from prominent figures and arguing for a new hearing based on withheld evidence, his appeals were unsuccessful, and he was convicted for the 1987 murder of a convenience store clerk.
+>William E. Kuenzel, who spent over three decades on Alabama's death row, passed away at the age of 60 from cancer at Holman Correctional Institution. Despite gaining support from prominent figures and arguing for a new hearing based on withheld evidence, his appeals were unsuccessful, and he was convicted for the 1987 murder of a convenience store clerk.
 
-[Unjustly Incarcerated for 34 Years William Earnest Billy Kuenzel Dies at 60](https://alabamainjustice.com/unjustly-incarcerated-for-34-years-william-ernest-billy-kuenzel-dies-at-60/)
+[Unjustly Incarcerated for 34 Years William Earnest Billy Kuenzel Dies at 60 - Alabama Justice](https://alabamainjustice.com/unjustly-incarcerated-for-34-years-william-ernest-billy-kuenzel-dies-at-60/)
 
 -----
 
-William Ernest Kuenzel passed away on February 19, 2022 following a long battle with cancer, bringing to a close his decades long struggle to prove his innocence and clear his name from a wrongful conviction.
+>William Ernest Kuenzel passed away on February 19, 2022 following a long battle with cancer, bringing to a close his decades long struggle to prove his innocence and clear his name from a wrongful conviction.
 
 [William Kuenzel Sentenced to Alabama Death Row in 1988 Dead of Cancer - AL.com](https://www.al.com/news/2022/02/william-kuenzel-sentenced-to-alabama-death-row-in-1988-dead-of-cancer.html)
