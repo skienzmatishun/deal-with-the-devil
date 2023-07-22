@@ -22,8 +22,8 @@ The Alabama Legislature passed Senate Bill 312, signed into law in May, which ex
 -----
 
 >For the second time in less than a year, a Baldwin County attorney has had his security pass suspended at the Baldwin County Courthouse, prohibiting him from bypassing courthouse screening without passing through a metal detector and a search of his belongings. This time, the suspension also prevents him from carrying his business-related laptop and cell phone beyond the front door.
-
-[Sheriff Restricts Communications of Attorney in Baldwin County Courthouse - Lagniappe](https://lagniappemobile.com/sheriff-restricts-communication-of-attorney-in-baldwin-county-courthouse/)
+>
+>[Sheriff Restricts Communications of Attorney in Baldwin County Courthouse - Lagniappe](https://lagniappemobile.com/sheriff-restricts-communication-of-attorney-in-baldwin-county-courthouse/)
 
 ----
 Francis Paul Ripp has filed a lawsuit asking a judge to direct Sheriff Huey “Hoss” Mack to enforce the State Health Order that prohibits indoor dining, religious services, and businesses like hair salons. Ripp seeks a Writ of Mandamus to instruct Mack to enforce the order, which was authorized by Alabama Governor Kay Ivey and State Health Officer Dr. Scott Harris on April 28. The lawsuit alleges that Mack's decision not to enforce the order appears to be politically motivated, creating an immediate public health crisis in Baldwin County.
