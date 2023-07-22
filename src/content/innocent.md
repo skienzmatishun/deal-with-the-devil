@@ -16,7 +16,7 @@ Early attempts of appeal failed when attorneys dropped the ball.
 The Prosecutor was District Attorney David Whetstone, since retired. The lead investigator was Lt. Hoss Mack, currently Sheriff of Baldwin County. The Defense Attorney was Willy Huntley, who is still practicing law. The Judge was Robert Wilters, currently the District Attorney of Baldwin County.
 
 
-Vol. 4 Page 605 “I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you don’t like that deal, you come after your D.A.” David Whetstone.
+>Vol. 4 Page 605 “I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you don’t like that deal, you come after your D.A.” David Whetstone.
 
 
 On July 31, 2003, Jarius McNeil, after 4 months in jail, implicates Murray “bubba” Lawrence in the May 6 2003, murder of Brandon Hastings of Foley, Alabama.
@@ -43,7 +43,7 @@ Establishing a timeline before and after the crime is the most basic of basic pr
 The “investigation” produced no fingerprints, no weapon, no ballistics, no blood, no fiber, no DNA, no timeline, no witness to the crime, only the testimony of the McNeil. The murderer, was threatened with the death penalty if he did not give up an accomplice.
 
 
-“A felony conviction cannot be had on the testimony of an accomplice unless corroborated by other evidence tending to connect the defendant with the commission of the offense, and such corroborative evidence, if it merely shows the commission of the offense or the circumstances there of is not sufficient”
+>“A felony conviction cannot be had on the testimony of an accomplice unless corroborated by other evidence tending to connect the defendant with the commission of the offense, and such corroborative evidence, if it merely shows the commission of the offense or the circumstances there of is not sufficient”
 
 
 The transcript timeline also proves that it would be impossible for Mr. Lawrence to drive the necessary time to the scene of the murder and the disposal site of the body. Had the “investigators” or prosecution
