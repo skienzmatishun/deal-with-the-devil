@@ -31,10 +31,10 @@ The statement also urges the Alabama Legislature to enact legislation to create 
 
 ----
 
-### QUESTION PRESENTED 
-### CAPITAL CASE 
-
-Whether it is fundamentally unfair and violates the Due Process Clause of the Fourteenth Amendment to require a capital habeas petitioner to bring a successive state habeas petition within six months of the discovery of previously unproduced evidence pursuant to Alabama Rule of Criminal Procedure 32.2(c), when Alabama Code § 6-5-440 would have simultaneously barred such a suit.
+>### QUESTION PRESENTED 
+>### CAPITAL CASE 
+>
+>Whether it is fundamentally unfair and violates the Due Process Clause of the Fourteenth Amendment to require a capital habeas petitioner to bring a successive state habeas petition within six months of the discovery of previously unproduced evidence pursuant to Alabama Rule of Criminal Procedure 32.2(c), when Alabama Code § 6-5-440 would have simultaneously barred such a suit.
 
 [Scotus Petition](https://alabamainjustice.com/wp-content/uploads/2011/04/Scotus-Petition.pdf)
 
