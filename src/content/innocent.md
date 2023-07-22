@@ -32,10 +32,9 @@ In the 2200 page trial transcript,
 
 
 [Transcript Documents](https://1drv.ms/u/s!AjkiMTnxOg5Whs8_OXITUR9ssyxHzw?e=HW1V3s)
-
  
 
-the prosecution, defense and police have testimony, to times, dates, individuals and places. An accurate timeline is established throughout the course of the 10 day trial, however no one including the jury, ever attempted to construct a written documented timeline.
+The prosecution, defense and police have testimony, to times, dates, individuals and places. An accurate timeline is established throughout the course of the 10 day trial, however no one including the jury, ever attempted to construct a written documented timeline.
 
 
 Establishing a timeline before and after the crime is the most basic of basic procedures in investigation. The so called investigation, produced nothing that connected Murray Lawrence to the crime. The timeline produced from the transcript, provides Mr. Lawrence with 5 separate witnesses that testified seeing Mr. Lawrence at his home during the time the crime was committed.
@@ -44,7 +43,7 @@ Establishing a timeline before and after the crime is the most basic of basic pr
 The “investigation” produced no fingerprints, no weapon, no ballistics, no blood, no fiber, no DNA, no timeline, no witness to the crime, only the testimony of the McNeil. The murderer, was threatened with the death penalty if he did not give up an accomplice.
 
 
-“ A felony conviction cannot be had on the testimony of an accomplice unless corroborated by other evidence tending to connect the defendant with the commission of the offense, and such corroborative evidence, if it merely shows the commission of the offense or the circumstances there of is not sufficient”
+“A felony conviction cannot be had on the testimony of an accomplice unless corroborated by other evidence tending to connect the defendant with the commission of the offense, and such corroborative evidence, if it merely shows the commission of the offense or the circumstances there of is not sufficient”
 
 
 The transcript timeline also proves that it would be impossible for Mr. Lawrence to drive the necessary time to the scene of the murder and the disposal site of the body. Had the “investigators” or prosecution
