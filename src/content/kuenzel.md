@@ -49,3 +49,5 @@ Whether it is fundamentally unfair and violates the Due Process Clause of the Fo
 >William Ernest Kuenzel passed away on February 19, 2022 following a long battle with cancer, bringing to a close his decades long struggle to prove his innocence and clear his name from a wrongful conviction.
 
 [William Kuenzel Sentenced to Alabama Death Row in 1988 Dead of Cancer - AL.com](https://www.al.com/news/2022/02/william-kuenzel-sentenced-to-alabama-death-row-in-1988-dead-of-cancer.html)
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/36706065?h=5a29aa58fa" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
