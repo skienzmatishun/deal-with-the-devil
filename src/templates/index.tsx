@@ -95,14 +95,17 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
         </div>
         <div css={inner}>
-          <div style={{ padding: "1rem" }}>
-            <p style={{ fontSize: "2.25rem", marginTop: "3rem", marginBottom: "1.5rem" }}>“I have made a deal, a deal with the devil so that evidence could be heard, so the dots could be connected. If you don’t like that deal, you come after your D.A.”</p>
-            <p style={{ marginTop: "0", marginBottom: "4rem" }}> - David Whetstone.</p>
+          <div style={{ padding: "1em;", textAlign:"center", height:"35px" }}>
+          <div className="button-row">
+          <a href="https://chng.it/pv4xJVYLPR"> <span className="petition-button red" >Donate</span></a>
+          <a href="#"> <span className="petition-button white" >Full Story</span></a>
+          <a href="https://chng.it/pv4xJVYLPR"> <span className="petition-button blue" >Sign Petition</span></a>
+          </div>
           </div>
           <div className="topContainer" style={{ display: "flex", flexFlow: "row wrap" }}>
             <div className="introduction">
 
-              <p style={{ fontSize: "4rem", marginBottom: "4rem" }}>Ask yourself—</p>
+              <p style={{ fontSize: "4rem", marginBottom: "2rem", marginTop:"5rem" }}>Ask yourself—</p>
               <p> How can someone be convicted of murder, based entirely on testimony of a single person who is bargaining on a reduced sentence?</p>
               <p>No blood, no DNA, no witnesses?</p>
               <p>5 alibi witnesses, no fingerprints, no fiber, no weapon, no ballistics— no justice.</p>
@@ -112,7 +115,6 @@ const IndexPage: React.FC<IndexProps> = props => {
               <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
             </div>
             <div className="address">
-              <a href="https://chng.it/pv4xJVYLPR"> <span className="petition-button" >Sign Petition</span></a>
               <div>
 
                 <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem", marginTop:"5rem" }}>Murray Bubba Lawrence Jr.</h2>
@@ -280,10 +282,43 @@ const HomePosts = css`
   border-radius:4px;
 font-size:2.3rem;
 color:black;
-margin-top:-100px;
+margin-top:-50px;
 margin-bottom:20px;
 height:750px;
 padding:.5rem;
+}
+.button-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.petition-button {
+  padding: 1.2rem;
+  color: white;
+  height: 40px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  font-size: 1.8rem;
+  cursor: pointer;
+  margin:2px;
+}
+
+.petition-button.red {
+  background: #830000;
+}
+
+.petition-button.white {
+  background: white;
+  color: black;
+}
+
+.petition-button.blue {
+  background: blue;
 }
 
 .topics {
@@ -311,13 +346,7 @@ padding:.5rem;
   background:#00000025;
   padding:2em;
   border-radius:4px;
-}
-
-.petition-button {
-  background: #830000;
-  padding:1.5rem;
-margin:2rem;
-color:white;
+  margin-top:8px;
 }
 
 .deal-logo {
@@ -341,6 +370,40 @@ width:275px;
   .topics {
     width:100%;
   }
+
+.button-row {
+  display: flex;
+  flex-flow:column nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.petition-button {
+  padding: 1.2rem;
+  color: white;
+  height: 40px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  font-size: 1.8rem;
+  cursor: pointer;
+}
+
+.petition-button.red {
+  background: #830000;
+}
+
+.petition-button.white {
+  background: white;
+  color: black;
+}
+
+.petition-button.blue {
+  background: blue;
+}
+
   
 }
   @media (prefers-color-scheme: dark) {
