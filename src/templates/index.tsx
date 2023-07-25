@@ -95,29 +95,18 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
         </div>
         <div css={inner}>
-          <div style={{ padding: "1em;", textAlign:"center", height:"35px" }}>
-          <div className="button-row">
-          <a href="https://chng.it/pv4xJVYLPR"> <span className="petition-button red" >Donate</span></a>
-          <a href="#"> <span className="petition-button white" >Full Story</span></a>
-          <a href="https://chng.it/pv4xJVYLPR"> <span className="petition-button blue" >Sign Petition</span></a>
-          </div>
+          <div style={{ padding: "1em;", textAlign: "center", height: "35px" }}>
+            <div className="button-row">
+              <a href="https://gofund.me/b161ccc0"> <span className="petition-button red" >Donate</span></a>
+              <a href="#"> <span className="petition-button white" >Full Story</span></a>
+              <a href="https://chng.it/pv4xJVYLPR"> <span className="petition-button blue" >Sign Petition</span></a>
+            </div>
           </div>
           <div className="topContainer" style={{ display: "flex", flexFlow: "row wrap" }}>
-            <div className="introduction">
-
-              <p style={{ fontSize: "4rem", marginBottom: "2rem", marginTop:"5rem" }}>Ask yourself—</p>
-              <p> How can someone be convicted of murder, based entirely on testimony of a single person who is bargaining on a reduced sentence?</p>
-              <p>No blood, no DNA, no witnesses?</p>
-              <p>5 alibi witnesses, no fingerprints, no fiber, no weapon, no ballistics— no justice.</p>
-              <p>This case is destined to be a feature documentary exposing an inept and corrupt judicial system.</p>
-              <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
-              <h2 style={{ marginTop: "20px" }} >Mission Statement </h2>
-              <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
-            </div>
             <div className="address">
               <div>
 
-                <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem", marginTop:"5rem" }}>Murray Bubba Lawrence Jr.</h2>
+                <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem", marginTop: "5rem" }}>Murray Bubba Lawrence Jr.</h2>
                 <img style={{ borderTopRightRadius: "4px", borderTopLeftRadius: "4px" }} src={Lawrence} alt="Murray Bubba Lawrence Jr." />
               </div>
               <div >
@@ -131,10 +120,22 @@ const IndexPage: React.FC<IndexProps> = props => {
                 </ul>
               </div>
             </div>
+            <div className="introduction">
+
+              <p style={{ fontSize: "4rem", marginBottom: "2rem", marginTop: "5rem" }}>Ask yourself—</p>
+              <p> How can someone be convicted of murder, based entirely on testimony of a single person who is bargaining on a reduced sentence?</p>
+              <p>No blood, no DNA, no witnesses?</p>
+              <p>5 alibi witnesses, no fingerprints, no fiber, no weapon, no ballistics— no justice.</p>
+              <p>This case is destined to be a feature documentary exposing an inept and corrupt judicial system.</p>
+              <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
+              <h2 style={{ marginTop: "20px" }} >Mission Statement </h2>
+              <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
+            </div>
+
           </div>
           <div className="topics">
-            <h2 style={{ margin: "4rem" }}>Topics</h2>
-            <ul style={{ justifyContent:"center", listStyle: "none", display: "flex", flexFlow: "row wrap" }}>
+            <h2>Topics</h2>
+            <ul style={{ justifyContent: "center", listStyle: "none", display: "flex", flexFlow: "row wrap" }}>
               <Link to={`/introduction/`}>
                 <li >Introduction</li>
               </Link>
@@ -282,7 +283,6 @@ const HomePosts = css`
   border-radius:4px;
 font-size:2.3rem;
 color:black;
-margin-top:-50px;
 margin-bottom:20px;
 height:750px;
 padding:.5rem;
@@ -328,25 +328,29 @@ padding:.5rem;
   padding:1rem;
     background:#00000025;
     text-align:center;
+    margin-top:-163px;
 } 
 .topics ul a {
   margin-left:.5em;
   padding:1em;
   color:black;
 }
+.topics h2 {
+  margin:1rem;
+}
 .introduction {
   font-size:2.3rem;
-  flex-basis:61%;
-  margin:.5rem; 
+  flex-basis:60%;
+  margin:auto; 
   padding:.5rem;
-  margin-right:2rem;
-  
+  margin-top:-15px;
 }
 .topContainer {
   background:#00000025;
   padding:2em;
   border-radius:4px;
   margin-top:8px;
+  justify-content: center;
 }
 
 .deal-logo {
@@ -364,11 +368,11 @@ width:275px;
    margin:.5em;
   }
   .address{flex-basis:100%;
-    min-height:975px;
     margin-top:1em;
   }
   .topics {
     width:100%;
+    margin-top:0px;
   }
 
 .button-row {
