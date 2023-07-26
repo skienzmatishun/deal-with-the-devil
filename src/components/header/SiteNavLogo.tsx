@@ -25,6 +25,7 @@ const SiteNavLogoStyles = css`
   font-weight: bold;
   letter-spacing: -0.5px;
   text-transform: none;
+  margin-left:18px;
 
   :hover {
     text-decoration: none;
@@ -40,7 +41,7 @@ const SiteNavLogoStyles = css`
 background-repeat: no-repeat no-repeat;
 background-position: center center;
 background-size: contain;
-height:19px;
+height:26px;
 width:26px;
   }
 `;

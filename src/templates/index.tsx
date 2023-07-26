@@ -335,9 +335,6 @@ padding:.5rem;
   padding:1em;
   color:black;
 }
-.topics h2 {
-  margin:1rem;
-}
 .introduction {
   font-size:2.3rem;
   flex-basis:60%;

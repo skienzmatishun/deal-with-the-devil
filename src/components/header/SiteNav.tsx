@@ -89,28 +89,16 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
             {!isHome && <SiteNavLogo />}
             <SiteNavContent css={[this.state.showTitle ? HideNav : '']}>
               <ul css={NavStyles} role="menu">
-                <li style={{display:"block", padding: "12px 12px", color: "#fff", opacity: "0.8"}}>
-                    Affiliated Pages:
+               
+                <li style={{marginLeft:"15px"}} role="menuitem">
+                    Advocates:
                 </li>
-                <li role="menuitem">
-                  <Link to="https://rippreport.com" activeClassName="nav-current">
-                    Ripp Report
-                  </Link>
+                <li style={{marginLeft:"15px"}} role="menuitem">                 
+                    Paul Ripp
                 </li>
-                <li role="menuitem">
-                  <Link to="https://www.facebook.com/BackstoryPodcast" activeClassName="nav-current">
-                    Backstory Podcast
-                  </Link>
+                <li style={{marginLeft:"15px"}} role="menuitem">                    Nancy Koerner
                 </li>
-                <li role="menuitem">
-                  <Link to="https://www.facebook.com/BaldwinCountyLegalEagle" activeClassName="nav-current">
-                    BCLE
-                  </Link>
-                </li>
-                <li role="menuitem">
-                  <Link to="https://facebook.com/dealwiththedevilblog" activeClassName="nav-current">
-                    Facebook Page
-                  </Link>
+                <li style={{marginLeft:"15px"}} role="menuitem">                    Harry Still
                 </li>
 
               </ul>
@@ -123,9 +111,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
           </SiteNavLeft>
           
         </nav>
-        {isHome &&(
-        <p>Advocates: Paul Ripp, Nancy Koerner, Harry Still</p>
-        )}
+      
       </>
     );
   }
