@@ -199,11 +199,11 @@ This journey will take 77 minutes, in total, made up of three segments. (See 4:4
 
 Here, we depart from Jarius’ story, temporarily, to depict coinciding actions of other players (<span style="red">in red</span), in other locations. These two components will eventually intertwine and lock-in Jarius’ timeline in his return trip from Mississippi. 
 
-<ins><span style="red">4:00 AM</span></ins> – Meanwhile, another party is in motion. <font color=red>Crystal Curtis Lindsay</font> leaves Emily Price’s place in Lake Forest, along with <font color=red>John Wayne Mixson</font>, who she has just met. They drive to Tonya’s. (Drive time – approx. 20 min.)  John is Tonya Mixson’s brother, and also lives at the same house as she and Bubba. Crystal has never met Bubba before that night, nor has she ever met Tonya. There is no reason why Crystal would try to protect Bubba in future court testimony. She is truly a NEUTRAL alibi witness. 
+<ins><span style="red">4:00 AM</span></ins> – Meanwhile, another party is in motion. <span style="red">Crystal Curtis Lindsay</span> leaves Emily Price’s place in Lake Forest, along with <span style="red">John Wayne Mixson</span>, who she has just met. They drive to Tonya’s. (Drive time – approx. 20 min.)  John is Tonya Mixson’s brother, and also lives at the same house as she and Bubba. Crystal has never met Bubba before that night, nor has she ever met Tonya. There is no reason why Crystal would try to protect Bubba in future court testimony. She is truly a NEUTRAL alibi witness. 
 
-<ins><span style="red">4:20 AM</span></ins> – <font color=red>Crystal and John Wayne Mixson</font> arrive at the Mixson house, and wake Bubba up to buy some coke from him. He is sleepy, bedraggled, wearing only pajama bottoms, and his Afro hair-style is flattened on one side. Likewise, Tonya. Disrupted from sleep for the second time in an hour – the first being Jarius forcing her/them to receive stolen goods – Tonya tries to ignore what going on, and does not actively engage. 
+<ins><span style="red">4:20 AM</span></ins> – <font color=red>Crystal and John Wayne Mixson</span> arrive at the Mixson house, and wake Bubba up to buy some coke from him. He is sleepy, bedraggled, wearing only pajama bottoms, and his Afro hair-style is flattened on one side. Likewise, Tonya. Disrupted from sleep for the second time in an hour – the first being Jarius forcing her/them to receive stolen goods – Tonya tries to ignore what going on, and does not actively engage. 
 
-<ins><font color=red>4:35 AM</span></ins> – <font color=red>Crystal and John Wayne Mixson</font> do some coke, and then leave Bubba and Tonya’s house, but will not get far… they will be stopped by a police officer…
+<ins><font color=red>4:35 AM</span></ins> – <font color=red>Crystal and John Wayne Mixson</span> do some coke, and then leave Bubba and Tonya’s house, but will not get far… they will be stopped by a police officer…
 
 Now, back to Jarius in Mississippi. 
 
