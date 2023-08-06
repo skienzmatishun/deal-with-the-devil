@@ -10,7 +10,7 @@ draft: false
 # A Verbal Lynching in Alabama
 By Nancy R Koerner
 
-<small>(©️2023 – NK Marketing, LLC - All Rights Reserved)</small>
+<small>©️2023 – NK Marketing, LLC - All Rights Reserved</small>
 
 ## PART ONE  - "Occam’s Razor" 
 
