@@ -477,9 +477,9 @@ Seriously? If an opposing attorney were to have said the same thing, this same p
 
 ## PART SIX  - "Immunity Lies" 
 
-"A felony conviction cannot be had on the testimony of an accomplice, unless corroborated by other evidence, tending to connect the defendant with the commission of the offense. And such corroborative evidence – if it merely shows the commission of the offense, or the circumstances thereof – is not sufficient."                       
- JOHN DAVID WHETSTONE, ESQUIRE           
-May 13, 2005
+>"A felony conviction cannot be had on the testimony of an accomplice, unless corroborated by other evidence, tending to connect the defendant with the commission of the offense. And such corroborative evidence – if it merely shows the commission of the offense, or the circumstances thereof – is not sufficient."                       
+>JOHN DAVID WHETSTONE, ESQUIRE           
+>May 13, 2005
 
 Mr. Whetstone had commenced his prosecution with an astounding paradox regarding Jarius: he had "made a deal with the devil." Then, before testimonies had even started, Whetstone perversely declared that Jarius was "going to lie, and lie, and lie," challenging the jury to believe these two opposing concepts could co-exist. Despite Jarius’ deserved conviction in the murder of Brandon Hastings, the attorney had promised him a reduced sentence in exchange for his "truthful testimony" against Murray. Likewise, Whetstone had promised immunity to several additional witnesses, but it would be "Whetstone’s truth," or else. It would be pure coercion, if the witnesses wanted to retain their freedom.
 The two subpoenaed women, Murray’s girlfriend, Tonya Mixson, and her friend, Stacey Giambrone, were "interviewed" several times by an all-male team of interrogators, no female officers present. They were intimidated, screamed at, and heavily traumatized by the experience, simply because they’d been unwilling recipients in the chain of stolen goods. The speakers from Brandon’s Acura had first been foisted upon Tonya by being deposited on the front porch, then stashed in her bedroom, despite vigorous protest. Later, those same speakers were supposed to be mounted in Stacey’s vehicle, who also protested. Whetstone had threatened to prosecute both Tonya and Stacey for "receipt of stolen goods," even though neither had committed the crime. On the contrary, they had both become its victim. 
@@ -548,9 +548,9 @@ THE COURT: "The Defendant, Murray Lawrence, Jr, has been charged with capital mu
 
 But, in this case, the verdict was already "pre-worded" by Judge Robert Wilters, and all the foreperson or jury needed to do was confirm. 
 
-THE COURT: "Is this your verdict? We, the jury, find the Defendant, Murray Lawrence, Jr, guilty of capital murder, intentionally killing Gary Brandon Hastings, during robbery in the first degree as charged in the indictment and as signed Richard McKibbon, foreperson? 
-
-The Jurors: "Yes, sir."  
+>THE COURT: "Is this your verdict? We, the jury, find the Defendant, Murray Lawrence, Jr, guilty of capital murder, intentionally killing Gary Brandon Hastings, during robbery in the first degree as charged in the indictment and as signed Richard McKibbon, foreperson? 
+>
+>The Jurors: "Yes, sir."  
 
 
 (It was only astonishing that they did not salute as well…)
@@ -574,10 +574,10 @@ write the ending, and here’s how:
 
 2)	Secondly, you can write Murray to give him emotional support. 
 
-Murray "Bubba" Lawrence, Jr.
-ASI # 00241380
-William C. Holman Correctional Facility
-1240 Ross Rd, Atmore, AL 36502
+>Murray "Bubba" Lawrence, Jr.
+>ASI # 00241380
+>William C. Holman Correctional Facility
+>1240 Ross Rd, Atmore, AL 36502
 
 3)	Then you can write to the Office of the Attorney General, Steve Marshall, and Governor of Alabama, Kay Ivey. 
 
