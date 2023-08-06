@@ -171,11 +171,11 @@ This timeline was corroborated in real-life, researched by physically traveling 
 
 <ins>1:47 AM</ins> – Brandon and Jarius leave Bebo’s and drive to a well-known canopied section of trees on CR 49, about 1 ½ miles north of Pick-n-Pay. [Drive time - approx. 12 min. This is the "alleged murder site," according to Jarius’ testimony – whether it’s the version with, or without Murray.]  
 
-<ins>1:48 AM</ins> - 1:59 AM – Jarius kills Brandon, strangulation by ligature. How was it that no weapon appropriate for strangulation had ever been found, nor was presented during the trial? So, how is it that jumper cables – an immediate and obvious choice as ligature, readily available in Brandon’s car – and added into evidence – were never considered a potential murder weapon? 
+<ins>1:48 AM</ins> - <ins>1:59 AM</ins> – Jarius kills Brandon, strangulation by ligature. How was it that no weapon appropriate for strangulation had ever been found, nor was presented during the trial? So, how is it that jumper cables – an immediate and obvious choice as ligature, readily available in Brandon’s car – and added into evidence – were never considered a potential murder weapon? 
 
 Could it be, that forensically-unexamined jumper cables, containing Jarius’ DNA, and Murray’s key to freedom, still sit in some obscure evidence locker in Baldwin County? 
 
-<ins>2:00 AM</ins> (OLD TIME)
+<ins><span style="background:green">2:00 AM</span></ins> (<span style="background:green">OLD TIME</span>)
 Jarius (likely) loads Brandon’s body into front seat, rather than the trunk. 
 
 <ins>3:00 AM</ins> (NEW TIME)
