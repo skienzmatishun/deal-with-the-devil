@@ -469,7 +469,7 @@ export const PostFullContent = styled.section`
     hr {
       /* border-top-color: color(var(--darkmode) l(+8%)); */
       /* border-top-color: ${lighten('0.08', colors.darkmode)}; */
-      border-top-color: darkred;
+      border-top-color: lightred;
     }
 
     hr:after {
