@@ -239,8 +239,8 @@ export const PostFullContent = styled.section`
     margin-left: -10px;
     width: 1px;
     height: 30px;
-    /* background: color(var(--Darkgrey) l(+10%)); */
-    background: ${lighten('0.1', colors.Darkgrey)};
+    /* background: color(var(--lightgrey) l(+10%)); */
+    background: ${lighten('0.1', colors.lightgrey)};
     box-shadow: #fff 0 0 0 5px;
     transform: rotate(45deg);
   }
@@ -470,7 +470,7 @@ export const PostFullContent = styled.section`
     hr {
       /* border-top-color: color(var(--darkmode) l(+8%)); */
       /* border-top-color: ${lighten('0.08', colors.darkmode)}; */
-      border-top-color: #17191c;
+      border-top-color: darkred;
     }
 
     hr:after {
