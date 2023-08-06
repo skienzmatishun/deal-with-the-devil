@@ -97,8 +97,8 @@ const IndexPage: React.FC<IndexProps> = props => {
         <div css={inner}>
           <div style={{ padding: "1em;", textAlign: "center", height: "35px" }}>
             <div className="button-row">
-              <a href="https://gofund.me/b161ccc0"> <span className="petition-button red" >Donate</span></a>
-              <a href="#"> <span className="petition-button white" >Full Story</span></a>
+              <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
+              <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
               <a href="https://chng.it/pv4xJVYLPR"> <span className="petition-button blue" >Sign Petition</span></a>
             </div>
           </div>

@@ -3,10 +3,8 @@ layout: post
 title: 'Full Story'
 author: [Ripp]
 tags: [Baldwin County]
-image: img/hossmack-lagniappe.png
-date: 2022-1-1T10:00:00.000Z
+date: 2020-1-1T10:00:00.000Z
 draft: false
-exerpt: Baldwin County Circuit Court Judge Clark Stankoski denied a writ of mandamus against Sheriff Huey "Hoss" Mack, which sought to compel the enforcement of the statewide "Safer at Home" order. The writ was filed after Mack declared he would not take law enforcement action against businesses or religious institutions defying the order, leading to a dispute over Mack's authority and discretion in handling the situation.
 
 ---
 # A Verbal Lynching in Alabama
