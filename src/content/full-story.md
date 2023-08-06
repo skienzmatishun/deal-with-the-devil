@@ -110,7 +110,7 @@ When first approaching the task of criminal investigation, one would think that 
 
 It is Spring Break, 2003. Several groups of friends are gathered across Fairhope, Lake Forest, Daphne, Foley, and Gulf Shores. They are “partying” – getting together at each other’s houses, and enjoying some casual time on a holiday weekend.  These young people are age 18-24, and free-spirited. They enjoy casual use of recreational drugs. Mostly pot, but sometimes coke too. When one scores, they all go in together financially. It’s low-level, just within their clique.  Most are employed in the hospitality industry, responsible in paying their bills, and earning a living. (Not all, but most.) 
 
-Cast of Characters:
+#### Cast of Characters:
 
 Murray “Bubba” Lawrence, Jr. – Wrongfully convicted of the murder of Brandon Hastings. 
 Michael Dozier – Friend of Bubba’s
@@ -125,7 +125,7 @@ Crystal Curtis Lindsey – Friend of a friend who joined the party late.
 
 Throughout the evening, there have been many phones calls between the groups, and within the groups – making plans, changing plans, or deciding to meet at the beach. Three of these calls, before midnight, will bear testimony to the fact that Jarius and Brandon were trying to arrange a solo meeting, after everyone else had departed.
 
-April 5th, 2003 – Saturday evening
+#### April 5th, 2003 – Saturday evening
 
 9:30 PM - Jarius drops by Bubba’s house. Conveniently, Bubba is not there, which gives Jarius the perfect opportunity to call Brandon on the Mixson land-line, since Jarius’ cell phone service was canceled due to non-payment. Jarius affirms this call in court testimony; he was “looking for Brandon.” 
 
@@ -135,7 +135,7 @@ Gradually, just before midnight, various individuals peel off from their respect
 
 11:40 PM - Brandon immediately makes a tag-back call to the Surfside Style Shop’s payphone in Gulf Shores where Jarius waits.  
 
-April 6th, 2003 – Sunday morning, after midnight 
+#### April 6th, 2003 – Sunday morning, after midnight 
 
 12:00 AM – Bubba and Michael Dozier are partying at Tonya’s house. Michael Dozier lends Bubba his car to go score coke in Mobile, about an hour, round-trip. Dozier remains with Tonya and Stacey, waiting for Bubba’s return.
 
@@ -145,7 +145,7 @@ April 6th, 2003 – Sunday morning, after midnight
 
 1:45 AM – Bubba returns. The three of them smoke the marijuana blunt. Stacey leaves for the night around 2:00AM.
 
-CONJECTURE: SPECULATIVE INTERPRETATION of JARIUS’ JOURNEY
+### CONJECTURE: SPECULATIVE INTERPRETATION of JARIUS’ JOURNEY
 
 If this is not exactly what actually happened, it is the most likely scenario, 
 according to the sequence of events played out in the court transcript.
@@ -154,7 +154,7 @@ NOTE: Since no one witnessed Jarius' journey on the night of Brandon's murder, a
 
 This timeline was corroborated in real-life, researched by physically traveling the route – from Alabama to Mississippi and back, twice – once in 2021, and again in Feb. 2023. To exactly simulate Jarius’ alleged journey on the night of the murder, the distance and duration of each leg was carefully timed and denoted. Results would turn out near-identical. This template was then over-laid on Jarius’ movements starting at midnight of Sunday, April 6th, 2003, Central Standard Time. One must note that, at 2:00 AM, the clock changes, and automatically, becomes 3:00 AM Central Daylight Time – creating an additional vacuum that exacerbates the challenge – a ghostly non-hour that does not exist. 
 
-April 6th, 2003 – Sunday morning, after midnight (continued)
+#### April 6th, 2003 – Sunday morning, after midnight (continued)
 
 1:20 AM - Jarius uses payphone at the Pick-n-Pay (CR 12 and CR 49) to call Brandon’s cell. They arrange to meet at an adjacent parking lot, near Bebo’s Car Wash in Foley, where Brandon is employed. Jarius is on his way. (Drive time - approx. 10 min.) 
 
