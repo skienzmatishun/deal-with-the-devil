@@ -446,11 +446,11 @@ In preparation to begin actual testimony, the manner in which Whetstone interact
 
 Direct from the transcript, Whetstone states: 
 
-"We’ve got three crime scenes: Foley, Mobile, and Mississippi. You’ve got multiple agencies. Lots of them. You’re going to have people come in here that they are not going to remember times and dates. There’s going to be a reason for that, some of them are on drugs during this period of time. They’re going to get some dates mixed up. Wait. Wait, until it all connects…
+>"We’ve got three crime scenes: Foley, Mobile, and Mississippi. You’ve got multiple agencies. Lots of them. You’re going to have people come in here that they are not going to remember times and dates. There’s going to be a reason for that, some of them are on drugs during this period of time. They’re going to get some dates mixed up. Wait. Wait, until it all connects…
 
-"Lawyer’s position on this is to present evidence. The judge determines whether it’s admissible and  the jury determines what it means, what the facts are. But don’t believe what the lawyer says is the evidence. The evidence will come from what someone says in here, or what this judge lets in from physical evidence… "Don’t think that what the lawyer says is evidence.
+>"Lawyer’s position on this is to present evidence. The judge determines whether it’s admissible and  the jury determines what it means, what the facts are. But don’t believe what the lawyer says is the evidence. The evidence will come from what someone says in here, or what this judge lets in from physical evidence… "Don’t think that what the lawyer says is evidence.
 
-"…We think a forensic scientist will tell his jury, by deposition, from Mississippi that he thought he was strangled. No evidence of a gunshot. And that’s going to become real important. Because forensic scientist – when the body was found – was so deteriorated, there was no evidence of gunshot, no bullet. But some people knew there was a gunshot. Some people knew there was a gun involved. And we think it’s going to be Bubba and we think it’s going to be Big Bubba. You’re going to hear evidence of a gun, and we’re going to connect the dots about how a gun was used."  
+>"…We think a forensic scientist will tell his jury, by deposition, from Mississippi that he thought he was strangled. No evidence of a gunshot. And that’s going to become real important. Because forensic scientist – when the body was found – was so deteriorated, there was no evidence of gunshot, no bullet. But some people knew there was a gunshot. Some people knew there was a gun involved. And we think it’s going to be Bubba and we think it’s going to be Big Bubba. You’re going to hear evidence of a gun, and we’re going to connect the dots about how a gun was used."  
 
 Even while trying to sound superficially ambivalent, Whetstone was actively influencing the jurors, planting subtle seeds of deceit. He was setting precedent that the drug-offensive was going to be his best friend, and it was never too soon to start. Within the same paragraph, he was offering up the strangulation theory for all of ten seconds, before disqualifying its feasibility or provability based on deterioration of the body, and the hearsay of "somebody knew there was a gunshot." Apparently, Whetstone preferred litigation as a zero-sum game. 
 
@@ -460,7 +460,7 @@ What is wrong with the above paragraph? Everything. 1) Brandon was not shot. 2) 
 
 Whetstone continued to speak:
 
-"Do we have a gun that we can match? No. In order to have a gun you can match, you’ve got to have a bullet. You’ve got to have a cartridge that was found. And you’ll see that there’s no gun. But you’re going to have evidence of a gun before you, that people saw a gun. And a gun was delivered to the Fairhope Police Department. A gun that we believe the evidence will show killed that little fellow in Foley, Alabama."
+>"Do we have a gun that we can match? No. In order to have a gun you can match, you’ve got to have a bullet. You’ve got to have a cartridge that was found. And you’ll see that there’s no gun. But you’re going to have evidence of a gun before you, that people saw a gun. And a gun was delivered to the Fairhope Police Department. A gun that we believe the evidence will show killed that little fellow in Foley, Alabama."
 
 Seriously? If an opposing attorney were to have said the same thing, this same prosecutor would have stood up and shouted. "Objection! Hearsay."
 
@@ -534,7 +534,7 @@ But the travesty was not yet finished. In regard to the verdict, it was bizarre 
 
 THE COURT: "The Defendant, Murray Lawrence, Jr, has been charged with capital murder, intentionally killing Gary Brandon Hastings, during robbery in the first degree. How do you find the Defendant?
 
-Foreperson of Jury: "Guilty (or not guilty,) Your Honor."
+<ins>Foreperson of Jury</ins>: "Guilty (or not guilty,) Your Honor."
 
 
 But, in this case, the verdict was already "pre-worded" by Judge Robert Wilters, and all the foreperson or jury needed to do was confirm. 
