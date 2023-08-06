@@ -98,7 +98,7 @@ export const PostFullContent = styled.section`
     color: #b20000;
     word-break: break-word;
     /* box-shadow: var(--darkgrey) 0 -1px 0 inset; */
-    font-size:1.25rem;
+    font-size:1.5rem;
     transition: all 0.2s ease-in-out;
     box-shadow:none;
   }
