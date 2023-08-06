@@ -157,7 +157,7 @@ Gradually, just before midnight, various individuals peel off from their respect
 If this is not exactly what actually happened, it is the most likely scenario, 
 according to the sequence of events played out in the court transcript.
 
-NOTE: Since no one witnessed Jarius' journey on the night of Brandon's murder, a speculative timeline has been created from the "fly-on-the-wall" perspective. Only one possible interpretation, but a damned good one. Why? Because it hits all the notes. Nothing is left out, and everything fits. There are the facts of the transcript: Brandon's cell phone log, testimonies of alibi eye-witnesses, and the confused chronological references due to transition to Daylight Savings Time. But, even those, ultimately, still fit. 
+<ins>NOTE</ins>: Since no one witnessed Jarius' journey on the night of Brandon's murder, a speculative timeline has been created from the "fly-on-the-wall" perspective. Only one possible interpretation, but a damned good one. Why? Because it hits all the notes. Nothing is left out, and everything fits. There are the facts of the transcript: Brandon's cell phone log, testimonies of alibi eye-witnesses, and the confused chronological references due to transition to Daylight Savings Time. But, even those, ultimately, still fit. 
 
 This timeline was corroborated in real-life, researched by physically traveling the route – from Alabama to Mississippi and back, twice – once in 2021, and again in Feb. 2023. To exactly simulate Jarius’ alleged journey on the night of the murder, the distance and duration of each leg was carefully timed and denoted. Results would turn out near-identical. This template was then over-laid on Jarius’ movements starting at midnight of Sunday, April 6th, 2003, Central Standard Time. One must note that, at 2:00 AM, the clock changes, and automatically, becomes 3:00 AM Central Daylight Time – creating an additional vacuum that exacerbates the challenge – a ghostly non-hour that does not exist. 
 
@@ -233,7 +233,7 @@ two places at once.)
 
 Now, we go back to Jarius in Mississippi. 
 
-6:26 AM – Jarius reaches home in Fairhope (Total of 89 minutes,  or 1 hr. 29 min.) – having stopped 10 minutes for gas on the way back. This corresponds exactly with, his girlfriend, Cynthia Weston’s testimony saying. "…the sun was about to come up." 
+<ins>6:26 AM</ins> – Jarius reaches home in Fairhope (Total of 89 minutes,  or 1 hr. 29 min.) – having stopped 10 minutes for gas on the way back. This corresponds exactly with, his girlfriend, Cynthia Weston’s testimony saying. "…the sun was about to come up." 
 
 Internet confirms that, sunrise on Sun, April 6th, 2003, was at 6:30 CDT. 
 
@@ -387,28 +387,28 @@ OK, so then where’s the blood? According to Jarius, "there was blood everywher
 
 Within the testimony of Lieutenant "Hoss" Mack, the following scene plays out:
 
-COURT: "Where is the liner?"
-
-WITNESS (Mack): In the evidence locker.
-
-MR. WHETSTONE: In Robertsdale, Your Honor. It’s on its way up. But I think we need to think about whether or not that liner can come into evidence. I think Mr. Huntley may have some kind of thought pattern on that. I think it was tested and I don’t think any blood was found. 
-MR. HUNTLEY: That might change things dramatically.
-
-MR. WHETSTONE: Yeah. Because I don’t want the jury to believe that the thing that had the blood on it is not available. They’ll think ‘no wonder there’s no blood.’ So it’s kind of a tough call on Mr. Huntley. So I’ll do whatever he wants me to do. (Author’s note: WHAT?)
-
-COURT: Who was the officer that picked it up? Was it Fuqua and David White?
-
-WITNESS: Yes.
-
-MR. HUNTLEY: Judge, that’s the problem, because they said this was the one they picked up…which is State’s Evidence No. – I think it’s 30.
-
-MR. WHETSTONE: And I thought it was. Apparently, they didn’t make any argument. The only person who knows it ain’t, is Jarius, and he’s accurate. (Author’s note: HUH?)
-
-MR. HUNTLEY: I went on two occasions to look at the evidence, and both times, this was there, and it was represented to me that this was the panel. 
-
-The judge ordered them to bring up the trunk liner when it arrived, and the court went into recess. When they reconvened, Huntley said that the lack of blood should be seen as exculpatory evidence, and that because of the "improper handling of this piece of evidence," that "the whole trial may be tainted." Huntley requests: "the Court should dismiss the case on that basis."    
-
-MR.WHETSTONE: Your Honor, I don’t think there’s any grounds for dismissal of the case. 
+>COURT: "Where is the liner?"
+>
+>WITNESS (Mack): In the evidence locker.
+>
+>MR. WHETSTONE: In Robertsdale, Your Honor. It’s on its way up. But I think we need to think about whether or not that liner can come into evidence. I think Mr. Huntley may have some kind of thought pattern on that. I think it was tested and I don’t think any blood was found. 
+>MR. HUNTLEY: That might change things dramatically.
+>
+>MR. WHETSTONE: Yeah. Because I don’t want the jury to believe that the thing that had the blood on it is not available. They’ll think ‘no wonder there’s no blood.’ So it’s kind of a tough call on Mr. Huntley. So I’ll do whatever he wants me to do. (Author’s note: WHAT?)
+>
+>COURT: Who was the officer that picked it up? Was it Fuqua and David White?
+>
+>WITNESS: Yes.
+>
+>MR. HUNTLEY: Judge, that’s the problem, because they said this was the one they picked up…which is State’s Evidence No. – I think it’s 30.
+>
+>MR. WHETSTONE: And I thought it was. Apparently, they didn’t make any argument. The only person who knows it ain’t, is Jarius, and he’s accurate. (Author’s note: HUH?)
+>
+>MR. HUNTLEY: I went on two occasions to look at the evidence, and both times, this was there, and it was represented to me that this was the panel. 
+>
+>The judge ordered them to bring up the trunk liner when it arrived, and the court went into recess. When they reconvened, Huntley said that the lack of blood should be seen as exculpatory evidence, and that because of the "improper handling of this piece of evidence," that "the whole trial may be tainted." Huntley requests: "the Court should dismiss the case on that basis."    
+>
+>MR.WHETSTONE: Your Honor, I don’t think there’s any grounds for dismissal of the case. 
 
 The verbal game of ping-pong continued for seven additional pages in the transcript. The "first trunk liner" vs. the "second trunk liner" was discussed ad nauseum – and various excuses emerged about where evidence was kept, and where it had to be moved so as not to disrupt an unrelated "meeting in the conference room." 
 
