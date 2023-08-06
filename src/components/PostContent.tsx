@@ -239,8 +239,8 @@ export const PostFullContent = styled.section`
     margin-left: -10px;
     width: 1px;
     height: 30px;
-    /* background: color(var(--lightgrey) l(+10%)); */
-    background: ${lighten('0.1', colors.lightgrey)};
+    /* background: color(var(--Darkgrey) l(+10%)); */
+    background: ${lighten('0.1', colors.Darkgrey)};
     box-shadow: #fff 0 0 0 5px;
     transform: rotate(45deg);
   }
