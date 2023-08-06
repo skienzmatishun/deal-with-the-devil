@@ -244,11 +244,11 @@ The sun is the greatest validating factor, as it does not care about Daylight Sa
 
 ## PART THREE  - "Malicious Prosecution"
 
-On April 6th, 2003, Jarius McNeil murdered Brandon Hastings on the side of the road in Baldwin County. The official cause of death was asphyxia, due to  strangulation by ligature. The motive’s for Brandon murder had been money. Jarius’ motive in August 2003 through May 2005 was to betray and sacrifice Bubba in order to save himself from lethal injection. 
+On April 6th, 2003, Jarius McNeil murdered Brandon Hastings on the side of the road in Baldwin County. The official cause of death was asphyxia, due to <ins>strangulation by ligature</ins>. The motive’s for Brandon murder had been money. Jarius’ motive in August 2003 through May 2005 was to betray and sacrifice Bubba in order to save himself from lethal injection. 
 
 It is unknown what Jarius might have admitted during his own legal proceeding, but it would certainly have proved contradictory to the newly invented version. And what of the cooperation factor with the law? Would not any "new" story need to be properly "synchronized" with the "recollections" of those who’d been present? And now, were not these the same legal officials threatening him with the death sentence while, at the same time, proposing a deal that he give up an accomplice? Did that not mean they were already onboard? 
 
-More than "onboard," the transcript shows that the investigators had actually volunteered the perfect foundation for Jarius’ new story. Lieutenant Mack’s testimony – in regard to the July 31st 2003 interview – recalls that when Dean McGowan first mentioned something about "the gun," Jarius’ first verbal reaction had been "what gun?" Why would Jarius seem surprised at this reference, if he had witnessed Bubba blowing away Brandon with a 9mm? Yet, sure enough, once offered, this line-of-thinking became the basis of Jarius’ story to frame Murray. 
+More than "onboard," the transcript shows that the investigators had actually volunteered the perfect foundation for Jarius’ new story. Lieutenant Mack’s testimony – in regard to the July 31st 2003 interview – recalls that when Dean McGowan first mentioned something about "the gun," Jarius’ first verbal reaction had been "**what gun**" Why would Jarius seem surprised at this reference, if he had witnessed Bubba blowing away Brandon with a 9mm? Yet, sure enough, once offered, this line-of-thinking became the basis of Jarius’ story to frame Murray. 
 
 But what of the motive of law enforcement personnel? What reason could they possibly have in pursuing a kangaroo-court proceeding (judge, witnesses, jury, and taxpayer expense) just to prosecute Bubba? History tells us there was likely an upcoming election around that time. Perhaps, the chance for a little extra publicity? Were these men simply in love with their badges, and their seemingly untouchable status? 
 
@@ -280,7 +280,7 @@ So, Mr. Whetstone would ignore the facts: that Jarius McNeil had murdered Brando
 
 Gun? Wait. What gun? Was there a gun, or not? 
 
-The answer is an unqualified NO. It was true that Murray owned a 9mm, but it had no part in the crime. However, there was another gun. Although the "stolen Steadman gun" was also circumstantial, it would unfortunately materialize during Murray’s 2005 legal proceedings, creating a mischaracterization of evidence, and a nightmare for Team Lawrence.
+The answer is an unqualified NO. It was true that Murray owned a 9mm, but it had no part in the crime. However, there <ins>was</ins> another gun. Although the "stolen Steadman gun" was also circumstantial, it would unfortunately materialize during Murray’s 2005 legal proceedings, creating a mischaracterization of evidence, and a nightmare for Team Lawrence.
 
 A local man named Clint Steadman had had a 9mm handgun stolen from his truck in November of 2002. The actual thief was unknown but, sometime after the New Year, the weapon ended up in the hands of John Wayne Mixson. Some people surmised that Mixson sold it to Jarius. After Brandon’s murder, Jarius was understandably nervous about the gun, and other items, afraid the police might get a search warrant. So Jarius randomly decided to ask Jeff Shaw "to hold" the gun for him. He was also unaware that Jeff Shaw was Murray Lawrence (Sr.’s) godson. 
 
@@ -297,13 +297,13 @@ Accordingly, Bubba would arrive at the murder site a little ahead of time, and a
 Nope. Just makes a nice, neat hole in the middle. And no blood. No blood on the car (with the hood up – or down), and no blood spatter on the handgun. None. Anywhere. Amazing. In fact, once that magic bullet had passed through Brandon’s body, it apparently became invisible also. Even with the use of dogs and metal detectors, investigators would never find a bullet embedded in the ground, or a shell casing. Clearly, it’s a miracle. (Yes, this is meant to sound snarky.)
 
 With Murray as make-believe hitman, Jarius would have been only a few feet away, and yet could not  describe exactly where Brandon was hit. (You’d think that maybe this type of experience might have been memorable.) In the transcript reference, Jarius says that Brandon was, alternately:
--	"shot in the back of the head," 
--	"in the head, above the left ear," 
--	"it appeared he (Brandon) was hit in the upper – the head, or the neck area of his body." 
--	 "the blood came out very bad, it was all over his face, and head, and neck area." 
--	 "Yes, sir. He was hit in the head." 
+-	"**shot in the back of the head**," 
+-	"**in the head, above the left ear**," 
+-	"**it appeared he (Brandon) was hit in the upper – the head, or the neck area of his body.**" 
+-	 "**the blood came out very bad, it was all over his face, and head, and neck area.**" 
+-	 "**Yes, sir. He was hit in the head.**" 
 There would be more "miracles" to come. When the trunk liner was recovered, there would be no blood evidence when it should have been saturated. No forensics on hair or fiber that would have supported Bubba’s involvement. No ballistics would be run on the "Steadman gun" as there was nothing to test. There was no powder residue. Moreover, not a single fingerprint of Bubba’s would ever be found. Not on the gun, not on the car, nor any item in the car. Not anywhere. Because Murray had never been there. 
-And, of course, the only person alleging that Bubba was involved in this crime, was the guy who would get the death penalty if he was not successful in convincing the court. 
+And, of course, the <ins>only</ins> person alleging that Bubba was involved in this crime, was the guy who would get the death penalty if he was not successful in convincing the court. 
 
 *************
 
@@ -414,7 +414,7 @@ The verbal game of ping-pong continued for seven additional pages in the transcr
 
 The discussion was utterly inane, and remained unresolved, because neither trunk liner went beyond the "presumptive test" for blood. Why? Because there was absolutely no blood to test. 
 
-(Will the real trunk liner please stand up and be recognized by the court?)
+(**Will the real trunk liner please stand up and be recognized by the court?**)
 
 
 *************
@@ -581,6 +581,6 @@ William C. Holman Correctional Facility
 
 3)	Then you can write to the Office of the Attorney General, Steve Marshall, and Governor of Alabama, Kay Ivey. 
 
-4)	Contribute to Murray’s Spotfund page at ________________which will directly benefit Murray and his legal expenses in his quest for freedom.  
+4)	Contribute to Murray’s Spotfund page at https://spot.fund/7p2k2se which will directly benefit Murray and his legal expenses in his quest for freedom.  
 
-NOTE: The public is advised that there will be more developments as this case continues to unfold. Even now, more evidence of innocence within additional documents is already beginning to surface. Ultimately, Murray’s story is destined to be a feature documentary, exposing an inept and corrupt judicial system.
+**NOTE**: The public is advised that there will be more developments as this case continues to unfold. Even now, more evidence of innocence within additional documents is already beginning to surface. Ultimately, Murray’s story is destined to be a feature documentary, exposing an inept and corrupt judicial system.
