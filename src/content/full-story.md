@@ -125,23 +125,23 @@ Throughout the evening, there have been many phones calls between the groups, an
 
 ### April 5th, 2003 – Saturday evening
 
-9:30 PM - Jarius drops by Bubba’s house. Conveniently, Bubba is not there, which gives Jarius the perfect opportunity to call Brandon on the Mixson land-line, since Jarius’ cell phone service was canceled due to non-payment. Jarius affirms this call in court testimony; he was "looking for Brandon." 
+<ins>9:30 PM</ins> - Jarius drops by Bubba’s house. Conveniently, Bubba is not there, which gives Jarius the perfect opportunity to call Brandon on the Mixson land-line, since Jarius’ cell phone service was canceled due to non-payment. Jarius affirms this call in court testimony; he was "looking for Brandon." 
 
 Gradually, just before midnight, various individuals peel off from their respective groups, and head home. However, Brandon Hastings says ‘bye to his buddies, but then lingers, still expecting to make post-midnight plans with Jarius. 
 
-11:39 PM -  Brandon receives a call from Jarius from a payphone in Gulf Shores, likely Surfside Style Shop, then hangs up to avoid being charged. Jarius affirms this in court testimony.
+<ins>11:39 PM</ins> -  Brandon receives a call from Jarius from a payphone in Gulf Shores, likely Surfside Style Shop, then hangs up to avoid being charged. Jarius affirms this in court testimony.
 
-11:40 PM - Brandon immediately makes a tag-back call to the Surfside Style Shop’s payphone in Gulf Shores where Jarius waits.  
+<ins>11:40 PM</ins> - Brandon immediately makes a tag-back call to the Surfside Style Shop’s payphone in Gulf Shores where Jarius waits.  
 
 ### April 6th, 2003 – Sunday morning, after midnight 
 
-12:00 AM – Bubba and Michael Dozier are partying at Tonya’s house. Michael Dozier lends Bubba his car to go score coke in Mobile, about an hour, round-trip. Dozier remains with Tonya and Stacey, waiting for Bubba’s return.
+<ins>12:00 AM</ins> – Bubba and Michael Dozier are partying at Tonya’s house. Michael Dozier lends Bubba his car to go score coke in Mobile, about an hour, round-trip. Dozier remains with Tonya and Stacey, waiting for Bubba’s return.
 
-1:00 AM – Bubba returns from Mobile. They all do some cocaine. Michael Dozier then leaves for the night.  Stacey and Tonya are still present. 
+<ins>1:00 AM</ins> – Bubba returns from Mobile. They all do some cocaine. Michael Dozier then leaves for the night.  Stacey and Tonya are still present. 
 
-1:30 AM – Bubba borrows Tonya’s car to go buy get a cigar, to make a "blunt" to smoke marijuana.  
+<ins>1:30 AM</ins> – Bubba borrows Tonya’s car to go buy get a cigar, to make a "blunt" to smoke marijuana.  
 
-1:45 AM – Bubba returns. The three of them smoke the marijuana blunt. Stacey leaves for the night around 2:00AM.
+<ins>1:45 AM</ins> – Bubba returns. The three of them smoke the marijuana blunt. Stacey leaves for the night around 2:00AM.
 
 ## CONJECTURE: SPECULATIVE INTERPRETATION of JARIUS’ JOURNEY
 
