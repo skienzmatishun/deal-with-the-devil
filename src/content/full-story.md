@@ -85,10 +85,10 @@ AUTOPSY PROTOCOL & DIAGNOSIS
 (from State’s Exhibit 56)
 
 1.	Asphyxia due to ligature strangulation.
-a.	Collapsed congested atelectatic lungs
-b.	Fracture hyoid bone
-c.	Congested cyanotic viscera
-d.	Fresh contusions and abrasions of the upper left knee and wrist, right upper forearm
+	a.	Collapsed congested atelectatic lungs
+	b.	Fracture hyoid bone
+	c.	Congested cyanotic viscera
+	d.	Fresh contusions and abrasions of the upper left knee and wrist, right upper forearm
 
 The body would have been transported to the designated funeral home in Baldwin County, either later that same day, or early on April 13th, as that would be the date of interment. And yet, no Alabama coroner’s report and accompanying death certificate seemed to have been issued. Why would such important protocol be overlooked? Either Baldwin County should have openly honored the Mississippi forensics, or their contrasting determination should have been declared, and legally substantiated.  
 
@@ -104,7 +104,7 @@ It is also worth remembering that it would have been up to “Hoss” Mack (Jr.�
 *************
 
 
-PART TWO  - “Doing the Math” 
+### PART TWO  - “Doing the Math” 
 
 When first approaching the task of criminal investigation, one would think that establishing a sequence of events would be vital. Yet, in Murray’s case in 2005, no such timeline had ever been generated. How could that be? How could a criminal case in a courtroom be prosecuted, or defended, without knowing who was where, and when? 
 
@@ -235,7 +235,7 @@ The sun is the greatest validating factor, as it does not care about Daylight Sa
 *************
 
 
-###PART THREE  - “Malicious Prosecution”
+### PART THREE  - “Malicious Prosecution”
 
 On April 6th, 2003, Jarius McNeil murdered Brandon Hastings on the side of the road in Baldwin County. The official cause of death was asphyxia, due to  strangulation by ligature. The motive’s for Brandon murder had been money. Jarius’ motive in August 2003 through May 2005 was to betray and sacrifice Bubba in order to save himself from lethal injection. 
 
@@ -304,7 +304,7 @@ And, of course, the only person alleging that Bubba was involved in this crime, 
 
 
 
-###PART FOUR  - “Forensics & Evidence” 
+### PART FOUR  - “Forensics & Evidence” 
 
 First, let us pause, and speak reverently of Brandon, respecting and remembering his humanity. Not just a statistic, but a living, breathing, caring, human being – someone’s son, someone’s brother, someone’s nephew. It is not easy to render these gruesome details, but without understanding the forensics of the murder, exculpatory evidence cannot be uncovered. Brandon’s life has already been lost. If there is no examination of this case, then the essence of Murray’s life is also sacrificed. 
 
@@ -412,7 +412,7 @@ The discussion was utterly inane, and remained unresolved, because neither trunk
 
 *************
 
-###PART FIVE  - “Forced Consensus” 
+### PART FIVE  - “Forced Consensus” 
 
 What is the Voir Dire? Literally, it means to “speak the truth.” It is the process used to select a fair and impartial jury. Each potential juror is questioned by both the prosecutor and the defense attorney in order to determine their suitability for jury service. 
 
@@ -468,7 +468,7 @@ Seriously? If an opposing attorney were to have said the same thing, this same p
 
 *************
 
-###PART SIX  - “Immunity Lies” 
+### PART SIX  - “Immunity Lies” 
 
 “A felony conviction cannot be had on the testimony of an accomplice, unless corroborated by other evidence, tending to connect the defendant with the commission of the offense. And such corroborative evidence – if it merely shows the commission of the offense, or the circumstances thereof – is not sufficient.”                       
  JOHN DAVID WHETSTONE, ESQUIRE           
