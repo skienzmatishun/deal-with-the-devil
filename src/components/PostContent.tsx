@@ -156,7 +156,7 @@ export const PostFullContent = styled.section`
     margin: 0 0 1.5em;
     padding: 0 1.5em;
     border-left: red 1px solid;
-    font-size:2.25rem;
+    font-size:2rem;
   }
   @media (max-width: 500px) {
     blockquote {
@@ -169,8 +169,7 @@ export const PostFullContent = styled.section`
     color: inherit;
     font-size: inherit;
     line-height: inherit;
-    font-style: italic;
-  }
+      }
 
   blockquote p:last-child {
     margin-bottom: 0;
