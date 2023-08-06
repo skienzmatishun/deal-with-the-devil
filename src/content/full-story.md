@@ -110,16 +110,16 @@ It is Spring Break, 2003. Several groups of friends are gathered across Fairhope
 
 ### Cast of Characters:
 
-Murray "Bubba" Lawrence, Jr. – Wrongfully convicted of the murder of Brandon Hastings. 
-Michael Dozier – Friend of Bubba’s
-Stacey Giambrone  – Friend of Tonya’s
-Jarius McNeil – Actual murderer of Brandon Hastings
-Debra Fudge – Fellow Bebo’s employee, works with Brandon.
-Brandon Hastings – Innocent victim of murder/robbery. Works at Bebo’s.  
-Tonya Mixson – Bubba’s girlfriend. Lives with Murray in mother’s house, Elizabeth Mixson
-Cynthia Weston – Jarius’ live-together girlfriend. 
-John Wayne Mixson – Brother of Tonya Mixson, son of Elizabeth Mixson. All reside in Elizabeth Mixson’s house.   
-Crystal Curtis Lindsey – Friend of a friend who joined the party late. 
+<ins>Murray "Bubba" Lawrence, Jr.</ins> – Wrongfully convicted of the murder of Brandon Hastings. 
+<ins>Michael Dozier</ins> – Friend of Bubba’s
+<ins>Stacey Giambrone</ins>  – Friend of Tonya’s
+<ins>Jarius McNeil</ins> – Actual murderer of Brandon Hastings
+<ins>Debra Fudge</ins> – Fellow Bebo’s employee, works with Brandon.
+<ins>Brandon Hastings</ins> – Innocent victim of murder/robbery. Works at Bebo’s.  
+<ins>Tonya Mixson</ins> – Bubba’s girlfriend. Lives with Murray in mother’s house, Elizabeth Mixson
+<ins>Cynthia Weston</ins> – Jarius’ live-together girlfriend. 
+<ins>John Wayne Mixson</ins> – Brother of Tonya Mixson, son of Elizabeth Mixson. All reside in Elizabeth Mixson’s house.   
+<ins>Crystal Curtis Lindsey</ins> – Friend of a friend who joined the party late. 
 
 Throughout the evening, there have been many phones calls between the groups, and within the groups – making plans, changing plans, or deciding to meet at the beach. Three of these calls, before midnight, will bear testimony to the fact that Jarius and Brandon were trying to arrange a solo meeting, after everyone else had departed.
 
