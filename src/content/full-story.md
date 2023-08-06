@@ -175,10 +175,10 @@ This timeline was corroborated in real-life, researched by physically traveling 
 
 Could it be, that forensically-unexamined jumper cables, containing Jarius’ DNA, and Murray’s key to freedom, still sit in some obscure evidence locker in Baldwin County? 
 
-<ins><span style="background:green">2:00 AM</span></ins> (<span style="background:green">OLD TIME</span>)
+<ins><span style="background:lightgreen">2:00 AM</span></ins> (<span style="background:lightgreen">OLD TIME</span>)
 Jarius (likely) loads Brandon’s body into front seat, rather than the trunk. 
 
-<ins>3:00 AM</ins> (NEW TIME)
+<ins><span style="background:yellow">3:00 AM</span></ins> (<span style="background:yellow">NEW TIME</span>)
 Jarius (likely) loads Brandon’s body into front seat, rather than the trunk. 
 
 This is the ghostly non-hour that does not exist. 
