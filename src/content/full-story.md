@@ -197,13 +197,13 @@ Prosecutor Whetstone questions: "And where did y’all decide to go?" And Jarius
 
 This journey will take 77 minutes, in total, made up of three segments. (See 4:44 AM entry.)
 
-Here, we depart from Jarius’ story, temporarily, to depict coinciding actions of other players (<font color=red>in red</font), in other locations. These two components will eventually intertwine and lock-in Jarius’ timeline in his return trip from Mississippi. 
+Here, we depart from Jarius’ story, temporarily, to depict coinciding actions of other players (<span style="red">in red</span), in other locations. These two components will eventually intertwine and lock-in Jarius’ timeline in his return trip from Mississippi. 
 
-<ins><font color=red>4:00 AM</font></ins> – Meanwhile, another party is in motion. <font color=red>Crystal Curtis Lindsay</font> leaves Emily Price’s place in Lake Forest, along with <font color=red>John Wayne Mixson</font>, who she has just met. They drive to Tonya’s. (Drive time – approx. 20 min.)  John is Tonya Mixson’s brother, and also lives at the same house as she and Bubba. Crystal has never met Bubba before that night, nor has she ever met Tonya. There is no reason why Crystal would try to protect Bubba in future court testimony. She is truly a NEUTRAL alibi witness. 
+<ins><span style="red">4:00 AM</span></ins> – Meanwhile, another party is in motion. <font color=red>Crystal Curtis Lindsay</font> leaves Emily Price’s place in Lake Forest, along with <font color=red>John Wayne Mixson</font>, who she has just met. They drive to Tonya’s. (Drive time – approx. 20 min.)  John is Tonya Mixson’s brother, and also lives at the same house as she and Bubba. Crystal has never met Bubba before that night, nor has she ever met Tonya. There is no reason why Crystal would try to protect Bubba in future court testimony. She is truly a NEUTRAL alibi witness. 
 
-<ins><font color=red>4:20 AM</font></ins> – <font color=red>Crystal and John Wayne Mixson</font> arrive at the Mixson house, and wake Bubba up to buy some coke from him. He is sleepy, bedraggled, wearing only pajama bottoms, and his Afro hair-style is flattened on one side. Likewise, Tonya. Disrupted from sleep for the second time in an hour – the first being Jarius forcing her/them to receive stolen goods – Tonya tries to ignore what going on, and does not actively engage. 
+<ins><span style="red">4:20 AM</span></ins> – <font color=red>Crystal and John Wayne Mixson</font> arrive at the Mixson house, and wake Bubba up to buy some coke from him. He is sleepy, bedraggled, wearing only pajama bottoms, and his Afro hair-style is flattened on one side. Likewise, Tonya. Disrupted from sleep for the second time in an hour – the first being Jarius forcing her/them to receive stolen goods – Tonya tries to ignore what going on, and does not actively engage. 
 
-<ins><font color=red>4:35 AM</font></ins> – <font color=red>Crystal and John Wayne Mixson</font> do some coke, and then leave Bubba and Tonya’s house, but will not get far… they will be stopped by a police officer…
+<ins><font color=red>4:35 AM</span></ins> – <font color=red>Crystal and John Wayne Mixson</font> do some coke, and then leave Bubba and Tonya’s house, but will not get far… they will be stopped by a police officer…
 
 Now, back to Jarius in Mississippi. 
 
@@ -211,7 +211,7 @@ Now, back to Jarius in Mississippi.
 
 Now, back to Crystal and John Wayne in Alabama. 
 
-<ins><font color=red>4:45 AM</font></ins> – Meanwhile, ten minutes after leaving Bubba/Tonya’s place, <font color=red>Crystal and John Wayne Mixson</font> get pulled over by Fairhope Police. Miraculously, and oddly, in the most strict of all municipalities of Baldwin County, Officer Wendell Thomas does not arrest them, or give them a ticket, but strongly suggests that Crystal drive because Mixson is obviously drunk. They trade places. The traffic stop takes 10-15 minutes, which ends in the writing of an incident report. 
+<ins><span style="red">4:45 AM</span></ins> – Meanwhile, ten minutes after leaving Bubba/Tonya’s place, <span style="red">Crystal and John Wayne Mixson</span> get pulled over by Fairhope Police. Miraculously, and oddly, in the most strict of all municipalities of Baldwin County, Officer Wendell Thomas does not arrest them, or give them a ticket, but strongly suggests that Crystal drive because Mixson is obviously drunk. They trade places. The traffic stop takes 10-15 minutes, which ends in the writing of an incident report. 
 
 Unlike Debra Fudge, Officer Wendell Thomas will not be subpoenaed. But, curiously, like Debra Fudge, he will also not be called on to testify. 
 
