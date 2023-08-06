@@ -156,65 +156,65 @@ This timeline was corroborated in real-life, researched by physically traveling 
 
 ### April 6th, 2003 – Sunday morning, after midnight (continued)
 
-1:20 AM - Jarius uses payphone at the Pick-n-Pay (CR 12 and CR 49) to call Brandon’s cell. They arrange to meet at an adjacent parking lot, near Bebo’s Car Wash in Foley, where Brandon is employed. Jarius is on his way. (Drive time - approx. 10 min.) 
+<ins>1:20 AM</ins> - Jarius uses payphone at the Pick-n-Pay (CR 12 and CR 49) to call Brandon’s cell. They arrange to meet at an adjacent parking lot, near Bebo’s Car Wash in Foley, where Brandon is employed. Jarius is on his way. (Drive time - approx. 10 min.) 
 
-1:30 AM - Jarius arrives at the specified vacant parking lot, adjacent to Bebo’s, and parks his car. Jarius must remain unseen. Brandon picks him up in the vacant lot, but instead of heading out down the road, Brandon stops at the well-lit Bebo’s Car Wash. (Duration of delay, approx. 5 min.) Jarius undoubtedly flinches, at this unforeseen potential exposure. How desperate must he have been, to carry on with the plan, rather than abort?
+<ins>1:30 AM</ins> - Jarius arrives at the specified vacant parking lot, adjacent to Bebo’s, and parks his car. Jarius must remain unseen. Brandon picks him up in the vacant lot, but instead of heading out down the road, Brandon stops at the well-lit Bebo’s Car Wash. (Duration of delay, approx. 5 min.) Jarius undoubtedly flinches, at this unforeseen potential exposure. How desperate must he have been, to carry on with the plan, rather than abort?
 
-1:35 AM - Debra Fudge, a fellow Bebo’s employee, sees Brandon in the driver’s seat, and notes that a young African-American man is with him in the passenger’s seat. Other than Jarius, Debra is the last person to see Brandon alive. Curious that, although she will be interviewed and subpoenaed, she will be never be called to testify on the stand. 
+<ins>1:35 AM</ins> - Debra Fudge, a fellow Bebo’s employee, sees Brandon in the driver’s seat, and notes that a young African-American man is with him in the passenger’s seat. Other than Jarius, Debra is the last person to see Brandon alive. Curious that, although she will be interviewed and subpoenaed, she will be never be called to testify on the stand. 
 
-1:47 AM – Brandon and Jarius leave Bebo’s and drive to a well-known canopied section of trees on CR 49, about 1 ½ miles north of Pick-n-Pay. [Drive time - approx. 12 min. This is the "alleged murder site," according to Jarius’ testimony – whether it’s the version with, or without Murray.]  
+<ins>1:47 AM</ins> – Brandon and Jarius leave Bebo’s and drive to a well-known canopied section of trees on CR 49, about 1 ½ miles north of Pick-n-Pay. [Drive time - approx. 12 min. This is the "alleged murder site," according to Jarius’ testimony – whether it’s the version with, or without Murray.]  
 
-1:48 AM - 1:59 AM – Jarius kills Brandon, strangulation by ligature. How was it that no weapon appropriate for strangulation had ever been found, nor was presented during the trial? So, how is it that jumper cables – an immediate and obvious choice as ligature, readily available in Brandon’s car – and added into evidence – were never considered a potential murder weapon? 
+<ins>1:48 AM</ins> - 1:59 AM – Jarius kills Brandon, strangulation by ligature. How was it that no weapon appropriate for strangulation had ever been found, nor was presented during the trial? So, how is it that jumper cables – an immediate and obvious choice as ligature, readily available in Brandon’s car – and added into evidence – were never considered a potential murder weapon? 
 
 Could it be, that forensically-unexamined jumper cables, containing Jarius’ DNA, and Murray’s key to freedom, still sit in some obscure evidence locker in Baldwin County? 
 
-2:00 AM (OLD TIME)
+<ins>2:00 AM</ins> (OLD TIME)
 Jarius (likely) loads Brandon’s body into front seat, rather than the trunk. 
 
-3:00 AM (NEW TIME)
+<ins>3:00 AM</ins> (NEW TIME)
 Jarius (likely) loads Brandon’s body into front seat, rather than the trunk. 
 
 This is the ghostly non-hour that does not exist. 
 
 *************
 
-3:01 AM (Central Daylight Time) – Unlike Jarius’ fictitious story, in which he and Murray remove the speakers at the scene of the crime – consider, instead, that Jarius actually drives (approx. 24 minutes, arriving at 3:25AM) at his Uncle Steve Heard’s house in Fairhope, looking for his half-brother, Damien. Keep in mind that Jarius may not have intended to murder Brandon – that it might have been a robbery gone wrong. Regardless, he now has to dispose of both body and car. As Damien is in Panama City, Uncle Steve helps to quickly remove the speakers from the trunk to the backseat, and move Brandon’s inert body – from the front passenger’s seat to the trunk. Then Jarius departs, driving to Bubba’s and Tonya’s which is close by. He arrives just minutes later. 
+<ins>3:01 AM</ins> (Central Daylight Time) – Unlike Jarius’ fictitious story, in which he and Murray remove the speakers at the scene of the crime – consider, instead, that Jarius actually drives (approx. 24 minutes, arriving at 3:25AM) at his Uncle Steve Heard’s house in Fairhope, looking for his half-brother, Damien. Keep in mind that Jarius may not have intended to murder Brandon – that it might have been a robbery gone wrong. Regardless, he now has to dispose of both body and car. As Damien is in Panama City, Uncle Steve helps to quickly remove the speakers from the trunk to the backseat, and move Brandon’s inert body – from the front passenger’s seat to the trunk. Then Jarius departs, driving to Bubba’s and Tonya’s which is close by. He arrives just minutes later. 
 
-3:30 AM – Jarius unloads the speakers, puts them on Bubba and Tonya’s front porch, and taps on the window. Tonya peeks out, and sees an unrecognized car with shiny rims. Bubba goes outside, sees Jarius, the speakers on the porch, and a car that is not his own. He smells a rat. Jarius insists Bubba and Tonya should "hold" the speakers for him. Tonya protests, but to no avail. Speakers are deposited in her bedroom. (Duration of brief visit, approx. 10 min.) 
+<ins>3:30 AM</ins> – Jarius unloads the speakers, puts them on Bubba and Tonya’s front porch, and taps on the window. Tonya peeks out, and sees an unrecognized car with shiny rims. Bubba goes outside, sees Jarius, the speakers on the porch, and a car that is not his own. He smells a rat. Jarius insists Bubba and Tonya should "hold" the speakers for him. Tonya protests, but to no avail. Speakers are deposited in her bedroom. (Duration of brief visit, approx. 10 min.) 
 
 Now contrast this with Jarius testimony, Page 1433.
 
 Prosecutor Whetstone questions: "And where did y’all decide to go?" And Jarius lies, "Well, he needed to drop Tonya’s vehicle back off at her house before we moved on further as far as disposing of the body." 
 
-3:40 AM – No, much more likely that this played out very differently. Jarius leaves Bubba and Tonya’s, who have not been aware that Brandon’s body is in the trunk of the Acura. Jarius now heads to Mississippi, alone, probably to a vicinity recommended by Uncle Steve, where many members of the extended Heard family reside. 
+<ins>3:40 AM</ins> – No, much more likely that this played out very differently. Jarius leaves Bubba and Tonya’s, who have not been aware that Brandon’s body is in the trunk of the Acura. Jarius now heads to Mississippi, alone, probably to a vicinity recommended by Uncle Steve, where many members of the extended Heard family reside. 
 
 This journey will take 77 minutes, in total, made up of three segments. (See 4:44 AM entry.)
 
 Here, we depart from Jarius’ story, temporarily, to depict coinciding actions of other players (in red), in other locations. These two components will eventually intertwine and lock-in Jarius’ timeline in his return trip from Mississippi. 
 
-4:00 AM – Meanwhile, another party is in motion. Crystal Curtis Lindsay leaves Emily Price’s place in Lake Forest, along with John Wayne Mixson, who she has just met. They drive to Tonya’s. (Drive time – approx. 20 min.)  John is Tonya Mixson’s brother, and also lives at the same house as she and Bubba. Crystal has never met Bubba before that night, nor has she ever met Tonya. There is no reason why Crystal would try to protect Bubba in future court testimony. She is truly a NEUTRAL alibi witness. 
+<ins>4:00 AM</ins> – Meanwhile, another party is in motion. Crystal Curtis Lindsay leaves Emily Price’s place in Lake Forest, along with John Wayne Mixson, who she has just met. They drive to Tonya’s. (Drive time – approx. 20 min.)  John is Tonya Mixson’s brother, and also lives at the same house as she and Bubba. Crystal has never met Bubba before that night, nor has she ever met Tonya. There is no reason why Crystal would try to protect Bubba in future court testimony. She is truly a NEUTRAL alibi witness. 
 
-4:20 AM – Crystal and John Wayne Mixson arrive at the Mixson house, and wake Bubba up to buy some coke from him. He is sleepy, bedraggled, wearing only pajama bottoms, and his Afro hair-style is flattened on one side. Likewise, Tonya. Disrupted from sleep for the second time in an hour – the first being Jarius forcing her/them to receive stolen goods – Tonya tries to ignore what going on, and does not actively engage. 
+<ins>4:20 AM</ins> – Crystal and John Wayne Mixson arrive at the Mixson house, and wake Bubba up to buy some coke from him. He is sleepy, bedraggled, wearing only pajama bottoms, and his Afro hair-style is flattened on one side. Likewise, Tonya. Disrupted from sleep for the second time in an hour – the first being Jarius forcing her/them to receive stolen goods – Tonya tries to ignore what going on, and does not actively engage. 
 
-4:35 AM – Crystal and John Wayne Mixson do some coke, and then leave Bubba and Tonya’s house, but will not get far… they will be stopped by a police officer…
+<ins>4:35 AM</ins> – Crystal and John Wayne Mixson do some coke, and then leave Bubba and Tonya’s house, but will not get far… they will be stopped by a police officer…
 
 Now, back to Jarius in Mississippi. 
 
-4:44 AM – Jarius finally arrives at his destination in Mississippi, via this route: from Bubba/Tonya’s (29 minutes) to I-10. West on I-10 to Gautier/Vancleave exit (44 min). Then north to Pine Grove (4 min) to intersection at Grasshopper Point. (Again, total of 77 minutes, or 1 hr. and 17 min.) This is where Jarius will dispose of Brandon’s body. 
+<ins>4:44 AM</ins> – Jarius finally arrives at his destination in Mississippi, via this route: from Bubba/Tonya’s (29 minutes) to I-10. West on I-10 to Gautier/Vancleave exit (44 min). Then north to Pine Grove (4 min) to intersection at Grasshopper Point. (Again, total of 77 minutes, or 1 hr. and 17 min.) This is where Jarius will dispose of Brandon’s body. 
 
 Now, back to Crystal and John Wayne in Alabama. 
 
-4:45 AM – Meanwhile, ten minutes after leaving Bubba/Tonya’s place, Crystal and John Wayne Mixson get pulled over by Fairhope Police. Miraculously, and oddly, in the most strict of all municipalities of Baldwin County, Officer Wendell Thomas does not arrest them, or give them a ticket, but strongly suggests that Crystal drive because Mixson is obviously drunk. They trade places. The traffic stop takes 10-15 minutes, which ends in the writing of an incident report. 
+<ins>4:45 AM</ins> – Meanwhile, ten minutes after leaving Bubba/Tonya’s place, Crystal and John Wayne Mixson get pulled over by Fairhope Police. Miraculously, and oddly, in the most strict of all municipalities of Baldwin County, Officer Wendell Thomas does not arrest them, or give them a ticket, but strongly suggests that Crystal drive because Mixson is obviously drunk. They trade places. The traffic stop takes 10-15 minutes, which ends in the writing of an incident report. 
 
 Unlike Debra Fudge, Officer Wendell Thomas will not be subpoenaed. But, curiously, like Debra Fudge, he will also not be called on to testify. 
 
 Now, back to Jarius in Mississippi. 
 
-4:54 AM – Jarius disposes of Brandon’s body (duration 10 min), pulling him out of the car, and dragging him into the brush. 
+<ins>4:54 AM</ins> – Jarius disposes of Brandon’s body (duration 10 min), pulling him out of the car, and dragging him into the brush. 
 
-4:56 AM – Jarius has a false start. (2 min.) He remembers he should get rid of the trunk liner, dumps it, then takes off for home. 
+<ins>4:56 AM</ins> – Jarius has a false start. (2 min.) He remembers he should get rid of the trunk liner, dumps it, then takes off for home. 
 
-5:01 AM – Crystal and John Wayne Mixson have now been written up by Office Wendell Thomas who records the time of the traffic stop at 5:01 AM CDT.
+<ins>5:01 AM</ins> – Crystal and John Wayne Mixson have now been written up by Office Wendell Thomas who records the time of the traffic stop at 5:01 AM CDT.
 
 It is important to note that, when the time changes, these young people, in "party mode," have not been focused on adjusting their clocks at the stroke of 2:00AM. Maybe, they will remember to do it in the morning. They also cannot not know that, one day, there will be a trial for a crime committed that night – and they will be required to provide accurate testimony. So, even though their recollections will seem hazy, it will all come into focus due to the encounter with this policeman.
 
