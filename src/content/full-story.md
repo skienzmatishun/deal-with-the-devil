@@ -470,7 +470,7 @@ Even while trying to sound superficially ambivalent, Whetstone was actively infl
 
 A few pages later in the transcript, Whetstone would postulate, "We believe that they took this young man (Brandon) after he was shot – and you’ll have evidence to support it – put him in the trunk of a car and drove – there was two cars. It took two people to do this. At least two. And drove him to Tonya Mixon’s house in the trunk and then drove to Mississippi. Then came back.
 
-What is wrong with the above paragraph? Everything. 1) Brandon was not shot. 2) They would find no corroborating evidence. 3) Two cars were not used, 4) Nor did two people go to Mississippi. Whetstone had told the jury "not to believe the lawyer, but rather the evidence." Then immediately he puts forth these baseless theories, other than to fulfill his personal agenda. 
+What is wrong with the above paragraph? <ins>Everything</ins>. 1) Brandon was not shot. 2) They would find no corroborating evidence. 3) Two cars were not used, 4) Nor did two people go to Mississippi. Whetstone had told the jury "not to believe the lawyer, but rather the evidence." Then immediately he puts forth these baseless theories, other than to fulfill his personal agenda. 
 
 Whetstone continued to speak:
 
