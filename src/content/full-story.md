@@ -78,9 +78,9 @@ Strange that Jarius – a liar, thief, and murderer – was the only "witness" t
 
 Dr. Paul McGarry’s "provisional" autopsy took place on April 12th at Singing River Hospital in MS. Once Brandon had been identified, the second coroner, Jackson County’s, Vickie Broadus, and issued a second death certificate including his name. Both experts agreed on cause-of-death. 
 
-Coroner’s Office Jackson County, MS
-AUTOPSY PROTOCOL & DIAGNOSIS 
-(from State’s Exhibit 56)
+<center>Coroner’s Office Jackson County, MS</center>
+<center>AUTOPSY PROTOCOL & DIAGNOSIS</center> 
+<center>(from State’s Exhibit 56)</center>
 
 1.	Asphyxia due to ligature strangulation.
 	a.	Collapsed congested atelectatic lungs
