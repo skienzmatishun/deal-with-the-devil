@@ -20,7 +20,7 @@ By Nancy R Koerner
 
 The 9mm slug hits the young man, high in the middle of the throat. It’s a perfect shot. Blood splatters everywhere. Brandon Hastings drops like a stone. He is 21 years old. It is dark here on the side of the road, in rural Alabama, just west of Foley. It is almost exactly at 2 AM, on April 6th, 2003 – just as the time is officially changing one hour ahead to Daylight Saving Time. 
 
-<center><ins> **Except this is not what happened that night.** </ins></center>
+**<center><ins>Except this is not what happened that night.</ins></center>**
 
 Two years later in May 2005, Brandon Hastings’ actual killer will testify in court against Murray "Bubba" Lawrence, using this fictitious story in an attempt to frame him – in order to avoid the death sentence. 
 ___________
