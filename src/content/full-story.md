@@ -195,7 +195,7 @@ This is the ghostly non-hour that does not exist.
 
 Now contrast this with Jarius testimony, Page 1433.
 
-Prosecutor Whetstone questions: "And where did y’all decide to go?" And Jarius lies, "Well, he needed to drop Tonya’s vehicle back off at her house before we moved on further as far as disposing of the body." 
+>Prosecutor Whetstone questions: "And where did y’all decide to go?" And Jarius lies, "Well, he needed to drop Tonya’s vehicle back off at her house before we moved on further as far as disposing of the body." 
 
 <ins>3:40 AM</ins> – No, much more likely that this played out very differently. Jarius leaves Bubba and Tonya’s, who have not been aware that Brandon’s body is in the trunk of the Acura. Jarius now heads to Mississippi, alone, probably to a vicinity recommended by Uncle Steve, where many members of the extended Heard family reside. 
 
