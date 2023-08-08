@@ -16,16 +16,16 @@ By Nancy R Koerner
 
 "Do you know what this is?" Murray "Bubba" Lawrence, Jr. gestures to the gun in his hand. He is at point-blank range, his finger on the trigger. Murray has been working himself into a frenzy. "Do you know what time it is?" His voice sounds like Dirty Harry. The young man’s white face is frozen in fear – his eyes, like a deer in the headlights. 
 
-BANG!
+**BANG!**
 
 The 9mm slug hits the young man, high in the middle of the throat. It’s a perfect shot. Blood splatters everywhere. Brandon Hastings drops like a stone. He is 21 years old. It is dark here on the side of the road, in rural Alabama, just west of Foley. It is almost exactly at 2 AM, on April 6th, 2003 – just as the time is officially changing one hour ahead to Daylight Saving Time. 
 
-Except this is not what happened that night.
+<center><ins>**Except this is not what happened that night.**</ins></center>
 
 Two years later in May 2005, Brandon Hastings’ actual killer will testify in court against Murray "Bubba" Lawrence, using this fictitious story in an attempt to frame him – in order to avoid the death sentence. 
 ___________
 
-"A  Verbal Lynching in Alabama" is a true-crime story of greed, murder, treachery, and wrongful conviction. The facts contained herein are drawn from, and strictly  based on the over 2000-page official court transcript, taking more than a thousand hours to analyze, dissect, and scrutinize. Through witness testimony, personal interviews, rigorous study of Brandon’s phone log, and the physical re-tracing and timing of the murderer’s alleged route from Alabama to Mississippi where the body was dumped, a visual story begins to emerge. Previously, no timeline for this murder case ever existed or had been proposed. But now, through exhaustive research, the puzzle is no longer incomplete. All the pieces fit. 
+"<ins>A Verbal Lynching in Alabama</ins>" is a true-crime story of greed, murder, treachery, and wrongful conviction. The facts contained herein are drawn from, and strictly  based on the over 2000-page official court transcript, taking more than a thousand hours to analyze, dissect, and scrutinize. Through witness testimony, personal interviews, rigorous study of Brandon’s phone log, and the physical re-tracing and timing of the murderer’s alleged route from Alabama to Mississippi where the body was dumped, a visual story begins to emerge. Previously, no timeline for this murder case ever existed or had been proposed. But now, through exhaustive research, the puzzle is no longer incomplete. All the pieces fit. 
 
 *************
 It was not Murray "Bubba" Lawrence who had actually killed Brandon Hastings on April 6th, 2003. It was another young African-American man named Jarius McNeil. Already convicted of Federal counterfeiting charges and awaiting sentence, McNeil had been quickly apprehended by police investigators. By the end of the month, he had been arrested for possession of stolen property. By May 15th, 2003, he had been indicted for Brandon’s murder. McNeil had then copped a plea-deal for "felony murder" – as "capital murder" would have automatically invoked the death penalty. During the next several months, when Jarius would be held in jail pending sentence, no mention of his best friend, Murray, or gunshot, was ever made. Then something very strange happened. 
@@ -46,7 +46,7 @@ As an aside, a jilted girlfriend would later testify in Murray’s 2005 case tha
 *************
 Jarius continues his false testimony against Murray in the 2005 case, quoting Bubba’s next comment after the gunshot, pushing the tough-guy facade.
 
-"See that, bro? I told you I’d do him if I had to," Murray had supposedly said, lowering the gun, and tucking it in his waistband.
+"See that, bro? I told you I’d <ins>do him</ins> if I had to," Murray had supposedly said, lowering the gun, and tucking it in his waistband.
 
 Then, apparently disregarding Brandon’s bloody body lying dead in the grass a few feet away, McNeil testified that he and Lawrence coolly disconnected the fancy speakers, via the Acura’s trunk, and placed them in the back seat. These speakers would be part of Murray’s share. Then, having made room, they loaded Brandon’s blood-soaked body, face-down, into the trunk. Jarius claims that Murray got back in his girlfriend’s car, which he had borrowed, and drove home. 
 
@@ -56,7 +56,7 @@ Earlier that evening, Bubba had picked-up a call from Jarius, agreed to help him
 
 If Brandon was Jarius’ "friend," why didn’t he pummel Bubba, and curse him out for suddenly pulling a gun out-of-nowhere, shooting and killing  "his friend, Brandon" whom they were "only going to rob?" Why is Murray portrayed as being all worked up in a fit of anger with Brandon before he shoots? And, if the gnarly speakers were part of Murray’s cut, why were they put in the backseat of the Acura? Why weren’t they put directly into Murray’s girlfriend’s car, so he could take them home and hide them? 
 
-Occam’s Razor, a.k.a. the principle of parsimony, states that the simplest explanation is more likely to be true than a complex one. 
+> **Occam’s Razor**, a.k.a. the principle of parsimony, states that the simplest explanation is more likely to be true than a complex one. 
 
 Nope. None of it rings true. The language Murray was reputed to have used sounds like some old gangster flick. (Besides Clint Eastwood, who talks like that?) So, what really happened? 1) Sadly, Brandon really was murdered. 2) It was Jarius who killed him. And 3) Jarius acted alone. The rest never happened. There was no accomplice. At the time of the murder, Bubba had been thirty miles away, at home, and in bed with his girlfriend. Five alibi witnesses would later testify as to Bubba’s activities and his whereabouts that night. 
 
