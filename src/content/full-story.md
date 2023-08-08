@@ -448,11 +448,11 @@ And, just like that, Murray would have NO say, whatsoever, in his own defense. U
 
 <ins>Sixth Consensus</ins>: Would jurors feel that the testimony of "alibi witnesses" (people who have relationships with the defendant) would provide more or less weight in the believability of their testimony?
 
-In each case, the prosecutor ran through the consensus-seeking checklist in a perfunctory manner to the whole group of jurors. He rarely sought individual answers, but instead, indulged in the presumption of compliance, going from one topic to the next, without pause. The only exception was the topic of <ins>firearm</ins> ownership, in which he painstakingly questioned, and got, individual answers from every single juror.
+In each case, the prosecutor ran through the consensus-seeking checklist in a perfunctory manner to the whole group of jurors. He rarely sought individual answers, but instead, indulged in the presumption of compliance, going from one topic to the next, without pause. The only exception was the topic of <ins>firearm</ins> ownership, in which he painstakingly questioned, and got, individual answers from <ins>every single juror</ins>.
 
 For the discriminating mind, this was a foreboding of things to come. Glossing over the consensus-seeking issues would surely create dire repercussions during closing arguments. One could just imagine Whetstone saying: 
 
-"Hey, well… you cain’t disagree now, when y’all agreed in the beginning. We went over all of this stuff in the Voir Dire. And y’all were just fine with it then."
+<center>"Hey, well… you cain’t disagree now, when y’all agreed in the beginning. We went over all of this stuff in the Voir Dire. And y’all were just fine with it then."</center>
 
 *************
 
