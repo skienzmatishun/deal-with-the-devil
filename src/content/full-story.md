@@ -503,28 +503,26 @@ Aside from the traffic stop incident, John Wayne Mixson could have given his own
 
 As the case neared its conclusion, Mr. Whetstone still had nothing – despite all claims that he would produce proof of Murray’s guilt. The following passage, taken directly from the transcript, sums it up nicely. Defense attorney, Mr. Willie Huntley, cross-examined Officer Anthony Fuqua of the Foley Police Department. 
 
-Q.	Did you have any fingerprints of Bubba Lawrence?
-A.	 Not to my knowledge, no.
-
-Q.	Did you get any stolen property from Bubba Lawrence?
-A.	 I didn’t personally, no.
-
-Q.	And you don’t know of anything coming from — any of that stolen property coming from Bubba Lawrence, do you? 
-A.	Not to my knowledge, no. 
-
-Q.  And you didn’t have anybody tell you that Bubba Lawrence was the last person seen with  
-      Brandon Hastings?
-A.	No.
-
-Q.  You didn’t have any fingerprints?
-A.	No.
-
-Q.  Didn’t have any kind of weapon?
-A.   No.
-
-Q.   And any (of) his cell phone records of Bubba Lawrence that connected him with Brandon 
-      Hastings, did you? 
-A.	No, sir. 
+>Q.	Did you have any fingerprints of Bubba Lawrence?
+>A.	 Not to my knowledge, no.
+>
+>Q.	Did you get any stolen property from Bubba Lawrence?
+>A.	 I didn’t personally, no.
+>
+>Q.	And you don’t know of anything coming from — any of that stolen property coming from Bubba Lawrence, do you? 
+>A.	Not to my knowledge, no. 
+>
+>Q.  And you didn’t have anybody tell you that Bubba Lawrence was the last person seen with Brandon Hastings?
+>A.	No.
+>
+>Q.  You didn’t have any fingerprints?
+>A.	No.
+>
+>Q.  Didn’t have any kind of weapon?
+>A.   No.
+>
+>Q.   And any (of) his cell phone records of Bubba Lawrence that connected him with Brandon Hastings, did you? 
+>A.	No, sir. 
 
 The truth was, there was nothing to connect Bubba Lawrence to Brandon Hastings, except that they were both friends with Jarius McNeil. Therefore, as a defense attorney, even Mr. Huntley hadn’t been overly concerned about the outcome of the trial; the lack of real evidence was far too glaring. And yet, Whetstone persisted. Again, he talked about the forensic evidence, all of which led to the conclusion of strangulation, then used circular logic to insist cause-of-death was gun-shot. The prosecutor insisted that it could not have been ligature strangulation because "there was no rope." Yet, throughout the entire trial, no focus goes to the jumper cables. The simplest and most-likely murder weapon had been entered into evidence, yet never tested for DNA. The jumper cables had been sitting there, all along, right under their noses.
 
@@ -586,6 +584,6 @@ write the ending, and here’s how:
 
 3)	Then you can write to the Office of the Attorney General, Steve Marshall, and Governor of Alabama, Kay Ivey. 
 
-4)	Contribute to Murray’s Spotfund page at https://spot.fund/7p2k2se which will directly benefit Murray and his legal expenses in his quest for freedom.  
+4)	Contribute to Murray’s **Spotfund** page at https://spot.fund/7p2k2se which will directly benefit Murray and his legal expenses in his quest for freedom.  
 
 **NOTE**: The public is advised that there will be more developments as this case continues to unfold. Even now, more evidence of innocence within additional documents is already beginning to surface. Ultimately, Murray’s story is destined to be a feature documentary, exposing an inept and corrupt judicial system.
