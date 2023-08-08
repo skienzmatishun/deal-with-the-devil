@@ -90,9 +90,9 @@ Dr. Paul McGarry’s "provisional" autopsy took place on April 12th at Singing R
 
 The body would have been transported to the designated funeral home in Baldwin County, either later that same day, or early on April 13th, as that would be the date of interment. And yet, no Alabama coroner’s report and accompanying death certificate seemed to have been issued. Why would such important protocol be overlooked? Either Baldwin County should have openly honored the Mississippi forensics, or their contrasting determination should have been declared, and legally substantiated.  
 
-In retrospect, there would be more than irony in the fact that Brandon had been conveyed directly from Jackson County Coroner to the Alabama funeral home -- instead of going to the Baldwin County Coroner. That is, until one realizes that Huey Mack (Sr.) of the Mack Funeral Home was the Baldwin County coroner. Now, also consider that (then) Lieutenant "Hoss" Mack (Jr.) was also the Chief Investigator in the Hastings death, and suddenly, the whole scenario seems suspiciously, and conveniently, all-in-the-family.
+In retrospect, there would be more than irony in the fact that Brandon had been conveyed directly from Jackson County Coroner to the Alabama funeral home -- instead of going to the Baldwin County Coroner. That is, until one realizes that Huey Mack (Sr.) of the Mack Funeral Home was the Baldwin County coroner. Now, also consider that (then) Lieutenant "Hoss" Mack (Jr.) <ins>was</ins> also the Chief Investigator in the Hastings death, and suddenly, the whole scenario seems suspiciously, and conveniently, all-in-the-family.
 
-But Baldwin County would not be able to find a way to artfully disagree with Mississippi results. No wonder there would be ongoing delays. Baldwin County would not be able to get ballistics because there was no gunshot. Baldwin County would not be able to obtain comparable autopsy results because strangulation just does not look like a bullet wound. Baldwin County would not be able to prove that "blood had splattered everywhere" because they could not find a single drop anywhere. And, if a Baldwin County coroner’s report indeed existed, it was never admitted into evidence, nor even mentioned in the trial. Suppression of documents, compromised evidence, misidentification of wounds, and ongoing controversy, strangulation vs gunshot -- all theories seemed to be on the table, and all caused more delay. Twenty-one months of delay. 
+But Baldwin County would not be able to find a way to artfully disagree with Mississippi results. No wonder there would be ongoing delays. Baldwin County would not be able to get ballistics because there was no gunshot. Baldwin County would not be able to obtain comparable autopsy results because strangulation just does not look like a bullet wound. Baldwin County would not be able to prove that "blood had splattered <ins>everywhere</ins>" because they could not find a single drop <ins>anywhere</ins>. And, if a Baldwin County coroner’s report indeed existed, it was never admitted into evidence, nor even mentioned in the trial. Suppression of documents, compromised evidence, misidentification of wounds, and ongoing controversy, strangulation vs gunshot -- all theories seemed to be on the table, and all caused more delay. Twenty-one months of delay. 
 
 They just could not get the lie to agree with the truth. 
 
@@ -152,10 +152,11 @@ Gradually, just before midnight, various individuals peel off from their respect
 
 <ins>1:45 AM</ins> – Bubba returns. The three of them smoke the marijuana blunt. Stacey leaves for the night around 2:00AM.
 
+<center>
 ## CONJECTURE: SPECULATIVE INTERPRETATION of JARIUS’ JOURNEY
 
 If this is not exactly what actually happened, it is the most likely scenario, 
-according to the sequence of events played out in the court transcript.
+according to the sequence of events played out in the court transcript.</center>
 
 <ins>NOTE</ins>: Since no one witnessed Jarius' journey on the night of Brandon's murder, a speculative timeline has been created from the "fly-on-the-wall" perspective. Only one possible interpretation, but a damned good one. Why? Because it hits all the notes. Nothing is left out, and everything fits. There are the facts of the transcript: Brandon's cell phone log, testimonies of alibi eye-witnesses, and the confused chronological references due to transition to Daylight Savings Time. But, even those, ultimately, still fit. 
 
