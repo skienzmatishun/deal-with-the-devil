@@ -156,7 +156,7 @@ Gradually, just before midnight, various individuals peel off from their respect
 
 <ins>1:45 AM</ins> – Bubba returns. The three of them smoke the marijuana blunt. Stacey leaves for the night around 2:00AM.
 
-## CONJECTURE: SPECULATIVE INTERPRETATION of JARIUS’ JOURNEY
+<center>CONJECTURE: SPECULATIVE INTERPRETATION of JARIUS’ JOURNEY
 
 If this is not exactly what actually happened, it is the most likely scenario, 
 according to the sequence of events played out in the court transcript.</center>
@@ -353,13 +353,13 @@ When a ligature tightens around a victim’s neck, blood cannot pass between the
 
 Dr. Paul McGarry testifies, recounting his examination of the body at the crime scene: 
 
-Minor abrasions: There are a few scrapes, "one on the outer surface of his left knee… a few small abrasions on his forearms, and an abrasion on the knee and left shin." They were all ante-mortem – that is to say, before death, or during the time of death. There were no signs of "defensive wounds" on Brandon’s arm, elbows, and hands – marks that might have indicated a frontal assault. 
-
-(Most people would still interpret these abrasions as "signs of a struggle," and that Brandon "never saw it coming." But no one declares this obvious point in verbal testimony.)  
- 
-Appearance of the organs: With a fatal injury at the upper neck, there is blood in the stomach. The lungs are collapsed. Blood is staining the bones of the neck and base of the skull. These hemorrhages in the base of the skull, inside the cranial cavity are features of dying, due to the inability to breathe.  
-
-Blood in the stomach: Blood in the areas of the neck gets swallowed. Blood does not run down the esophagus to the stomach by gravity, it requires propulsion. Organs, in general, are dark, indicative of a lack of oxygen in a period of time prior to his death. And the hemorrhages in the basal bones of the skull are characteristic of respiratory impairment, he repeats. 
+><ins>Minor abrasions</ins>: There are a few scrapes, "one on the outer surface of his left knee… a few small abrasions on his forearms, and an abrasion on the knee and left shin." They were all ante-mortem – that is to say, before death, or during the time of death. There were no signs of "defensive wounds" on Brandon’s arm, elbows, and hands – marks that might have indicated a frontal assault. 
+>
+>(Most people would still interpret these abrasions as "signs of a struggle," and that Brandon "never saw it coming." But no one declares this obvious point in verbal testimony.)  
+> 
+><ins>Appearance of the organs</ins>: With a fatal injury at the upper neck, there is blood in the stomach. The lungs are collapsed. Blood is staining the bones of the neck and base of the skull. These hemorrhages in the base of the skull, inside the cranial cavity are features of dying, due to the inability to breathe.  
+>
+><ins>Blood in the stomach</ins>: Blood in the areas of the neck gets swallowed. Blood does not run down the esophagus to the stomach by gravity, it requires propulsion. Organs, in general, are dark, indicative of a lack of oxygen in a period of time prior to his death. And the hemorrhages in the basal bones of the skull are characteristic of respiratory impairment, he repeats. 
 
 Of course, Mr. Whetstone did not like hearing this solid forensic determination, as it did not match his desired outcome. So, he began a relentless campaign, pressing McGarry on the witness stand. The coroner maintained disagreement. No. It could not be gunshot. 
 
