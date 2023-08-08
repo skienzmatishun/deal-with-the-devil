@@ -239,7 +239,7 @@ export const PostFullContent = styled.section`
     width: 1px;
     height: 30px;
     /* background: color(var(--lightgrey) l(+10%)); */
-    background: #1c0000;
+    background: #6c4040;
     box-shadow: #fff 0 0 0 5px;
     transform: rotate(45deg);
   }
@@ -469,11 +469,11 @@ export const PostFullContent = styled.section`
     hr {
       /* border-top-color: color(var(--darkmode) l(+8%)); */
       /* border-top-color: ${lighten('0.08', colors.darkmode)}; */
-      border-top-color: #1c0000;
+      border-top-color: #6c4040;
     }
 
     hr:after {
-      background: #1c0000;
+      background: #6c4040;
       box-shadow: ${colors.darkmode} 0 0 0 5px;
     }
 
