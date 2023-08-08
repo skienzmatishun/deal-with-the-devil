@@ -16,7 +16,7 @@ By Nancy R Koerner
 
 "Do you know what this is?" Murray "Bubba" Lawrence, Jr. gestures to the gun in his hand. He is at point-blank range, his finger on the trigger. Murray has been working himself into a frenzy. "Do you know what time it is?" His voice sounds like Dirty Harry. The young man’s white face is frozen in fear – his eyes, like a deer in the headlights. 
 
-**BANG!**
+**<center>BANG!</center>**
 
 The 9mm slug hits the young man, high in the middle of the throat. It’s a perfect shot. Blood splatters everywhere. Brandon Hastings drops like a stone. He is 21 years old. It is dark here on the side of the road, in rural Alabama, just west of Foley. It is almost exactly at 2 AM, on April 6th, 2003 – just as the time is officially changing one hour ahead to Daylight Saving Time. 
 
