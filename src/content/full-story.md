@@ -83,6 +83,7 @@ Dr. Paul McGarry’s "provisional" autopsy took place on April 12th at Singing R
 <center>(from State’s Exhibit 56)</center>
 
 1.	Asphyxia due to ligature strangulation.
+
 	a.	Collapsed congested atelectatic lungs
 	b.	Fracture hyoid bone
 	c.	Congested cyanotic viscera
