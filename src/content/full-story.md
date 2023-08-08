@@ -566,9 +566,9 @@ But, in this case, the verdict was already "pre-worded" by Judge Robert Wilters,
 
 ## Epilogue: 
 
-McNeil successfully avoided the death penalty by betraying his "best friend" – in fact, he got one step better than "Life, Without Parole." Instead, he was rewarded: "Life, With  Possibility of Parole." Jarius Andre McNeil – AIS 00241495 
+McNeil successfully avoided the death penalty by betraying his "best friend" – in fact, he got one step better than "Life, Without Parole." Instead, he was rewarded: "Life, <ins>With</ins> Possibility of Parole." Jarius Andre McNeil – AIS 00241495 
 
-Conversely, Murray was framed as co-conspirator and literal "trigger man." Lawrence was imprisoned with a harsher sentence: "Life Without Possibility of Parole." Murray G. Lawrence, Jr.  – AIS 00241380
+Conversely, Murray was framed as co-conspirator and literal "trigger man." Lawrence was imprisoned with a harsher sentence: "Life <ins>Without</ins> Possibility of Parole." Murray G. Lawrence, Jr.  – AIS 00241380
 
 *************
 
