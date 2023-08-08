@@ -360,10 +360,11 @@ Dr. Paul McGarry testifies, recounting his examination of the body at the crime 
 ><ins>Appearance of the organs</ins>: With a fatal injury at the upper neck, there is blood in the stomach. The lungs are collapsed. Blood is staining the bones of the neck and base of the skull. These hemorrhages in the base of the skull, inside the cranial cavity are features of dying, due to the inability to breathe.  
 >
 ><ins>Blood in the stomach</ins>: Blood in the areas of the neck gets swallowed. Blood does not run down the esophagus to the stomach by gravity, it requires propulsion. Organs, in general, are dark, indicative of a lack of oxygen in a period of time prior to his death. And the hemorrhages in the basal bones of the skull are characteristic of respiratory impairment, he repeats. 
+><ins>Blood in the stomach</ins>: Blood in the areas of the neck gets swallowed. Blood does not run down the esophagus to the stomach by gravity, it requires propulsion. Organs, in general, are dark, indicative of a lack of oxygen in a period of time prior to his death. And the hemorrhages in the basal bones of the skull are characteristic of respiratory impairment, he repeats. 
 
 Of course, Mr. Whetstone did not like hearing this solid forensic determination, as it did not match his desired outcome. So, he began a relentless campaign, pressing McGarry on the witness stand. The coroner maintained disagreement. No. It could not be gunshot. 
 
-Whetstone changed tactics, suggesting that the jury forget Brandon’s case for the moment. He suggests a "hypothetical." What if McGarry were to perform some other random autopsy in which the hyoid bone had legitimately been shot out by a bullet? Would not the coroner expect to find the same type of visual? 
+Whetstone changed tactics, suggesting that the jury forget Brandon’s case for the moment. He suggests a "hypothetical." What if McGarry were to perform some other random autopsy in which the hyoid bone <ins>had</ins> legitimately been shot out by a bullet? Would not the coroner expect to find the same type of visual? 
 
 There was tension in the room. It was obvious in the transcript that McGarry was being railroaded into an inaccurate interpretation, and the doctor continued to resist. A gunshot wound would have meant ignoring the corroborating presence of the collapsed lungs, dark blood in the organs, and the stains of cranial hemorrhaging. Besides, there was a linear quality to the wounds, a pattern directly corresponding to death-by-ligature. All his years of experience are in revolt. There is no damage to the skull, no evidence of bullet hole, no skull fracture. It is darkly fascinating that the court took time to acknowledge this doctor as an "expert" in State of Alabama, and then utterly dismissed his professional observations.
 
@@ -409,9 +410,9 @@ Within the testimony of Lieutenant "Hoss" Mack, the following scene plays out:
 >MR. WHETSTONE: And I thought it was. Apparently, they didn’t make any argument. The only person who knows it ain’t, is Jarius, and he’s accurate. (Author’s note: HUH?)
 >
 >MR. HUNTLEY: I went on two occasions to look at the evidence, and both times, this was there, and it was represented to me that this was the panel. 
->
->The judge ordered them to bring up the trunk liner when it arrived, and the court went into recess. When they reconvened, Huntley said that the lack of blood should be seen as exculpatory evidence, and that because of the "improper handling of this piece of evidence," that "the whole trial may be tainted." Huntley requests: "the Court should dismiss the case on that basis."    
->
+
+The judge ordered them to bring up the trunk liner when it arrived, and the court went into recess. When they reconvened, Huntley said that the lack of blood should be seen as exculpatory evidence, and that because of the "improper handling of this piece of evidence," that "the whole trial may be tainted." Huntley requests: "the Court should dismiss the case on that basis."    
+
 >MR.WHETSTONE: Your Honor, I don’t think there’s any grounds for dismissal of the case. 
 
 The verbal game of ping-pong continued for seven additional pages in the transcript. The "first trunk liner" vs. the "second trunk liner" was discussed ad nauseum – and various excuses emerged about where evidence was kept, and where it had to be moved so as not to disrupt an unrelated "meeting in the conference room." 
