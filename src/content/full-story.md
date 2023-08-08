@@ -85,8 +85,11 @@ Dr. Paul McGarry’s "provisional" autopsy took place on April 12th at Singing R
 1.	Asphyxia due to ligature strangulation.
 
 	a.	Collapsed congested atelectatic lungs
+
 	b.	Fracture hyoid bone
+
 	c.	Congested cyanotic viscera
+
 	d.	Fresh contusions and abrasions of the upper left knee and wrist, right upper forearm
 
 The body would have been transported to the designated funeral home in Baldwin County, either later that same day, or early on April 13th, as that would be the date of interment. And yet, no Alabama coroner’s report and accompanying death certificate seemed to have been issued. Why would such important protocol be overlooked? Either Baldwin County should have openly honored the Mississippi forensics, or their contrasting determination should have been declared, and legally substantiated.  
