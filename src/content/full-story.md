@@ -339,9 +339,9 @@ Introduced in the court as an acknowledged expert in his field, Dr. McGarry had 
 
 Whetstone seems to verbally fidget, and cuts to the chase. He does not want to hear about strangulation, and cannot wait to start bending the arc of reason towards gunshot. 
 
-Q. "At the time that you did this autopsy, did you have any police investigation report, or any criminal investigation report that this young man you examined had been shot through the neck at another location other than what [sic] he was found?" 
-
-A. "No sir. I had nothing of that."
+>Q. "At the time that you did this autopsy, did you have any police investigation report, or any criminal investigation report that this young man you examined had been shot through the neck at another location other than what [sic] he was found?" 
+>
+>A. "No sir. I had nothing of that."
 
 The subject would be dropped, but brought back again, and again, and again. Willie Huntley, the defense attorney, would object to the gunshot theory every time. And Judge Wilters would overrule every time. 
 

@@ -98,7 +98,7 @@ export const PostFullContent = styled.section`
     color: #b20000;
     word-break: break-word;
     /* box-shadow: var(--darkgrey) 0 -1px 0 inset; */
-    font-size:1.5rem;
+    font-size:1.75rem;
     transition: all 0.2s ease-in-out;
     box-shadow:none;
   }
@@ -239,7 +239,7 @@ export const PostFullContent = styled.section`
     width: 1px;
     height: 30px;
     /* background: color(var(--lightgrey) l(+10%)); */
-    background: ${lighten('0.1', colors.lightgrey)};
+    background: red;
     box-shadow: #fff 0 0 0 5px;
     transform: rotate(45deg);
   }
