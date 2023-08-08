@@ -156,7 +156,6 @@ Gradually, just before midnight, various individuals peel off from their respect
 
 <ins>1:45 AM</ins> – Bubba returns. The three of them smoke the marijuana blunt. Stacey leaves for the night around 2:00AM.
 
-<center>
 ## CONJECTURE: SPECULATIVE INTERPRETATION of JARIUS’ JOURNEY
 
 If this is not exactly what actually happened, it is the most likely scenario, 
