@@ -64,7 +64,7 @@ Need more twists to the story? 1) Firstly, not only did Murray not kill Brandon,
 
 *************
 
-If you are already thoroughly confused, then you have been paying attention. Time to shift into full  "suspension-of-belief." Stay frosty, and buckle your seat belt.
+If you are already thoroughly confused, then you <ins>have</ins> been paying attention. Time to shift into full  "suspension-of-belief." Stay frosty, and buckle your seat belt.
 
 *************
 
