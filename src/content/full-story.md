@@ -2,7 +2,7 @@
 layout: post
 title: 'Full Story'
 author: [Ripp]
-tags: [Baldwin County]
+tags: []
 date: 2020-1-1T10:00:00.000Z
 draft: false
 
