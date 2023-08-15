@@ -307,6 +307,9 @@ padding:.5rem;
   cursor: pointer;
   margin:2px;
 }
+.no-image {
+  display:none;
+}
 
 .petition-button.red {
   background: #830000;
