@@ -163,7 +163,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
           <div css={inner}>
             {/* TODO: no-image css tag? */}
             <article css={[PostFull, !post.frontmatter.image && NoImage]}>
-              <PostFullHeader className="post-full-header">
+              <PostFullHeader className="post-full-header-"post.frontmatter.title>
                 <PostFullTags className="post-full-tags">
                   {post.frontmatter.tags && post.frontmatter.tags.length > 0 && config.showAllTags && (
                     post.frontmatter.tags.map((tag, idx) => (
