@@ -92,9 +92,9 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
 			  <ul style={{marginTop:"-26px", marginLeft:"-15px"}} css={NavStyles} role="menu">
                 
                 <li role="menuitem">
-                  <Link to="https://rippreport.com" activeClassName="nav-current">
+                  
                     Advocates:
-                  </Link>
+                  
                 </li>
                 <li role="menuitem">
                   
