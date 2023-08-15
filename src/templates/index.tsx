@@ -384,6 +384,7 @@ width:275px;
 }
 .no-image {
   display:none !important;
+  color:red;
 }
 .petition-button {
   padding: 1.2rem;
