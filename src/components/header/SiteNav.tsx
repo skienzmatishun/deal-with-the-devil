@@ -88,7 +88,8 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
           <SiteNavLeft className="site-nav-left">
             {!isHome && <SiteNavLogo />}
             <SiteNavContent css={[this.state.showTitle ? HideNav : '']}>
-              <ul css={NavStyles} role="menu">
+              <p>Sponsor: <a href="https://rippreport.com">The Ripp Report</a></p>
+			  <ul css={NavStyles} role="menu">
                 <li style={{display:"block", padding: "12px 12px", color: "#fff", opacity: "0.8"}}>
                     Affiliated Pages:
                 </li>
@@ -122,7 +123,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
           
         </nav>
         {isHome &&(
-        <p>Sponsor: <a href="https://rippreport.com">The Ripp Report</a></p>
+        <p></p>
         )}
       </>
     );
