@@ -91,22 +91,22 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
               <p>Sponsor: <a href="https://rippreport.com">The Ripp Report</a></p>
 			  <ul style={{marginTop:"-26px"}} css={NavStyles} role="menu">
                 
-                <li role="menuitem">
+                <li style={{marginLeft:"0px";}} role="menuitem">
                   
                     Advocates:
                   
                 </li>
-                <li role="menuitem">
+                <li style={{marginLeft:"10px"}} role="menuitem">
                   
                     Nancy Koerner
                   
                 </li>
-                <li role="menuitem">
+                <li style={{marginLeft:"10px"}} role="menuitem">
                   
                     Paul Ripp
                  
                 </li>
-                <li role="menuitem">
+                <li style={{marginLeft:"10px"}} role="menuitem">
                     Harry Still
                 </li>
 
