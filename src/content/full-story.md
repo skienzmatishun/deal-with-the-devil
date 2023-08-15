@@ -8,7 +8,7 @@ draft: false
 
 ---
 
-By Nancy R Koerner
+By Nancy R Koerner 
 
 <small>©️2023 – NK Marketing, LLC - All Rights Reserved</small>
 
