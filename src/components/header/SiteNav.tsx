@@ -89,26 +89,16 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
             {!isHome && <SiteNavLogo />}
             <SiteNavContent css={[this.state.showTitle ? HideNav : '']}>
               <ul css={NavStyles} role="menu">
-                <li style={{display:"block", padding: "12px 12px", color: "#fff", opacity: "0.8"}}>
-                    Affiliated Pages:
-                </li>
-                <li role="menuitem">
-                  <Link to="https://rippreport.com" activeClassName="nav-current">
+               
+                <li style={{marginLeft:"15px"}} role="menuitem">
                     Advocates:
-                  </Link>
                 </li>
-                <li role="menuitem">
-                  
-                    Nancy Koerner
-                  
-                </li>
-                <li role="menuitem">
-                  
+                <li style={{marginLeft:"15px"}} role="menuitem">                 
                     Paul Ripp
-                 
                 </li>
-                <li role="menuitem">
-                    Harry Still
+                <li style={{marginLeft:"15px"}} role="menuitem">                    Nancy Koerner
+                </li>
+                <li style={{marginLeft:"15px"}} role="menuitem">                    Harry Still
                 </li>
 
               </ul>
@@ -121,9 +111,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
           </SiteNavLeft>
           
         </nav>
-        {isHome &&(
-        <p>Sponsor: <a href="https://rippreport.com">The Ripp Report</a></p>
-        )}
+      
       </>
     );
   }
