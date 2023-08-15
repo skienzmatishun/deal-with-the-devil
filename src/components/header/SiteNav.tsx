@@ -91,7 +91,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
               <p>Sponsor: <a href="https://rippreport.com">The Ripp Report</a></p>
 			  <ul style={{marginTop:"-26px"}} css={NavStyles} role="menu">
                 
-                <li style={{marginLeft:"0px"}} role="menuitem">
+                <li style={{marginLeft:"11px"}} role="menuitem">
                   
                     Advocates:
                   
