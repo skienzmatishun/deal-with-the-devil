@@ -163,7 +163,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
           <div css={inner}>
             {/* TODO: no-image css tag? */}
             <article css={[PostFull, !post.frontmatter.image && NoImage]}>
-              <PostFullHeader className="post-full-header-"post.frontmatter.title>
+              <PostFullHeader className="post-full-header">
                 <PostFullTags className="post-full-tags">
                   {post.frontmatter.tags && post.frontmatter.tags.length > 0 && config.showAllTags && (
                     post.frontmatter.tags.map((tag, idx) => (
@@ -246,6 +246,7 @@ export const PostFullHeader = styled.header`
   padding: 70px 170px 50px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
+  display:none;
 
   @media (max-width: 1170px) {
     padding: 60px 11vw 50px;
