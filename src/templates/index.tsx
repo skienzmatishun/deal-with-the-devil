@@ -309,6 +309,7 @@ padding:.5rem;
 }
 .no-image {
   display:none;
+  color:red;
 }
 
 .petition-button.red {
