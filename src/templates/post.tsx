@@ -220,7 +220,8 @@ const PostTemplate = css`
     margin-top: 64px;
     padding-bottom: 4vw;
   }
-
+  .sponsor {
+    display:none;
 `;
 
 export const PostFull = css`
