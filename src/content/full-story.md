@@ -573,7 +573,7 @@ Conversely, Murray was framed as co-conspirator and literal "trigger man." Lawre
 So, how does this story end, now that Murray Lawrence, Jr. has been imprisoned for 18 years for a crime he didn’t commit? That depends on you, the good people of Alabama – you, the citizens of the United States of America, and you, the humanitarians of the world – all coming together in solidarity against injustice. You will
 write the ending, and here’s how: 
 
-1)	First of all, go to the website https://deal-with-the-devil.com and sign the petition. Future updates will be posted on the site, as well as on FaceBook’s, The Ripp Report, which has been a leading advocacy group for Murray Lawrence for the past three years. The public is invited to contact these entities, in order to participate in the advocacy effort. 
+1)	First of all, go to the website https://deal-with-the-devil.com and sign the petition. Future updates will be posted on the site and on <a href=https://rippreport.com>The Ripp Report</a>, which has been a leading advocacy group for Murray Lawrence for the past three years. The public is invited to contact these entities, in order to participate in the advocacy effort. 
 
 2)	Secondly, you can write Murray to give him emotional support. 
 
