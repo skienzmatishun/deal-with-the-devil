@@ -88,7 +88,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
           <SiteNavLeft className="site-nav-left">
             {!isHome && <SiteNavLogo />}
             <SiteNavContent css={[this.state.showTitle ? HideNav : '']}>
-              <p>Sponsor: <a href="https://rippreport.com">The Ripp Report</a></p>
+              <p className="sponsor">Sponsor: <a href="https://rippreport.com">The Ripp Report</a></p>
 			  <ul style={{marginTop:"-26px"}} css={NavStyles} role="menu">
                 
                 <li style={{marginLeft:"11px"}} role="menuitem">
