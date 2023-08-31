@@ -99,8 +99,7 @@ const IndexPage: React.FC<IndexProps> = props => {
             <div className="button-row">
               <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
               <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
-              <a href="https://chng.it/pv4xJVYLPR"> <span className="petition-button blue" >Sign Petition</span></a>
-            </div>
+              </div>
           </div>
           <div className="topContainer" style={{ display: "flex", flexFlow: "row wrap" }}>
             <div className="address">
