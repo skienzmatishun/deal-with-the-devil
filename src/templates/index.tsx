@@ -123,7 +123,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
             </div>
           </div>
-          <div style={{ padding: "1em;", textAlign: "center", height: "35px", marginTop: "-108px" }}>
+          <div className="button-row-container">
             <div className="button-row">
               <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
               <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
@@ -237,6 +237,12 @@ const HomePosts = css`
       min-height: 280px;
       border-top: 0;
     }
+	.button-row-container {
+	  padding: "1em;";
+	  text-align: "center"; 
+	  height: "35px"; 
+	  margin-top: "-108px";
+	}
     .post-card-large .post-card-title {
       margin-top: 0;
       font-size: 3.2rem;
@@ -363,6 +369,9 @@ width:275px;
 }
 
 @media (max-width: 795px) {
+  .button-row-container {
+	margin-top: "-48px";
+	}
   .introduction{flex-basis:99%;
    padding:.5em;
    margin:.5em;
@@ -372,7 +381,6 @@ width:275px;
   }
   .topics {
     width:100%;
-    margin-top:0px;
   }
 
 .button-row {
@@ -380,6 +388,7 @@ width:275px;
   flex-flow:column nowrap;
   justify-content: center;
   align-items: center;
+  margin-top:100px;
 }
 .no-image {
   display:none !important;
