@@ -123,7 +123,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
             </div>
           </div>
-          <div style={{ padding: "1em;", textAlign: "center", height: "35px", marginTop: "400px" }}>
+          <div style={{ padding: "1em;", textAlign: "center", height: "35px", marginTop: "-108px" }}>
             <div className="button-row">
               <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
               <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
