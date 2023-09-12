@@ -331,7 +331,7 @@ padding:.5rem;
   padding:1rem;
     background:#00000025;
     text-align:center;
-    margin-top:-163px;
+    margin-top:400px;
 } 
 .topics ul a {
   margin-left:.5em;
