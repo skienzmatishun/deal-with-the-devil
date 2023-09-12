@@ -379,7 +379,7 @@ width:275px;
    margin-top:-128px;
   }
   .address{flex-basis:100%;
-    margin-top:1em;
+    margin-top:-40px;
   }
   .topics {
     width:100%;
