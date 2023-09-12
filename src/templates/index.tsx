@@ -131,6 +131,7 @@ const IndexPage: React.FC<IndexProps> = props => {
 			  </div>
           </div>
 		  
+          </div>
           <div className="topics">
             <h2>Topics</h2>
             <ul style={{ justifyContent: "center", listStyle: "none", display: "flex", flexFlow: "row wrap" }}>
@@ -147,7 +148,7 @@ const IndexPage: React.FC<IndexProps> = props => {
                 <li  >Articles</li>
               </Link>
             </ul>
-          </div>
+
         </div>
 
         <main id="site-main" css={[SiteMain, outer]}>
