@@ -238,10 +238,10 @@ const HomePosts = css`
       border-top: 0;
     }
 	.button-row-container {
-	  padding: "1em;";
-	  text-align: "center"; 
-	  height: "35px"; 
-	  margin-top: "-108px";
+	  padding: 1em;
+	  text-align: center; 
+	  height: 35px; 
+	  margin-top: -108px;
 	}
     .post-card-large .post-card-title {
       margin-top: 0;
@@ -373,8 +373,8 @@ width:275px;
 	margin-top: "-48px";
 	}
   .introduction{flex-basis:99%;
-   padding:.5em;
-   margin:.5em;
+   padding:.25em;
+   margin:.25em;
   }
   .address{flex-basis:100%;
     margin-top:1em;
