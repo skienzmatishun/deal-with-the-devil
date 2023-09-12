@@ -95,6 +95,13 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
         </div>
         <div css={inner}>
+          <div style={{ padding: "1em;", textAlign: "center", height: "35px" }}>
+            <div className="button-row">
+              <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
+              <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
+              <a href="https://spot.fund/7p2k2se"> <span className="petition-button blue" >Donate</span></a>
+			  </div>
+          </div>
           <div className="topContainer" style={{ display: "flex", flexFlow: "row wrap" }}>
             <div className="address">
               <div>
@@ -123,14 +130,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               <h2 style={{ marginTop: "20px" }} >Mission Statement </h2>
               <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
             </div>
-          <div style={{ padding: "1em;", textAlign: "center", height: "35px" }}>
-            <div className="button-row">
-              <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
-              <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
-              <a href="https://spot.fund/7p2k2se"> <span className="petition-button blue" >Donate</span></a>
-			  </div>
-          </div>
-<br><br><br><br><br><br>
+
           </div>
           <div className="topics">
             <h2>Topics</h2>
