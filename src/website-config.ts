@@ -60,7 +60,7 @@ const config: WebsiteConfig = {
   logo: 'img/ghost-logo.png',
   lang: 'en',
   siteUrl: 'https://deal-with-the-devil',
-  facebook: 'https://www.facebook.com/dealdealwiththedevilblog',
+  facebook: 'https://www.facebook.com/dealwiththedevilblog',
   twitter: 'https://twitter.com/rippreport',
   showSubscribe: true,
   footer: '',
