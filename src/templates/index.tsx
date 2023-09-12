@@ -372,9 +372,11 @@ width:275px;
   .button-row-container {
 	margin-top: -48px;
 	}
-  .introduction{flex-basis:99%;
+  .introduction{
+   flex-basis:99%;
    padding:.25em;
    margin:.25em;
+   margin-top:-128px;
   }
   .address{flex-basis:100%;
     margin-top:1em;
