@@ -370,7 +370,7 @@ width:275px;
 
 @media (max-width: 795px) {
   .button-row-container {
-	margin-top: "-48px";
+	margin-top: -48px;
 	}
   .introduction{flex-basis:99%;
    padding:.25em;
