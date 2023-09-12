@@ -103,7 +103,6 @@ const IndexPage: React.FC<IndexProps> = props => {
               </div>
               <div >
                 <ul style={{ listStyle: "none", fontSize: "1.75rem", textAlign: "center", margin: "2rem" }}>
-
                   <li style={{ margin: "0", padding: "0" }}>AIS# 00241380</li>
                   <li style={{ margin: "0", padding: "0" }}>William C Holman</li>
                   <li style={{ margin: "0", padding: "0" }}>Correction Facility</li>
@@ -123,14 +122,15 @@ const IndexPage: React.FC<IndexProps> = props => {
               <h2 style={{ marginTop: "20px" }} >Mission Statement </h2>
               <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
             </div>
-          <div style={{ padding: "1em;", textAlign: "center", height: "35px" }}>
+          </div>
+          <div style={{ padding: "1em;", textAlign: "center", height: "35px", marginTop: "-108px" }}>
             <div className="button-row">
               <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
               <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
               <a href="https://spot.fund/7p2k2se"> <span className="petition-button blue" >Donate</span></a>
 			  </div>
           </div>
-<br><br><br><br><br><br>
+		  
           </div>
           <div className="topics">
             <h2>Topics</h2>
@@ -148,7 +148,7 @@ const IndexPage: React.FC<IndexProps> = props => {
                 <li  >Articles</li>
               </Link>
             </ul>
-          </div>
+
         </div>
 
         <main id="site-main" css={[SiteMain, outer]}>
@@ -331,7 +331,7 @@ padding:.5rem;
   padding:1rem;
     background:#00000025;
     text-align:center;
-    margin-top:-163px;
+    margin-top:500px;
 } 
 .topics ul a {
   margin-left:.5em;
