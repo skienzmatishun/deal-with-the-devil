@@ -129,10 +129,8 @@ const IndexPage: React.FC<IndexProps> = props => {
               <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
               <h2 style={{ marginTop: "20px" }} >Mission Statement </h2>
               <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
+			  <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Read the Full Story</span></a>
             </div>
-          </div>
-          <div className="topics">
-<a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Read the Full Story</span></a>
           </div>
         </div>
 
