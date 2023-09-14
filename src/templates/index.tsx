@@ -355,12 +355,12 @@ width:275px;
 
 @media (max-width: 795px) {
 .profile-picture {
-height:155px;
+height:200px;
 }
   .introduction{flex-basis:99%;
    padding:.5em;
    margin:.5em;
-   margin-top:-100px
+   margin-top:-345px
   }
   .address{flex-basis:100%;
     margin-top:-15px;
