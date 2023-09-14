@@ -304,6 +304,7 @@ padding:.5rem;
   font-size: 1.8rem;
   cursor: pointer;
   margin:2px;
+  z-index:11;
 }
 .no-image {
   display:none;
