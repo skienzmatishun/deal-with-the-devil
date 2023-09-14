@@ -9,6 +9,8 @@ tags:
 excerpt: According to the complaint, deputies were attempting to serve an eviction notice on Robert Yates when he allegedly fired a “warning shot” from within his mobile home
 ---
 
+# Related Articles
+
 ## ROBERT YATES:
 
 Baldwin County was dismissed as one of the defendants in a lawsuit arising from a fatal 2018 eviction in Fairhope. The case continues against Sheriff Huey "Hoss" Mack, several deputies, and the landlords, as it was filed two years after deputies were sent to carry out the eviction order and ended with the death of 65-year-old Robert Yates, who fired a warning shot during the incident.

@@ -9,6 +9,7 @@ tags:
 excerpt: Alabama Death Row inmate William Ernest Kuenzel's attorneys have filed an appeal to the U.S. Supreme Court, seeking permission to present new evidence proving his innocence in the 1987 shooting death of a convenience store clerk. Despite gaining support from various figures, Kuenzel's appeals were unsuccessful, and he passed away from cancer after spending over three decades on death row.
 ---
 
+# Related Articles
 
 Attorneys for Alabama Death Row inmate William Ernest Kuenzel have filed an appeal to the U.S. Supreme Court, seeking a ruling that would allow him to present new evidence to prove his innocence. Kuenzel was convicted in 1987 of the shooting death of a convenience store clerk, but his case has gained support from various figures, including actors and former district attorneys. The appeal argues that critical exculpatory evidence was withheld during Kuenzel's trial, which could undermine his conviction, and questions whether Alabama's procedural rules are fair in such cases.
 

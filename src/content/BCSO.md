@@ -10,6 +10,7 @@ excerpt: The Baldwin County Sheriff's Office has been mired in controversy over 
 
 ---
 
+# Related Articles
 
 [Baldwin County Would Give Dallas a Run for Its Money - Lagniappe](https://lagniappemobile.com/baldwin-would-give-dallas-a-run-for-its-money/)
 
