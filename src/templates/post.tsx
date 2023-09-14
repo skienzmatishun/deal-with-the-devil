@@ -192,7 +192,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
                 <PostFullImage>
                   <GatsbyImage
                     image={getImage(post.frontmatter.image)!}
-                    style={{ height: '82%' }}
+                    style={{ height: '78%' }}
                     alt={post.frontmatter.title} />
                 </PostFullImage>
               )}
