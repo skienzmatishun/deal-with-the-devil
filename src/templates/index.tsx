@@ -95,14 +95,22 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
         </div>
         <div css={inner}>
+          <div style={{ padding: "1em;", textAlign: "center", height: "35px" }}>
+            <div className="button-row">
+              <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
+              <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
+              </div>
+          </div>
           <div className="topContainer" style={{ display: "flex", flexFlow: "row wrap" }}>
             <div className="address">
               <div>
+
                 <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem", marginTop: "5rem" }}>Murray Bubba Lawrence Jr.</h2>
                 <img style={{ borderTopRightRadius: "4px", borderTopLeftRadius: "4px" }} src={Lawrence} alt="Murray Bubba Lawrence Jr." />
               </div>
               <div >
                 <ul style={{ listStyle: "none", fontSize: "1.75rem", textAlign: "center", margin: "2rem" }}>
+
                   <li style={{ margin: "0", padding: "0" }}>AIS# 00241380</li>
                   <li style={{ margin: "0", padding: "0" }}>William C Holman</li>
                   <li style={{ margin: "0", padding: "0" }}>Correction Facility</li>
@@ -122,15 +130,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               <h2 style={{ marginTop: "20px" }} >Mission Statement </h2>
               <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
             </div>
-          </div>
-          <div className="button-row-container">
-            <div className="button-row">
-              <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
-              <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
-              <a href="https://spot.fund/7p2k2se"> <span className="petition-button blue" >Donate</span></a>
-			  </div>
-          </div>
-		  
+
           </div>
           <div className="topics">
             <h2>Topics</h2>
@@ -148,7 +148,7 @@ const IndexPage: React.FC<IndexProps> = props => {
                 <li  >Articles</li>
               </Link>
             </ul>
-
+          </div>
         </div>
 
         <main id="site-main" css={[SiteMain, outer]}>
@@ -237,12 +237,6 @@ const HomePosts = css`
       min-height: 280px;
       border-top: 0;
     }
-	.button-row-container {
-	  padding: "1em;";
-	  text-align: "center"; 
-	  height: "35px"; 
-	  margin-top: "-108px";
-	}
     .post-card-large .post-card-title {
       margin-top: 0;
       font-size: 3.2rem;
@@ -337,7 +331,7 @@ padding:.5rem;
   padding:1rem;
     background:#00000025;
     text-align:center;
-    margin-top:500px;
+    margin-top:-163px;
 } 
 .topics ul a {
   margin-left:.5em;
@@ -369,18 +363,16 @@ width:275px;
 }
 
 @media (max-width: 795px) {
-  .button-row-container {
-	margin-top: "-48px";
-	}
   .introduction{flex-basis:99%;
-   padding:.25em;
-   margin:.25em;
+   padding:.5em;
+   margin:.5em;
   }
   .address{flex-basis:100%;
     margin-top:1em;
   }
   .topics {
     width:100%;
+    margin-top:0px;
   }
 
 .button-row {
@@ -388,7 +380,6 @@ width:275px;
   flex-flow:column nowrap;
   justify-content: center;
   align-items: center;
-  margin-top:100px;
 }
 .no-image {
   display:none !important;
