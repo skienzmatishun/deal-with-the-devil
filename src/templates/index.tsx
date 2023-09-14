@@ -136,7 +136,7 @@ const IndexPage: React.FC<IndexProps> = props => {
         </div>
 
         <main id="site-main" css={[SiteMain, outer]}>
-		<h2>Related Articles</h2>
+		<h2 style={{textAlign:center}}>Related Articles</h2>
           <div css={[inner, Posts]}>
             <div css={[PostFeed]}>
               {props.data.allMarkdownRemark.edges.map((post, index) =>
