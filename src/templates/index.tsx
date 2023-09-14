@@ -319,6 +319,7 @@ padding:.5rem;
   border-width:1px;
   border-style:solid;
   border-color:#26a6ed;
+  font-weight:600;
 }
 
 .petition-button.blue {
