@@ -88,6 +88,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
           <SiteNavLeft className="site-nav-left">
             {!isHome && <SiteNavLogo />}
             <SiteNavContent css={[this.state.showTitle ? HideNav : '']}>
+			<a className="contact-link" href="mailto:info@rippreport.com">Contact</a>
               <p className="sponsor">Sponsor: <a href="https://rippreport.com">RIPPREPORT.COM</a></p>
 			  <ul style={{marginTop:"-26px"}} css={NavStyles} role="menu">
                 <li style={{marginLeft:"11px"}} role="menuitem">
@@ -188,7 +189,13 @@ const NavStyles = css`
     margin: 0;
     padding: 0;
   }
-
+.contact-link { 
+position:absolute;
+top:10px;
+right:5px;
+font-size:1.2em;
+color:white;
+}
   li a {
     position: relative;
     display: block;
