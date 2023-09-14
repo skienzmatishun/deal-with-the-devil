@@ -361,7 +361,7 @@ height:200px;
   .introduction{flex-basis:99%;
    padding:.5em;
    margin:.5em;
-   margin-top:-345px
+   margin-top:-335px
   }
   .address{flex-basis:100%;
     margin-top:-15px;
