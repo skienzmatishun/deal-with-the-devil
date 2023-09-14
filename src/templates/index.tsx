@@ -92,15 +92,16 @@ const IndexPage: React.FC<IndexProps> = props => {
               </SiteTitle>
               <SiteDescription>{config.description}</SiteDescription>
             </SiteHeaderContent>
-          </div>
-        </div>
-        <div css={inner}>
-          <div style={{ padding: "1em;", textAlign: "center", height: "35px" }}>
+			<div style={{ textAlign: "center", height: "35px", zIndex:"15", position:"relative" }}>
             <div className="button-row">
               <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
               <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
               </div>
           </div>
+          </div>
+        </div>
+        <div css={inner}>
+          
           <div className="topContainer" style={{ display: "flex", flexFlow: "row wrap" }}>
             <div className="address">
               <div>
@@ -120,7 +121,6 @@ const IndexPage: React.FC<IndexProps> = props => {
               </div>
             </div>
             <div className="introduction">
-
               <p style={{ fontSize: "4rem", marginBottom: "2rem", marginTop: "5rem" }}>Ask yourself—</p>
               <p> How can someone be convicted of murder, based entirely on testimony of a single person who is bargaining on a reduced sentence?</p>
               <p>No blood, no DNA, no witnesses?</p>
@@ -130,7 +130,6 @@ const IndexPage: React.FC<IndexProps> = props => {
               <h2 style={{ marginTop: "20px" }} >Mission Statement </h2>
               <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
             </div>
-
           </div>
           <div className="topics">
             <h2>Topics</h2>
@@ -290,7 +289,6 @@ padding:.5rem;
   display: flex;
   justify-content: center;
   align-items: center;
-  
 }
 
 .petition-button {
@@ -317,7 +315,10 @@ padding:.5rem;
 
 .petition-button.white {
   background: white;
-  color: black;
+  color: #258ec8;
+  border-width:1px;
+  border-style:solid;
+  border-color:#26a6ed;
 }
 
 .petition-button.blue {
