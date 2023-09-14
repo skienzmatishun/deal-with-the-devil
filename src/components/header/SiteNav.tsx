@@ -116,9 +116,6 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
           </SiteNavLeft>
           
         </nav>
-        {isHome &&(
-        <p></p>
-        )}
       </>
     );
   }
