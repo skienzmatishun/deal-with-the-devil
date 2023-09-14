@@ -26,13 +26,11 @@ export const Footer: React.FC = () => (
           </a>
         )}
         {config.twitter && (
-          <a href={config.twitter} target="_blank" rel="noopener noreferrer">
-            Twitter
+          <a href="https://rippreport.com" target="_blank" rel="noopener noreferrer">
+            Rippreport.com
           </a>
         )}
 
-
-        Sponsor:<a href="https://rippreport.com">Rippreport.com</a>
       </SiteFooterNav>
     </div>
   </footer>
