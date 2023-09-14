@@ -132,21 +132,7 @@ const IndexPage: React.FC<IndexProps> = props => {
             </div>
           </div>
           <div className="topics">
-            <h2>Topics</h2>
-            <ul style={{ justifyContent: "center", listStyle: "none", display: "flex", flexFlow: "row wrap" }}>
-              <Link to={`/introduction/`}>
-                <li >Introduction</li>
-              </Link>
-              <Link to={`/tags/baldwin-county/`}>
-                <li >Baldwin County</li>
-              </Link>
-              <Link to={`/tags/testimonials/`}>
-                <li  >Testimonials</li>
-              </Link>
-              <Link to={`/tags/articles/`}>
-                <li  >Articles</li>
-              </Link>
-            </ul>
+<a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Read the Full Story</span></a>
           </div>
         </div>
 
