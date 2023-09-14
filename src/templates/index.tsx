@@ -107,7 +107,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               <div>
 
                 <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem", marginTop: "5rem" }}>Murray Bubba Lawrence Jr.</h2>
-                <img style={{ borderTopRightRadius: "4px", borderTopLeftRadius: "4px" }} src={Lawrence} alt="Murray Bubba Lawrence Jr." />
+                <img className="profile-picture" src={Lawrence} alt="Murray Bubba Lawrence Jr." />
               </div>
               <div >
                 <ul style={{ listStyle: "none", fontSize: "1.75rem", textAlign: "center", margin: "2rem" }}>
@@ -213,6 +213,10 @@ export const pageQuery = graphql`
 
 const HomePosts = css`
   @media (min-width: 795px) {
+  .profile-picture {
+  border-top-right-radius:4px;
+  border-top-left-radius:4px;
+  }
     .post-card-large {
       flex: 1 1 100%;
       flex-direction: row;
@@ -350,6 +354,9 @@ width:275px;
 }
 
 @media (max-width: 795px) {
+.profile-picture {
+height:155px;
+}
   .introduction{flex-basis:99%;
    padding:.5em;
    margin:.5em;
