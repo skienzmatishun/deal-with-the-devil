@@ -223,7 +223,8 @@ const PostTemplate = css`
   .sponsor {
   display:none;
   }
-
+a {
+font-size:100%;
 `;
 
 export const PostFull = css`
