@@ -356,7 +356,7 @@ width:275px;
    margin-top:-100px
   }
   .address{flex-basis:100%;
-    margin-top:1em;
+    margin-top:-15px;
   }
 
 .button-row {
