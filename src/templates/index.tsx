@@ -316,7 +316,10 @@ padding:.5rem;
 
 .petition-button.white {
   background: white;
-  color: black;
+  color: #26a6ed;
+  border-width:1px;
+  border-style:solid;
+  border-color:#26a6ed;
 }
 
 .petition-button.blue {
