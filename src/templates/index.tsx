@@ -279,6 +279,13 @@ padding:.5rem;
   justify-content: center;
   align-items: center;
 }
+.contact-link { 
+position:absolute;
+top:10px;
+right:5px;
+font-size:1.2em;
+color:white;
+}
 
 .petition-button {
   padding: 1.2rem;
