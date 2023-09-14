@@ -192,7 +192,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
                 <PostFullImage>
                   <GatsbyImage
                     image={getImage(post.frontmatter.image)!}
-                    style={{ height: '100%' }}
+                    style={{ height: '82%' }}
                     alt={post.frontmatter.title} />
                 </PostFullImage>
               )}
@@ -312,6 +312,7 @@ const PostFullByline = styled.div`
     justify-content: flex-start;
     padding: 0 12px 0 0;
   }
+  
 
   .post-full-byline-meta {
     margin: 2px 0 0;
