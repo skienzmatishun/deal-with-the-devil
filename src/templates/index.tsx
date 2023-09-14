@@ -131,6 +131,9 @@ const IndexPage: React.FC<IndexProps> = props => {
               <h2 style={{ marginTop: "20px" }} >Mission Statement </h2>
               <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
 			  <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button red" >Read the Full Story</span></a>
+			  <a href="https://spot.fund/7p2k2se" style={{fontSize:"0.7em", textAlign: "center", margin: "2em", color: "white", fontWeight: "700", textDecoration: "underline"}} >
+			  Show your Support
+</a>
             </div>
           </div>
         </div>
