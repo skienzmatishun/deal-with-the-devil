@@ -21,8 +21,8 @@ export const Footer: React.FC = () => (
       <SiteFooterNav>
         <Link to="https://spot.fund/7p2k2se">Make a Donation</Link>
         {config.facebook && (
-          <a href={config.facebook} target="_blank" rel="noopener noreferrer">
-            Facebook
+          <a href="mailto:info@rippreport.com">
+            Contact
           </a>
         )}
         {config.twitter && (
