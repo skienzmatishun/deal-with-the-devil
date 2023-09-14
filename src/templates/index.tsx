@@ -319,6 +319,7 @@ padding:.5rem;
   padding:1rem;
     background:#00000025;
     text-align:center;
+	margin:auto;
     margin-top:-163px;
 } 
 .topics ul a {
