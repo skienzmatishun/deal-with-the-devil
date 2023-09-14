@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'David Whetstone'
-image: img/whetstone.png
+image: img/whetstone.jpg
 author: [Ripp]
 date: 2023-01-23T10:00:00.000Z
 tags:
