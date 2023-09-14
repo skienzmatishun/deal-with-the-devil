@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  William Earnest Kuenzel
-image: img/kuenzel.png
+image: img/kuenzel.jpg
 author: [Ripp]
 date: 2022-11-20T10:00:00.000Z
 tags:
