@@ -7,7 +7,7 @@ import { css } from '@emotion/react';
 export const SiteNavLogo = () => (
  
       <Link className="site-nav-logo" css={SiteNavLogoStyles} to="/">
-       <div style={height:"50px",width:"50px",marginTop:"-15px"}} className="deal-logo" />
+       <div className="deal-logo" />
       </Link>
  
 );
@@ -40,8 +40,9 @@ const SiteNavLogoStyles = css`
 background-repeat: no-repeat no-repeat;
 background-position: center center;
 background-size: contain;
-height:19px;
-width:26px;
+height:50px;
+width:50px;
+margin-top:-15px;
   }
 `;
 
