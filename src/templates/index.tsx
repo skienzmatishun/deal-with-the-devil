@@ -92,7 +92,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               </SiteTitle>
               <SiteDescription>{config.description}</SiteDescription>
             </SiteHeaderContent>
-			<div style={{ textAlign: "center", height: "35px" }}>
+			<div style={{ textAlign: "center", height: "35px", zIndex:"15", position:"relative" }}>
             <div className="button-row">
               <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
               <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
@@ -289,7 +289,6 @@ padding:.5rem;
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index:10;
 }
 
 .petition-button {
@@ -304,7 +303,6 @@ padding:.5rem;
   font-size: 1.8rem;
   cursor: pointer;
   margin:2px;
-  z-index:11;
 }
 .no-image {
   display:none;
