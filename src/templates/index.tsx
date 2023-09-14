@@ -358,10 +358,6 @@ width:275px;
   .address{flex-basis:100%;
     margin-top:1em;
   }
-  .topics {
-    width:100%;
-    margin-top:0px;
-  }
 
 .button-row {
   display: flex;
@@ -388,11 +384,6 @@ width:275px;
 
 .petition-button.red {
   background: #830000;
-}
-
-.petition-button.white {
-  background: white;
-  color: black;
 }
 
 .petition-button.blue {
