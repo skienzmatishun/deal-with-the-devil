@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jonathan Victor'
-image: img/victor.png
+image: img/victor.jpg
 author: [Ripp]
 date: 2023-01-13T10:00:00.000Z
 tags:
