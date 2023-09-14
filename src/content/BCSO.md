@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Baldwin County Sheriffs Office
-image: img/bcso.png
+image: img/bcso.jpg
 author: [Ripp]
 date: 2023-01-20T10:00:00.000Z
 tags:
