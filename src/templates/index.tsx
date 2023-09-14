@@ -314,6 +314,9 @@ padding:.5rem;
   border-color:#26a6ed;
   font-weight:600;
 }
+.post-card-primary-tag {
+  display:none;
+}
 
 .petition-button.blue {
   background: blue;
