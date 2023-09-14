@@ -26,8 +26,8 @@ export const Footer: React.FC = () => (
           </a>
         )}
         {config.twitter && (
-          <a href={config.twitter} target="_blank" rel="noopener noreferrer">
-            Twitter
+          <a href="mailto:info@rippreport.com">
+            Contact
           </a>
         )}
 
