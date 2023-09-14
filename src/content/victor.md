@@ -10,7 +10,7 @@ excerpt: In a wrongful death lawsuit against Baldwin County Sheriff Huey "Hoss" 
 
 ---
 
-## Related Articles
+# Related Articles
 
 [Justice For Jonathan Victor](https://www.facebook.com/JusticeForJonathanVictor/)
 
