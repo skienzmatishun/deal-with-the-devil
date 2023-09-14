@@ -136,6 +136,7 @@ const IndexPage: React.FC<IndexProps> = props => {
         </div>
 
         <main id="site-main" css={[SiteMain, outer]}>
+		<h2>Related Articles</h2>
           <div css={[inner, Posts]}>
             <div css={[PostFeed]}>
               {props.data.allMarkdownRemark.edges.map((post, index) =>
@@ -315,21 +316,6 @@ padding:.5rem;
   background: blue;
 }
 
-.topics {
-  border-radius:4px;
-  color:black;
-  margin-bottom:1rem;
-  padding:1rem;
-    background:#00000025;
-    text-align:center;
-	margin:auto;
-    margin-top:-163px;
-} 
-.topics ul a {
-  margin-left:.5em;
-  padding:1em;
-  color:black;
-}
 .introduction {
   font-size:2.3rem;
   flex-basis:60%;
