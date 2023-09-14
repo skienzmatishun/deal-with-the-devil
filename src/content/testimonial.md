@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truth
-image: img/thetruth.png
+image: img/thetruth.jpg
 author: [Ripp]
 date: 2023-02-20T10:00:00.000Z
 tags:
