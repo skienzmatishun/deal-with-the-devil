@@ -87,6 +87,7 @@ const IndexPage: React.FC<IndexProps> = props => {
           <div css={inner}>
             <SiteNav isHome />
             <SiteHeaderContent className="site-header-content">
+			<a class="contact-link" href="mailto:info@rippreport.com">Contact</a>
               <SiteTitle className="site-title">
                 <div className="deal-logo" />
               </SiteTitle>
