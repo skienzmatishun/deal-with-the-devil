@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joseph and Kevin Andrews, Dominic Scotti Garcia,Crystal Lee Moradie, Payton Leigh Northcut'
+title: 'Joseph and Kevin Andrews, Dominic Scotti Garcia, Crystal Lee Moradie, Payton Leigh Northcut'
 image: img/bcso-patrol.jpg
 author: [Ripp]
 date: 2022-09-30T07:03:47.149Z
