@@ -92,7 +92,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               </SiteTitle>
               <SiteDescription>{config.description}</SiteDescription>
             </SiteHeaderContent>
-			<div style={{ textAlign: "center", height: "35px", zIndex:"15", position:"relative" }}>
+			<div style={{ textAlign: "center", height: "35px", zIndex:"15", position:"relative", top:"-30px" }}>
             <div className="button-row">
               <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
               <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
