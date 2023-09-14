@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joseph and Kevin Andrews, Dominic Sscotti Garcia,Crystal Lee Moradie, Payton Leigh Northcut'
-image: img/bcso-patrol.png
+image: img/bcso-patrol.jpg
 author: [Ripp]
 date: 2022-09-30T07:03:47.149Z
 excerpt: An incident involving a Baldwin County sheriff's deputy pursuing a vehicle against traffic on Interstate 10 resulted in a high-speed collision, claiming the lives of five individuals. Questions are now being raised about whether the deputy violated policy during the pursuit.
