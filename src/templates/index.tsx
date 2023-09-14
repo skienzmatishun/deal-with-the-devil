@@ -355,7 +355,7 @@ width:275px;
 
 @media (max-width: 795px) {
 .profile-picture {
-height:155px;
+height:200px;
 }
   .introduction{flex-basis:99%;
    padding:.5em;
