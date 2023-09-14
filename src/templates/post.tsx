@@ -221,7 +221,10 @@ const PostTemplate = css`
     padding-bottom: 4vw;
   }
   .sponsor {
-    display:none;
+  display:none;
+  }
+a {
+font-size:100%;
 `;
 
 export const PostFull = css`

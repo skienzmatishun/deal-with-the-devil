@@ -92,7 +92,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               </SiteTitle>
               <SiteDescription>{config.description}</SiteDescription>
             </SiteHeaderContent>
-			<div style={{ textAlign: "center", height: "35px", zIndex:"15", position:"relative" }}>
+			<div style={{ textAlign: "center", height: "35px", zIndex:"15", position:"relative", top:"-30px" }}>
             <div className="button-row">
               <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
               <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
@@ -129,7 +129,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
               <h2 style={{ marginTop: "20px" }} >Mission Statement </h2>
               <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
-			  <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Read the Full Story</span></a>
+			  <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button red" >Read the Full Story</span></a>
             </div>
           </div>
         </div>
