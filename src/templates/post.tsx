@@ -135,6 +135,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
         <meta name="twitter:data1" content={post.frontmatter.author[0].name} />
         <meta name="twitter:label2" content="Filed under" />
 		 <script type="text/javascript" src="https://latest.cactus.chat/cactus.js" />
+		         <link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css" />
         {post.frontmatter.tags && <meta name="twitter:data2" content={post.frontmatter.tags[0]} />}
         {config.twitter && (
           <meta
