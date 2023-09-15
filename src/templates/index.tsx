@@ -86,8 +86,7 @@ const IndexPage: React.FC<IndexProps> = props => {
         >
           <div css={inner}>
             <SiteNav isHome />
-            <SiteHeaderContent className="site-header-content">
-			
+            <SiteHeaderContent className="site-header-content">			
               <SiteTitle className="site-title">
                 <div className="deal-logo" />
               </SiteTitle>

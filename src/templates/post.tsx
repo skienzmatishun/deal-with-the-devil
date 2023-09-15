@@ -16,7 +16,7 @@ import IndexLayout from '../layouts';
 import { colors } from '../styles/colors';
 import { inner, outer, SiteMain } from '../styles/shared';
 import config from '../website-config';
-
+import CactusComments from '../components/CactusComments';
 export interface Author {
   name: string;
   bio: string;
@@ -100,7 +100,6 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
       <Helmet>
         <html lang={config.lang} />
         <title>{post.frontmatter.title}</title>
-
         <meta name="description" content={post.frontmatter.excerpt || post.excerpt} />
         <meta property="og:site_name" content={config.title} />
         <meta property="og:type" content="article" />
@@ -152,9 +151,6 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
         {height && <meta property="og:image:height" content={height?.toString()} />}
       </Helmet>
       <Wrapper css={PostTemplate}>
-	  
-	  <script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
-<link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
         <header className="site-header">
           <div css={[outer, SiteNavMain]}>
             <div css={inner}>
@@ -163,7 +159,8 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
           </div>
         </header>
         <main id="site-main" className="site-main" css={[SiteMain, outer]}>
-          <div css={inner}>
+          
+		  <div css={inner}>
             {/* TODO: no-image css tag? */}
             <article css={[PostFull, !post.frontmatter.image && NoImage]}>
               <PostFullHeader className="post-full-header">
@@ -205,6 +202,8 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
             </article>
         
           </div>
+		  <h3>Comments</h3>
+		  <CactusComments />
         </main>
         <ReadNext
           currentPageSlug={location.pathname}
@@ -228,6 +227,14 @@ const PostTemplate = css`
   }
 a {
 font-size:100%;
+}
+.cactus-login-button {
+ display:none;
+}
+.cactus-container {
+  width: 600px;
+  max-width: 98%;
+  }
 `;
 
 export const PostFull = css`
