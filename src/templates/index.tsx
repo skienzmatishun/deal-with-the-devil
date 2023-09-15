@@ -86,14 +86,13 @@ const IndexPage: React.FC<IndexProps> = props => {
         >
           <div css={inner}>
             <SiteNav isHome />
-            <SiteHeaderContent className="site-header-content">
-			<a class="contact-link" href="mailto:info@rippreport.com">Contact</a>
+            <SiteHeaderContent className="site-header-content">			
               <SiteTitle className="site-title">
                 <div className="deal-logo" />
               </SiteTitle>
               <SiteDescription>{config.description}</SiteDescription>
             </SiteHeaderContent>
-			<div style={{ textAlign: "center", height: "35px", zIndex:"15", position:"relative", top:"-30px" }}>
+			<div style={{ textAlign: "center", height: "35px", zIndex:"15", position:"relative", top:"-20px" }}>
             <div className="button-row">
               <a href="https://spot.fund/7p2k2se"> <span className="petition-button red" >Donate</span></a>
               <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button white" >Full Story</span></a>
@@ -131,11 +130,15 @@ const IndexPage: React.FC<IndexProps> = props => {
               <h2 style={{ marginTop: "20px" }} >Mission Statement </h2>
               <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
 			  <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button red" >Read the Full Story</span></a>
+			  <a href="https://spot.fund/7p2k2se" style={{fontSize:"0.7em", textAlign: "center", margin: "2em", color: "white", fontWeight: "700", textDecoration: "underline"}} >
+			  Show your Support
+</a>
             </div>
           </div>
         </div>
 
         <main id="site-main" css={[SiteMain, outer]}>
+		<h2 style={{textAlign:"center", fontSize:"2.3em", margin:"1.5em"}}>Related Articles</h2>
           <div css={[inner, Posts]}>
             <div css={[PostFeed]}>
               {props.data.allMarkdownRemark.edges.map((post, index) =>
@@ -279,13 +282,6 @@ padding:.5rem;
   justify-content: center;
   align-items: center;
 }
-.contact-link { 
-position:absolute;
-top:10px;
-right:5px;
-font-size:1.2em;
-color:white;
-}
 
 .petition-button {
   padding: 1.2rem;
@@ -311,32 +307,20 @@ color:white;
 
 .petition-button.white {
   background: white;
-  color: #258ec8;
-  border-width:1px;
+  color: #1f7eb3;
+  border-width:3px;
   border-style:solid;
   border-color:#26a6ed;
   font-weight:600;
+}
+.post-card-primary-tag {
+  display:none;
 }
 
 .petition-button.blue {
   background: blue;
 }
 
-.topics {
-  border-radius:4px;
-  color:black;
-  margin-bottom:1rem;
-  padding:1rem;
-    background:#00000025;
-    text-align:center;
-	margin:auto;
-    margin-top:-163px;
-} 
-.topics ul a {
-  margin-left:.5em;
-  padding:1em;
-  color:black;
-}
 .introduction {
   font-size:2.3rem;
   flex-basis:60%;
@@ -368,7 +352,7 @@ height:200px;
   .introduction{flex-basis:99%;
    padding:.5em;
    margin:.5em;
-   margin-top:-345px
+   margin-top:-335px
   }
   .address{flex-basis:100%;
     margin-top:-15px;
