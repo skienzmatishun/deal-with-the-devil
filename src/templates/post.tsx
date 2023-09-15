@@ -228,25 +228,57 @@ const PostTemplate = css`
 a {
 font-size:100%;
 }
-.cactus-container {
-padding: 10px;
-max-width: 95%;
+.cactus-editor-below {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
-.cactus-editor-textarea {
-  height: 400px;
-  width: 95%;
-  color: black;
-  margin: .5em;
+
+.cactus-editor-name {
+  flex: 1;
+  margin-right: 8px;
+}
+
+.cactus-editor-name input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.cactus-editor-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.cactus-button {
+  padding: 8px 16px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
 .cactus-login-button {
-display:none;
+  background-color: #007bff;
+  color: #fff;
+  margin-bottom: 8px;
 }
 
 .cactus-send-button {
-  background: #830000;
+  background-color: #28a745;
+  color: #fff;
 }
 
+.cactus-send-button[disabled] {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
 `;
 
 export const PostFull = css`
