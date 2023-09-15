@@ -31,11 +31,6 @@ export const Footer: React.FC = () => (
           </a>
         )}
 
-<<<<<<< HEAD
-=======
-
-        Sponsor:<a href="https://rippreport.com">Rippreport.com</a>
->>>>>>> preview
       </SiteFooterNav>
     </div>
   </footer>
