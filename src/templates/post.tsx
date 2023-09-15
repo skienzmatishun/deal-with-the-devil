@@ -16,7 +16,7 @@ import IndexLayout from '../layouts';
 import { colors } from '../styles/colors';
 import { inner, outer, SiteMain } from '../styles/shared';
 import config from '../website-config';
-
+import CactusComments from '../components/CactusComments';
 export interface Author {
   name: string;
   bio: string;
@@ -203,6 +203,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
             </article>
         
           </div>
+		  <CactusComments />
         </main>
         <ReadNext
           currentPageSlug={location.pathname}
