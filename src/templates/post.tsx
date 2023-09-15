@@ -152,6 +152,9 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
         {height && <meta property="og:image:height" content={height?.toString()} />}
       </Helmet>
       <Wrapper css={PostTemplate}>
+	  
+	  <script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+<link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
         <header className="site-header">
           <div css={[outer, SiteNavMain]}>
             <div css={inner}>
@@ -192,7 +195,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
                 <PostFullImage>
                   <GatsbyImage
                     image={getImage(post.frontmatter.image)!}
-                    style={{ height: '100%' }}
+                    style={{ height: '78%' }}
                     alt={post.frontmatter.title} />
                 </PostFullImage>
               )}
@@ -312,6 +315,7 @@ const PostFullByline = styled.div`
     justify-content: flex-start;
     padding: 0 12px 0 0;
   }
+  
 
   .post-full-byline-meta {
     margin: 2px 0 0;
