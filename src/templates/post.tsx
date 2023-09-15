@@ -231,6 +231,10 @@ font-size:100%;
 .cactus-login-button {
  display:none;
 }
+.cactus-container {
+  width: 600px;
+  max-width: 98%;
+  }
 `;
 
 export const PostFull = css`
