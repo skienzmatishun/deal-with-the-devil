@@ -100,15 +100,14 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
       <Helmet>
         <html lang={config.lang} />
         <title>{post.frontmatter.title}</title>
-
+<script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+<link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
         <meta name="description" content={post.frontmatter.excerpt || post.excerpt} />
         <meta property="og:site_name" content={config.title} />
         <meta property="og:type" content="article" />
         <meta property="og:title" content={post.frontmatter.title} />
         <meta property="og:description" content={post.frontmatter.excerpt || post.excerpt} />
         <meta property="og:url" content={config.siteUrl + location.pathname} />
-		<script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
-<link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
         {post.frontmatter.image && (
           <meta
             property="og:image"
