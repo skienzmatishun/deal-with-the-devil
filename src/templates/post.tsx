@@ -152,6 +152,9 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
         {height && <meta property="og:image:height" content={height?.toString()} />}
       </Helmet>
       <Wrapper css={PostTemplate}>
+	  
+	  <script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+<link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
         <header className="site-header">
           <div css={[outer, SiteNavMain]}>
             <div css={inner}>
