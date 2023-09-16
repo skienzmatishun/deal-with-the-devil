@@ -407,7 +407,7 @@ height:200px;
     .topics ul a {
       color:white;
     }
-    .show-support-link {
+    .show-support-link a{
 	color:white;
 	}
 
