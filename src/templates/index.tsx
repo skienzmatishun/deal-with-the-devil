@@ -270,7 +270,7 @@ const HomePosts = css`
   display:none;
   }
   
-  .show-support-link a{
+  .show-support-link{
   font-size:0.7em;
   text-align:center;
   margin: 2em;
@@ -407,7 +407,7 @@ height:200px;
     .topics ul a {
       color:white;
     }
-    .show-support-link a{
+    .show-support-link {
 	color:white;
 	}
 
