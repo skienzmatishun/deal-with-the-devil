@@ -361,9 +361,6 @@ width:275px;
 .profile-picture {
 height:250px;
 }
-.show-support-link {
-margin-left:75px;
-}
   .introduction{
   flex-basis:99%;
    padding:.15em;
