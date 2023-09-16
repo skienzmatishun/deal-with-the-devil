@@ -201,7 +201,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
              
             </article>
         
-<h3 syle={{textAlign:"center"}}>Comments</h3>
+
 <CactusComments />
           </div>
 		  
