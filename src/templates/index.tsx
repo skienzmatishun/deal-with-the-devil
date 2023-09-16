@@ -110,7 +110,7 @@ const IndexPage: React.FC<IndexProps> = props => {
                 <img className="profile-picture" src={Lawrence} alt="Murray Bubba Lawrence Jr." />
               </div>
               <div >
-                <ul style={{ listStyle: "none", fontSize: "1.75rem", textAlign: "center", margin: "2rem" }}>
+                <ul style={{ listStyle: "none", fontSize: "1.75rem", textAlign: "justify", margin: "2rem" }}>
 
                   <li style={{ margin: "0", padding: "0" }}>AIS# 00241380</li>
                   <li style={{ margin: "0", padding: "0" }}>William C Holman</li>
