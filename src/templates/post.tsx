@@ -236,10 +236,6 @@ font-size:100%;
   display:block;
   margin:auto;
   }
-  .comment-section {
-  display:block;
-  margin:auto;
-  }
 `;
 
 export const PostFull = css`
