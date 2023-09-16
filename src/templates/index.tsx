@@ -364,7 +364,7 @@ height:250px;
   flex-basis:99%;
    padding:.15em;
    margin:.15em;
-   margin-top:-220px;
+   margin-top:-200px;
    min-width:265px;
   }
   .address{flex-basis:100%;
