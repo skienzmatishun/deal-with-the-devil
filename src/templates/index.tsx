@@ -356,6 +356,11 @@ background-size: contain;
 height:200px;
 width:275px;
 }
+.post-card-excerpt span {
+text-decoration:underline;
+font-weight:600;
+}
+
 
 @media (max-width: 795px) {
 .profile-picture {
