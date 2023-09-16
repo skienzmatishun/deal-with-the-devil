@@ -121,7 +121,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               </div>
             </div>
             <div className="introduction">
-              <p style={{ fontSize: "4rem", marginBottom: "2rem", marginTop: "5rem" }}>Ask yourself—</p>
+              <p style={{ fontSize: "4rem", marginBottom: "2rem" }}>Ask yourself—</p>
               <p> How can someone be convicted of murder, based entirely on testimony of a single person who is bargaining on a reduced sentence?</p>
               <p>No blood, no DNA, no witnesses?</p>
               <p>5 alibi witnesses, no fingerprints, no fiber, no weapon, no ballistics— no justice.</p>
@@ -360,7 +360,8 @@ width:275px;
 .profile-picture {
 height:250px;
 }
-  .introduction{flex-basis:99%;
+  .introduction{
+  flex-basis:99%;
    padding:.5em;
    margin:.5em;
    margin-top:-335px
