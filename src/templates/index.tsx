@@ -337,7 +337,6 @@ padding:.5rem;
   flex-basis:60%;
   margin:auto; 
   padding:.5rem;
-  margin-top:-15px;
 }
 .topContainer {
   background:#00000025;
