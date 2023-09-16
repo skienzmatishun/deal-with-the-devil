@@ -129,9 +129,11 @@ const IndexPage: React.FC<IndexProps> = props => {
               <p>No timeline, two medical examiner reports that dispute state's cause of death.</p>
               <h2 style={{ marginTop: "20px" }} >Mission Statement </h2>
               <p>The release of wrongfully convicted Murray "Bubba" Lawrence Jr.</p>
+<div className="intro-buttons">
 			  <a href="https://deal-with-the-devil.com/full-story/"> <span className="petition-button red" >Read the Full Story</span></a>
 			  <a className="show-support-link" href="https://spot.fund/7p2k2se">Show your Support
 </a>
+</div>
             </div>
           </div>
         </div>
@@ -359,6 +361,9 @@ width:275px;
 .profile-picture {
 height:250px;
 }
+.show-support-link {
+margin-left:75px;
+}
   .introduction{
   flex-basis:99%;
    padding:.15em;
@@ -369,7 +374,9 @@ height:250px;
   .address{flex-basis:100%;
     margin-top:-15px;
   }
-
+.intro-buttons {
+margin-left:42px;
+}
 .button-row {
   display: flex;
   flex-flow:column nowrap;
