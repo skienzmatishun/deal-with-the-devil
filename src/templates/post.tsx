@@ -202,7 +202,6 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
             </article>
         
           </div>
-		  <h3>Comments</h3>
 		  <CactusComments />
         </main>
         <ReadNext
@@ -234,6 +233,10 @@ font-size:100%;
 .cactus-container {
   width: 600px;
   max-width: 98%;
+  display:block;
+  margin:auto;
+  }
+  .comment-section {
   display:block;
   margin:auto;
   }

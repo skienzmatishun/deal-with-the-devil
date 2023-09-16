@@ -12,6 +12,7 @@ const CactusComments = () => {
   }, []);
 
   return (
+<h3 syle={{textAlign:"center"}}></h3>
     <div id="comment-section"></div>
   );
 };
