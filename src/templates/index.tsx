@@ -270,7 +270,7 @@ const HomePosts = css`
   display:none;
   }
   
-  .show-support-link{
+  .show-support-link a{
   font-size:0.7em;
   text-align:center;
   margin: 2em;
