@@ -63,7 +63,7 @@ export const PostCard: React.FC<PostCardProps> = ({ post, large = false }) => {
           </PostCardHeader>
           <PostCardExcerpt className="post-card-excerpt">
             <p>{post.frontmatter.excerpt || post.excerpt}</p>
-			<p style={{textDecoration:"underline" fontWeight:"600"}}>Read More</p>
+			<p>Read More</p>
           </PostCardExcerpt>
         </Link>
         <PostCardMeta className="post-card-meta">
