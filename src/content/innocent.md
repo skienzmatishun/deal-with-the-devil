@@ -55,31 +55,23 @@ This case is a travesty of justice, an example of inept police investigation acc
 
 This page will carry posts, podcasts, a petition and articles relative to this case as well as related articles of injustice.
 
-
-We are not asking for donations.
-
-
 We are asking for support for Mr. Lawrence who has spent 18 years incarcerated for a crime he did not commit. Please feel free to comment, share, write Mr. Lawrence, or give a personal testimony if you are a friend or relative of Mr. Lawrence.
 
-
-The Facebook blog is: https://www.facebook.com/dealwiththedevilblog
-
+[Our Facebook Page](https://www.facebook.com/dealwiththedevilblog)
 
 The case will also be discussed on the podcast:
 
+[Backstory Podcast](https://www.facebook.com/BackstoryPodcast)
 
-https://www.facebook.com/BackstoryPodcast
 
+We are researching several potential producers that may be interested in a documentary of the case. Our website is:
 
-We are researching several potential producers that may be interested in a documentary of the case. Our . Com site is:
-
-https://deal-with-the-devil.com/
+[deal-with-the-devil.com](https://deal-with-the-devil.com/)
 
 
 Please sign the petition, 100% of the money donated on the petition page goes towards promoting the petition:
 
-
-https://www.change.org/p/free-wrongfully-convicted-murray-bubba-lawrence
+[Free Wrongfully Convicted Murray Bubba Lawrence JR](https://www.change.org/p/free-wrongfully-convicted-murray-bubba-lawrence)
 
 You can read the entire transcript we welcome comments:
 

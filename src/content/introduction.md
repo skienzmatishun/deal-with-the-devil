@@ -40,9 +40,7 @@ Establishing a timeline before and after the crime is the most basic of basic pr
 The “investigation” produced no fingerprints, no weapon, no ballistics, no blood, no fiber, no DNA, no timeline, no witness to the crime, only the testimony of the McNeal. The murderer, was threatened with the death penalty.
 
 
-> A felony conviction cannot be had on the testimony of an accomplice unless corroborated by other evidence tending 
-> to connect the defendant with the commission of the offense, and such corroborative evidence, if it merely shows 
-> the commission of the offense or the circumstances there of is not sufficient
+> A felony conviction cannot be had on the testimony of an accomplice unless corroborated by other evidence tending to connect the defendant with the commission of the offense, and such corroborative evidence, if it merely shows the commission of the offense or the circumstances there of is not sufficient
 
 
 The transcript timeline also proves that it would be impossible for Mr. Lawrence Jr. to drive the necessary time to the scene of the murder and the disposal site of the body. Had the “investigators” or prosecution done the most basic timeline they would have known it was impossible for Mr. Lawrence Jr. to drive the distance necessary, while 5 different people testified they saw him in the same time period, at his home.
