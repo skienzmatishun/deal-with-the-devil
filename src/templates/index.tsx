@@ -362,9 +362,9 @@ height:250px;
 }
   .introduction{
   flex-basis:99%;
-   padding:.5em;
-   margin:.5em;
-   margin-top:-335px
+   padding:.15em;
+   margin:.15em;
+   margin-top:-255px
   }
   .address{flex-basis:100%;
     margin-top:-15px;
