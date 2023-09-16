@@ -106,7 +106,7 @@ const IndexPage: React.FC<IndexProps> = props => {
             <div className="address">
               <div>
 
-                <h2 style={{ textAlign: "center", fontSize: "2rem", margin: "2rem", marginTop: "5rem" }}>Murray Bubba Lawrence Jr.</h2>
+                <h2 style={{ textAlign: "center", fontSize: "2.2rem", margin: "2rem", marginTop: "5rem" }}>Murray Bubba Lawrence Jr.</h2>
                 <img className="profile-picture" src={Lawrence} alt="Murray Bubba Lawrence Jr." />
               </div>
               <div >
