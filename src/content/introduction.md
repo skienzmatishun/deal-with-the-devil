@@ -61,7 +61,7 @@ Please feel free to comment, share, write Mr. Lawrence, or give a personal testi
 
 The facebook page will be under the same title, the podcast is:
 
-https://www.facebook.com/BackstoryPodcast
+[Backstory Podcast Facebook Page](https://www.facebook.com/BackstoryPodcast)
 
 
 We are researching several potential producers that may be interested in a documentary of the case.
