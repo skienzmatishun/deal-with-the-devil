@@ -357,6 +357,14 @@ height:200px;
 width:275px;
 }
 .post-card-excerpt span {
+text-decoration:underline;
+font-weight:600;
+
+}
+
+
+@media (max-width: 795px) {
+.post-card-exerpt span {
   background: #830000;
 font-weight:600;
   padding: 1.2rem;
@@ -370,11 +378,8 @@ font-weight:600;
   font-size: 1.8rem;
   cursor: pointer;
   margin:2px;
-  
+  text-decoration:none;
 }
-
-
-@media (max-width: 795px) {
 .profile-picture {
 height:250px;
 }
