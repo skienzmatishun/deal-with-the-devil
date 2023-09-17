@@ -357,8 +357,20 @@ height:200px;
 width:275px;
 }
 .post-card-excerpt span {
-text-decoration:underline;
+  background: #830000;
 font-weight:600;
+  padding: 1.2rem;
+  color: white;
+  height: 40px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  font-size: 1.8rem;
+  cursor: pointer;
+  margin:2px;
+  
 }
 
 
