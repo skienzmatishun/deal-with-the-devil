@@ -366,7 +366,7 @@ font-weight:600;
 @media (max-width: 795px) {
 .post-card-exerpt span {
   background: #830000;
-font-weight:600;
+font-weight:300;
   padding: 1.2rem;
   color: white;
   height: 40px;
