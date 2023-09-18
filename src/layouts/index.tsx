@@ -16,7 +16,6 @@ function IndexLayout(props: IndexProps) {
     <div className={props.className}>
       <Helmet>
         <link rel="icon" href={favicon} type="image/x-icon" />
-		 <script type="text/javascript" src="https://latest.cactus.chat/cactus.js" />
 		<link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css" />
       </Helmet>
       <Global
