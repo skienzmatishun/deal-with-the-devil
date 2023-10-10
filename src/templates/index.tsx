@@ -134,8 +134,9 @@ const IndexPage: React.FC<IndexProps> = props => {
 			  <a className="show-support-link" href="https://spot.fund/7p2k2se">Show your Support
 </a>
 </div>
-<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v3kukqp/?pub=4" frameborder="0" allowfullscreen></iframe>
             </div>
+			<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v3kukqp/?pub=4" frameborder="0" allowfullscreen></iframe>
+
           </div>
         </div>
 
