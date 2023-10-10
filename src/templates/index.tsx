@@ -135,9 +135,9 @@ const IndexPage: React.FC<IndexProps> = props => {
 </a>
 </div>
             </div>
-			<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/v3kukqp/?pub=4" frameborder="0" allowfullscreen></iframe>
-
           </div>
+			<iframe style="margin:auto;" class="rumble" width="640" height="360" src="https://rumble.com/embed/v3kukqp/?pub=4" frameborder="0" allowfullscreen></iframe>
+
         </div>
 
         <main id="site-main" css={[SiteMain, outer]}>
