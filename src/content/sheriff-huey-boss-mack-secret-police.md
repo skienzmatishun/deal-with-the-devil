@@ -6,8 +6,7 @@ image: "img/sheriff-huey-boss-secret-police.jpg"
 author: [Ripp]
 tags:
   - Baldwin County
-excerpt: Ever notice how local politicians start talking about national issues when they are trying to dodge tough questions? Scream immigrants and you can get away with murder.
-
+excerpt: Ever notice how local politicians start talking about national issues when they are trying to dodge tough questions? 
 ---
 
 
