@@ -155,19 +155,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               )}
             </div>
           </div>
-		  <div css={[PostFeed]}>
-		  {props.data.allMarkdownRemark.edges.map((post, index) =>
-              // filter out drafts in production
-              (
-                (post.node.frontmatter.draft !== true
-                  || process.env.NODE_ENV !== 'production') && (
-                  <PostCard key={post.node.fields.slug} post={post.node} large={index === 0} />
-                )
-              ),
-              )}
-        </div>
-		</div>
-		</main>
+		          </main>
         {props.children}
         {props.pageContext.numPages > 1 && (
           <Pagination
