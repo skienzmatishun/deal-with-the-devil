@@ -38,5 +38,3 @@ The local Baldwin County press and Alabama independent internet journalists site
 Stay tuned for legal updates:
 
 “The new evidence was 'suppressed willfully rather than inadvertently' and was never divulged to the defense of Murray Lawrence.”
-
-{{< chat rule32 >}}
