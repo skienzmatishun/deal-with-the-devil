@@ -2,7 +2,7 @@
 layout: post
 title: "Baldwin County Judicial Corruption"
 date: 2023-12-07
-image: "baldwin-county-judicial-corruption.jpg"
+image: "img/baldwin-county-judicial-corruption.jpg"
 author: [Ripp]
 tags:
   - Baldwin County

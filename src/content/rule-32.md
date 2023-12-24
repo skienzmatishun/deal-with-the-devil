@@ -2,7 +2,7 @@
 layout: post
 title: "RULE 32"
 date: 2023-12-14
-image: "rule-32.jpg"
+image: "img/rule-32.jpg"
 author: [Ripp]
 tags:
   - Baldwin County
