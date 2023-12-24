@@ -1,13 +1,13 @@
 ---
+layout: post
 title: "RULE 32"
 date: 2023-12-14
-thumbnail: "img/rule-32.jpg"
-categories: 
-  - thursday-thunder
-authors: 
-  - admin
+image: "rule-32.jpg"
+author: [Ripp]
+tags:
+  - Baldwin County
+excerpt: The wrongful conviction of Murray Lawrence has cost him over 7500 days in Jail. The Ripp Report is happy to announce that we are a step closer to Mr. Lawrence proving his innocence. A Rule 32 has been filed on his behalf.
 ---
-
 The wrongful conviction of Murray Lawrence has cost him over 7500 days in Jail. The Ripp Report is happy to announce that we are a step closer to Mr. Lawrence proving his innocence. A Rule 32 has been filed on his behalf.
 
 

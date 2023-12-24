@@ -2,7 +2,8 @@
 layout: post
 title: "Baldwin County Judicial Corruption"
 date: 2023-12-07
-image: "img/baldwin-county-judicial-corruption.jpg"
+image: "baldwin-county-judicial-corruption.jpg"
+author: [Ripp]
 tags:
   - Baldwin County
 excerpt: The Baldwin County Sheriffs office has consistently, for 20 years, had criminal cases and loss of life cases, questioned by citizens. The sheriffs office uses its “internal” Major Crimes Division to gloss over all complaints. Sheriff deputies are never found to have been responsible, EVER. No accountability and no transparency. Hoss Mack promised the County Commission that body and car cameras, $600,000.00 worth, were for the public as well as the police. The same Sheriff either does not release any camera footage or releases edited footage.
