@@ -19,6 +19,7 @@ A “Rule 32 petition” is a petition that people can file to challenge their c
 <a href="https://rippreport.com/p/rule-32/rule-32.pdf">Read Full Document</a>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/5VBY7bPZG8">https://t.co/5VBY7bPZG8</a><br>Criminal rights advocates have unearthed a second autopsy of a 2003 murder that was never revealed during the trial of Murray “Bubba” Lawrence Jr., who was convicted and sentenced to life in prison without parole.</p>&mdash; RIPP REPORT (@RIPPREPORT) <a href="https://twitter.com/RIPPREPORT/status/1709620938478600420?ref_src=twsrc%5Etfw">October 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 During the trial, Mack explained his involvement in more detail. 
 
