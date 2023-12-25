@@ -6,7 +6,8 @@ image: "img/sheriff-huey-boss-secret-police.jpg"
 author: [Ripp]
 tags:
   - Baldwin County
-excerpt: Ever notice how local politicians start talking about national issues when they are trying to dodge tough questions? 
+excerpt: The allegations, deaths and incarceration of an innocent man, combined with the ultimate power of the Sheriff, should be the concern of every citizen in Baldwin County.
+
 ---
 
 
