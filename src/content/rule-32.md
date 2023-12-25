@@ -24,8 +24,6 @@ During the trial, Mack explained his involvement in more detail.
 
 > Primarily in this case at the first part of the case, (I) served as the coordinator for the sheriff's department coordinating our resources and our assistance with the Foley Police Department. Later in the case, I became more involved when I was asked to process certain items for fingerprints, to document a couple of areas of interest that were evaluated and ultimately conducting an interview with Jarius McNeil
 
-he testified. 
-
 Hoss the Boss was the “LEAD INVESTIGATOR”
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTheRippReport%2Fposts%2Fpfbid02ubwoD39NLpGeKiikkL5Zkp3JuodXzCuxg3ryRvGK24ui2Js3D8wDzw49EG5GiTQVl&show_text=true&width=500" width="500" height="755" style="height:755px;border:none;overflow:hidden;max-width:99%;display:block;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
