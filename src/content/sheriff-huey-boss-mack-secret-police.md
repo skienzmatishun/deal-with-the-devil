@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SHERIFF HUEY “BOSS” MACK - SECRET POLICE"
+title: "Sheriff Huey “BOSS” Mack - Secret Police"
 date: 2023-12-07
 image: "img/sheriff-huey-boss-secret-police.jpg"
 author: [Ripp]
