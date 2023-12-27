@@ -85,14 +85,18 @@ export interface PageContext {
   };
 }
 
-
 const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
   const post = data.markdownRemark;
   let width: number | undefined;
   let height: number | undefined;
+  const imageUrl = post.frontmatter.image
+    ? `${config.siteUrl}${getSrc(post.frontmatter.image)}`
+    : undefined;
+
   if (post.frontmatter.image) {
-    width = getImage(post.frontmatter.image)?.width;
-    height = getImage(post.frontmatter.image)?.height;
+    const image = getImage(post.frontmatter.image);
+    width = image?.width;
+    height = image?.height;
   }
 
   return (
@@ -106,12 +110,13 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
         <meta property="og:title" content={post.frontmatter.title} />
         <meta property="og:description" content={post.frontmatter.excerpt || post.excerpt} />
         <meta property="og:url" content={config.siteUrl + location.pathname} />
-		
-        {post.frontmatter.image && (
-          <meta
-            property="og:image"
-            content={`${config.siteUrl}${getSrc(post.frontmatter.image)}`}
-          />
+ {imageUrl && (
+          <>
+            <meta property="og:image" content={imageUrl} />
+            {width && <meta property="og:image:width" content={width.toString()} />}
+            {height && <meta property="og:image:height" content={height.toString()} />}
+            <meta name="twitter:image" content={imageUrl} />
+          </>
         )}
         <meta property="article:published_time" content={post.frontmatter.date} />
         {/* not sure if modified time possible */}
