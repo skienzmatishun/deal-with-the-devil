@@ -106,6 +106,7 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
         <meta property="og:title" content={post.frontmatter.title} />
         <meta property="og:description" content={post.frontmatter.excerpt || post.excerpt} />
         <meta property="og:url" content={config.siteUrl + location.pathname} />
+		
         {post.frontmatter.image && (
           <meta
             property="og:image"
@@ -130,6 +131,18 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
             name="twitter:image"
             content={`${config.siteUrl}${getSrc(post.frontmatter.image)}`}
           />
+        )}
+		       {post.frontmatter.image && (
+          <>
+            <meta
+              property="og:image"
+              content={`${config.siteUrl}${getSrc(post.frontmatter.image)}`}
+            />
+            <meta
+              name="twitter:image"
+              content={`${config.siteUrl}${getSrc(post.frontmatter.image)}`}
+            />
+          </>
         )}
         <meta name="twitter:label1" content="Written by" />
         <meta name="twitter:data1" content={post.frontmatter.author[0].name} />
