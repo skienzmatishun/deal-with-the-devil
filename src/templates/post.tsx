@@ -107,10 +107,10 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
         <meta property="og:description" content={post.frontmatter.excerpt || post.excerpt} />
         <meta property="og:url" content={config.siteUrl + location.pathname} />
         {post.frontmatter.image && (
-          <meta
-            property="og:image"
-            content={`${config.siteUrl}${getSrc(post.frontmatter.image)}`}
-          />
+ <meta
+    name="twitter:image"
+    content={`${config.siteUrl}${getSrc(post.frontmatter.image)}`}  {/* Corrected URL */}
+  />
         )}
         <meta property="article:published_time" content={post.frontmatter.date} />
         {/* not sure if modified time possible */}
