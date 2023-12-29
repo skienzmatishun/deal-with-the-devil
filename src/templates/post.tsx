@@ -107,10 +107,10 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
         <meta property="og:description" content={post.frontmatter.excerpt || post.excerpt} />
         <meta property="og:url" content={config.siteUrl + location.pathname} />
         {post.frontmatter.image && (
- <meta
-    name="twitter:image"
-    content={`${config.siteUrl}${getSrc(post.frontmatter.image)}`}  {/* Corrected URL */}
-  />
+          <meta
+            property="og:image"
+            content={`${config.siteUrl}${getSrc(post.frontmatter.image)}`}
+          />
         )}
         <meta property="article:published_time" content={post.frontmatter.date} />
         {/* not sure if modified time possible */}
@@ -125,12 +125,6 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
         <meta name="twitter:title" content={post.frontmatter.title} />
         <meta name="twitter:description" content={post.frontmatter.excerpt || post.excerpt} />
         <meta name="twitter:url" content={config.siteUrl + location.pathname} />
-        {post.frontmatter.image && (
-          <meta
-            name="twitter:image"
-            content={`${config.siteUrl}}`}
-          />
-        )}
         <meta name="twitter:label1" content="Written by" />
         <meta name="twitter:data1" content={post.frontmatter.author[0].name} />
         <meta name="twitter:label2" content="Filed under" />
