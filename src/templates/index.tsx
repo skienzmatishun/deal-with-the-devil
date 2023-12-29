@@ -26,6 +26,7 @@ import {
 import config from '../website-config';
 import { PageContext } from './post';
 import Lawrence from '../content/img/lawrence.jpg';
+import RumbleVideo from '../components/RumbleVideo';
 export interface IndexProps {
   pageContext: {
     currentPage: number;
@@ -136,8 +137,7 @@ const IndexPage: React.FC<IndexProps> = props => {
 </div>
             </div>
           </div>
-			<iframe loading="lazy" style={{ display:"inherit", margin: "auto", marginTop: "60px", maxWidth:"100%" }} className="rumble" width="640" height="360" src="https://rumble.com/embed/v3kukqp/?pub=4" frameborder="0" allowfullscreen></iframe>
-
+		  <RumbleVideo />
         </div>
 
         <main id="site-main" css={[SiteMain, outer]}>
