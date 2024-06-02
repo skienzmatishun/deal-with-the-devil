@@ -88,30 +88,6 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
           <SiteNavLeft className="site-nav-left">
             {!isHome && <SiteNavLogo />}
             <SiteNavContent css={[this.state.showTitle ? HideNav : '']}>
-              <p className="sponsor">Sponsor: <a href="https://rippreport.com">RIPPREPORT.COM</a></p>
-			  <ul style={{marginTop:"-26px"}} css={NavStyles} role="menu">
-                <li style={{marginLeft:"11px"}} role="menuitem">
-                    Advocates:
-                </li>
-				                <li style={{marginLeft:"10px"}} role="menuitem">
-                  
-                    Paul Ripp
-                 
-                </li>
-
-                <li style={{marginLeft:"10px"}} role="menuitem">
-                  
-                    Nancy Koerner
-                  
-                </li>
-				    <li style={{marginLeft:"10px"}} role="menuitem">
-                  
-                    Harry Still
-                  
-                </li>
-
-
-              </ul>
               {isPost && (
                 <NavPostTitle ref={this.titleRef} className="nav-post-title">
                   {post.title}
