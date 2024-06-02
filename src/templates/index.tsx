@@ -137,7 +137,6 @@ const IndexPage: React.FC<IndexProps> = props => {
 </div>
             </div>
           </div>
-		  <RumbleVideo />
         </div>
 
         <main id="site-main" css={[SiteMain, outer]}>
