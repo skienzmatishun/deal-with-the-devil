@@ -7,6 +7,7 @@ import { css } from '@emotion/react';
 import { colors } from '../styles/colors';
 import { outer, inner } from '../styles/shared';
 import config from '../website-config';
+
 export const Footer: React.FC = () => (
   <footer css={[outer, SiteFooter]}>
     <div css={[inner, SiteFooterContent]}>
@@ -25,12 +26,7 @@ export const Footer: React.FC = () => (
             Contact
           </a>
         )}
-        {config.twitter && (
-          <a href="https://rippreport.com" target="_blank" rel="noopener noreferrer">
-            
-          </a>
-        )}
-
+        {/* Removed the link for Rippreport.com */}
       </SiteFooterNav>
     </div>
   </footer>
