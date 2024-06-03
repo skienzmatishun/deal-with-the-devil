@@ -26,7 +26,9 @@ export const Footer: React.FC = () => (
           </a>
         )}
         {config.twitter && (
-
+          <a href="https://rippreport.com" target="_blank" rel="noopener noreferrer">
+            
+          </a>
         )}
 
       </SiteFooterNav>
